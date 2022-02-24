@@ -1,125 +1,128 @@
 {
-	"ro": {
-		"NAV_MENU": {
-			"PRODUCT": "Produse",
-			"CONTACT": "Contact",
-			"CARIERS": "Cariere",
-			"LANGUAGE": "Selecteaza limba",
-		}
-		"HOME_MAIN": {
-			"TITEL_HERO_PRYMARY": "Online Banking în doar 6 luni",
-			"SUBTITLE_HERO_PRYMARY": "Proiectele noastre de Internet & Mobile Banking au durat intre 3 si 9 luni independentă de integrarea cu sistemele băncii.",
-			"BUTTON_HERO_PRYMARY": "Vezi produsele noastre",
-			"TITEL_HERO_SECONDARY": "Online Banking este cu adevărat 24/7 ?",
-			"SUBTITLE_HERO_SECONDARY": "Solutia noastră True Balance permite clienților să primească bani chiar si in timpul închiderii de zi (EOD).",
-			"BUTTON_HERO_SECONDARY": "Citeste mai multe",
-		},
-		"SECTION_TIME_LINE": {
-			"TITLE_2022": "Proiecte in derulare cu livrare in 2022",
-			"TITLE_2021": "Cele mai interesante module si funcționalități lansate recent pentru băncile noastre",
-			"BUTTON_TITLE": "Putem dezvolta si alte proiecte",
-		},
-		"SECTION_STAR_TECH": {
-			"HEADING": "Platforma <span>StarTech</span> - <br> parteneriat pentru startup-uri",
-			"SUBHADING": "Platforma noastra este disponibila si pentru parteneriate cu StartUpuri. Indiferent de domeniul StartUpului tau, dacaai nevoie de un partener care este dezvoltator software, te putem ajuta cu experienta noastra"
-		}
-		SECTION_PRODUCT: {
-			HEADING: "Produsele noastre",
-			SUBHADING: "Ne ocupam de UX prin metode ca user testing <br> si customer journey, ca tu sa te poți concentra pe produsele financiare.
-		}
-		PRODUCT_CARD: {
-			IB_HEADING: "Internet Banking & Mobile Banking",
-			IB_DESCRIPTION: "Aplicatia este construita la cele mai inalte standarde din piata. Are toate functiile la care se asteapta utilizatorul, precum si functii speciale. Aplicatia mobile iOS si Android cu identificare biometrica este integrata cu tokenul mobile."
-			CO_HEADING: "Card Online& Digital cards",
-			CO_DESCRIPTION: "Du-te la BIO. Oferiți carduri digitale clienților dvs. cu un sistem de carduri online care îl face să funcționeze excelent.",
-			24/7_HEADING: "24/7 True Balance",
-			24/7_DESCRIPTION: "Intra in cercul bancilor integrate cu Transfond Instant pentru a ajuta clientii sa transfere fonduri in cateva secunde.",
-			PSD2_HEADING: "PSD 2API & SCA",
-			PSD2_DESCRIPTION: "Seteaza un API care sa fie conform PSD2 pentru a crea noi produse bazate pe noi oportunitati.",
-			ELOAN_HEADING: "eLoan Origination",
-			ELOAN_DESCRIPTION: "Intra in cercul bancilor integrate cu Transfond Instant pentru a ajuta clientii sa transfere fonduri in cateva secunde.",
-			SME_HEADING: "SMEOnboarding",
-			SME_DESCRIPTION: "SMEOnboarding",
-			BUTTON_CARD: "Citeste mai multe",
-			BUTTON_SECTION_DESCRIPTION: "Citeste mai multe",
-			BUTTON_TITLE: "Contacteaza-ne",
-		}
-		PRODUCT_DELIVERY: {
-			HEADING: "Cum livram produsele?",
-			SUBHADING: "Tu alegi metoda in functie de resursele tale. Poti alege metoda End-to-End daca nu vrei sa implici <br> prea mult echipa IT, sau metoda Lean daca vrei ca echipa ta sa fie pregatita oricand sa faca <br> modificarile doritede departamentele business.",
-			TEAM_HYBRID_DESCRIPTION: "Dezvolta-ti singur solutiile pe o platforma stabila. Este cea mai rapida metoda de a livra clientilor ceea ce iti doresti."
-			TEAM_END: "Avem un proces perfectionat in ani de zile cu care dezvoltam produsele dorite de tine si le instalam exact cum iti doresti."
-		}
-		QA: {
-			HEADING: "Intrebari frecvente",
-			1_TITLE: "Sistemele se pot integra cu orice core-banking?",
-			1_CONTENT: "Da. Până in prezent am integrat soluția cu 4 core-bankinguri diferite.",
-			2_TITLE: "Aplicațiile vor avea un UI specific băncii noastre?",
-			2_CONTENT: "Da. La fiecare implementare asiguram conformitatea UI cu brand book si definim UX împreună cu banca.",
-			3_TITLE: "Cu ce tokenuri aveți integrat sistemul?",
-			3_CONTENT: "Pana in prezent am implementat token-uri de la 3 furnizori cu diverse soluții.Mobile Token poate fi integrat chiar in aplicația de Mobile Banking - astfel asiguram clientului single app approach.",
-		}
-	}
-	en: {
-      NAV_MENU: {
-        PRODUCT: "Products",
-        CONTACT: "Contact",
-        CARIERS: "Careers",
-        LANGUAGE: "Select language",
-      },
-      HOME_MAIN: {
-        TITEL_HERO_PRYMARY: "Online Banking in just 6 months",
-        SUBTITLE_HERO_PRYMARY: "Our Internet & Mobile Banking projects took 3 to 9 months independent of integration with the bank's systems.",
-        BUTTON_HERO_PRYMARY: "View our products",
-        TITEL_HERO_SECONDARY: "Is Online Banking Really 24/7?",
-        SUBTITLE_HERO_SECONDARY: "Our True Balance solution allows customers to receive money even during daytime closing (EOD).",
-        BUTTON_HERO_SECONDARY: "Read more",
-      },
-      SECTION_TIME_LINE: {
-				TITLE_2022: "Ongoing projects with delivery in 2022",
-				TITLE_2021: "The most interesting modules and features recently launched for our banks",
-				BUTTON_TITLE: "We can develop other projects",
-			},
-			SECTION_STAR_TECH: {
-				HEADING: "<span> StarTech </span> Platform - <br> partnership for startups ",
-				SUBHADING: "Our platform is also available for partnerships with StartUpuri. Regardless of the domain of your StartUp, if you need a partner who is a software developer, we can help you with our experience."
-			},
-      SECTION_PRODUCT: {
-				HEADING: "Our products.",
-				SUBHADING: "We deal with UX through methods such as user testing <br> and customer journey, so that you can focus on financial products.",
-			},
-			PRODUCT_CARD: {
-				IB_HEADING: "Internet Banking & Mobile Banking",
-				IB_DESCRIPTION: "The application is built to the highest standards on the market. It has all the functions that the user expects, as well as special functions. The iOS and Android mobile application with biometric identification is integrated with the mobile token.",
-				CO_HEADING: "Card Online& Digital cards",
-				CO_DESCRIPTION: "Go to BIO. Give your customers digital cards with an online card system that makes it work great.",
-				HEADING_24: "24/7 True Balance",
-				DESCRIPTION_24: "Join the circle of banks integrated with Transfond Instant to help customers transfer funds in seconds.",
-				PSD2_HEADING: "PSD 2API & SCA",
-				PSD2_DESCRIPTION: "Set an PSD2 compliant API to create new products based on new opportunities.",
-				ELOAN_HEADING: "eLoan Origination",
-				ELOAN_DESCRIPTION: "Join the circle of banks integrated with Transfond Instant to help customers transfer funds in seconds.",
-				SME_HEADING: "SMEOnboarding",
-				SME_DESCRIPTION: "Simplified onboarding, with token signature, without the need for branch involvement.",
-				BUTTON_CARD: "Read more ",
-				BUTTON_SECTION_DESCRIPTION: "To learn more about our products:",
-				BUTTON_TITLE: "Contact us"
-			},
-      PRODUCT_DELIVERY: {
-        HEADING: "How do we deliver the products?",
-        SUBHADING: "You choose the method according to your resources. You can choose the End-to-End method if you don't want to involve the IT team too much, or the Lean method if you want your team to be ready at any time to make the desired changes to the business departments.",
-        TEAM_HYBRID_DESCRIPTION: "Develop your own solutions on a stable platform. It is the fastest way to deliver to customers what you want.",
-        TEAM_END: "We have an improved process over the years with which we develop the products you want and install them exactly as you want.",
-      },
-	  QA: {
-		HEADING: "Intrebari frecvente",
-		TITLE_1: "Sistemele se pot integra cu orice core-banking?",
-		CONTENT_1: "Da. Până in prezent am integrat soluția cu 4 core-bankinguri diferite.",
-		TITLE_2: "Aplicațiile vor avea un UI specific băncii noastre?",
-		CONTENT_2: "Da. La fiecare implementare asiguram conformitatea UI cu brand book si definim UX împreună cu banca.",
-		TITLE_3: "Cu ce tokenuri aveți integrat sistemul?",
-		CONTENT_3: "Pana in prezent am implementat token-uri de la 3 furnizori cu diverse soluții.Mobile Token poate fi integrat chiar in aplicația de Mobile Banking - astfel asiguram clientului single app approach.",
-	},
+  "ro": {
+    "NAV_MENU": {
+      "PRODUCT": "Produse",
+      "CONTACT": "Contact",
+      "CARRIERS": "Cariere",
+      "LANGUAGE": "Selecteaza limba"
     },
-
+    "HOME_MAIN": {
+      "TITLE_HERO_PRIMARY": "Online Banking în doar 6 luni",
+      "SUBTITLE_HERO_PRIMARY": "Proiectele noastre de Internet & Mobile Banking au durat intre 3 si 9 luni independentă de integrarea cu sistemele băncii.",
+      "BUTTON_HERO_PRIMARY": "Vezi produsele noastre",
+      "TITLE_HERO_SECONDARY": "Online Banking este cu adevărat 24/7 ?",
+      "SUBTITLE_HERO_SECONDARY": "Solutia noastră True Balance permite clienților să primească bani chiar si in timpul închiderii de zi (EOD).",
+      "BUTTON_HERO_SECONDARY": "Citeste mai multe"
+    },
+    "SECTION_TIME_LINE": {
+      "TITLE_2022": "Proiecte in derulare cu livrare in 2022",
+      "TITLE_2021": "Cele mai interesante module si funcționalități lansate recent pentru băncile noastre",
+      "BUTTON_TITLE": "Putem dezvolta si alte proiecte"
+    },
+    "SECTION_STAR_TECH": {
+      "HEADING": "Platforma <span>StarTech</span> - <br> parteneriat pentru startup-uri",
+      "SUBHEADING": "Platforma noastra este disponibila si pentru parteneriate cu StartUpuri. Indiferent de domeniul StartUpului tau, dacaai nevoie de un partener care este dezvoltator software, te putem ajuta cu experienta noastra"
+    },
+    "SECTION_PRODUCT": {
+      "HEADING": "Produsele noastre",
+      "SUBHEADING": "Ne ocupam de UX prin metode ca user testing <br> si customer journey, ca tu sa te poți concentra pe produsele financiare."
+    },
+    "PRODUCT_CARD": {
+      "IB_HEADING": "Internet Banking & Mobile Banking",
+      "IB_DESCRIPTION": "Aplicatia este construita la cele mai inalte standarde din piata. Are toate functiile la care se asteapta utilizatorul, precum si functii speciale. Aplicatia mobile iOS si Android cu identificare biometrica este integrata cu tokenul mobile.",
+      "CO_HEADING": "Card Online& Digital cards",
+      "CO_DESCRIPTION": "Du-te la BIO. Oferiți carduri digitale clienților dvs. cu un sistem de carduri online care îl face să funcționeze excelent.",
+      "HEADING_24": "24/7 True Balance",
+      "DESCRIPTION_24": "Intra in cercul bancilor integrate cu Transfond Instant pentru a ajuta clientii sa transfere fonduri in cateva secunde.",
+      "PSD2_HEADING": "PSD 2API & SCA",
+      "PSD2_DESCRIPTION": "Seteaza un API care sa fie conform PSD2 pentru a crea noi produse bazate pe noi oportunitati.",
+      "ELOAN_HEADING": "eLoan Origination",
+      "ELOAN_DESCRIPTION": "Intra in cercul bancilor integrate cu Transfond Instant pentru a ajuta clientii sa transfere fonduri in cateva secunde.",
+      "SME_HEADING": "SMEOnboarding",
+      "SME_DESCRIPTION": "Onboarding simplificat,cu semnatura token, fara sa fie necesara implicarea sucursalelor.",
+      "BUTTON_CARD": "Citeste mai multe",
+      "BUTTON_SECTION_DESCRIPTION": "Pentru a afla mai multe despre produsele noastre:",
+      "BUTTON_TITLE": "Contacteaza-ne"
+    },
+    "PRODUCT_DELIVERY": {
+      "HEADING": "Cum livram produsele?",
+      "SUBHEADING": "Tu alegi metoda in functie de resursele tale. Poti alege metoda End-to-End daca nu vrei sa implici <br> prea mult echipa IT, sau metoda Lean daca vrei ca echipa ta sa fie pregatita oricand sa faca <br> modificarile doritede departamentele business.",
+      "TEAM_HYBRID_DESCRIPTION": "Dezvolta-ti singur solutiile pe o platforma stabila. Este cea mai rapida metoda de a livra clientilor ceea ce iti doresti.",
+      "TEAM_END": "Avem un proces perfectionat in ani de zile cu care dezvoltam produsele dorite de tine si le instalam exact cum iti doresti."
+    },
+    "QA": {
+      "HEADING": "Intrebari frecvente",
+      "TITLE_1": "Sistemele se pot integra cu orice core-banking?",
+      "CONTENT_1": "Da. Până in prezent am integrat soluția cu 4 core-bankinguri diferite.",
+      "TITLE_2": "Aplicațiile vor avea un UI specific băncii noastre?",
+      "CONTENT_2": "Da. La fiecare implementare asiguram conformitatea UI cu brand book si definim UX împreună cu banca.",
+      "TITLE_3": "Cu ce tokenuri aveți integrat sistemul?",
+      "CONTENT_3": "Pana in prezent am implementat token-uri de la 3 furnizori cu diverse soluții.Mobile Token poate fi integrat chiar in aplicația de Mobile Banking - astfel asiguram clientului single app approach."
+    },
+    "QA_BANNER": {
+      "HEADING": "Jumătate din toate proiectele IT din industria bancară sunt sub medie! Iți vine sa crezi? Este adevărat prin definiție pentru că media reprezintă punctul de mijloc 😉",
+      "SUBHEADING": "Alege jumătatea mai bună!"
+    }
+  },
+  "en": {
+    "NAV_MENU": {
+      "PRODUCT": "Products",
+      "CONTACT": "Contact",
+      "CARRIERS": "Careers",
+      "LANGUAGE": "Select language"
+    },
+    "HOME_MAIN": {
+      "TITLE_HERO_PRIMARY": "Online Banking in just 6 months",
+      "SUBTITLE_HERO_PRIMARY": "Our Internet & Mobile Banking projects took 3 to 9 months independent of integration with the bank's systems.",
+      "BUTTON_HERO_PRIMARY": "View our products",
+      "TITLE_HERO_SECONDARY": "Is Online Banking Really 24/7?",
+      "SUBTITLE_HERO_SECONDARY": "Our True Balance solution allows customers to receive money even during daytime closing (EOD).",
+      "BUTTON_HERO_SECONDARY": "Read more"
+    },
+    "SECTION_TIME_LINE": {
+      "TITLE_2022": "Ongoing projects with delivery in 2022",
+      "TITLE_2021": "The most interesting modules and features recently launched for our banks",
+      "BUTTON_TITLE": "We can develop other projects"
+    },
+    "SECTION_STAR_TECH": {
+      "HEADING": "<span> StarTech </span> Platform - <br> partnership for startups ",
+      "SUBHEADING": "Our platform is also available for partnerships with StartUpuri. Regardless of the domain of your StartUp, if you need a partner who is a software developer, we can help you with our experience."
+    },
+    "SECTION_PRODUCT": {
+      "HEADING": "Our products.",
+      "SUBHEADING": "We deal with UX through methods such as user testing <br> and customer journey, so that you can focus on financial products."
+    },
+    "PRODUCT_CARD": {
+      "IB_HEADING": "Internet Banking & Mobile Banking",
+      "IB_DESCRIPTION": "The application is built to the highest standards on the market. It has all the functions that the user expects, as well as special functions. The iOS and Android mobile application with biometric identification is integrated with the mobile token.",
+      "CO_HEADING": "Card Online& Digital cards",
+      "CO_DESCRIPTION": "Go to BIO. Give your customers digital cards with an online card system that makes it work great.",
+      "HEADING_24": "24/7 True Balance",
+      "DESCRIPTION_24": "Join the circle of banks integrated with Transfond Instant to help customers transfer funds in seconds.",
+      "PSD2_HEADING": "PSD 2API & SCA",
+      "PSD2_DESCRIPTION": "Set an PSD2 compliant API to create new products based on new opportunities.",
+      "ELOAN_HEADING": "eLoan Origination",
+      "ELOAN_DESCRIPTION": "Join the circle of banks integrated with Transfond Instant to help customers transfer funds in seconds.",
+      "SME_HEADING": "SMEOnboarding",
+      "SME_DESCRIPTION": "Simplified onboarding, with token signature, without the need for branch involvement.",
+      "BUTTON_CARD": "Read more ",
+      "BUTTON_SECTION_DESCRIPTION": "To learn more about our products:",
+      "BUTTON_TITLE": "Contact us"
+    },
+    "PRODUCT_DELIVERY": {
+      "HEADING": "How do we deliver the products?",
+      "SUBHEADING": "You choose the method according to your resources. You can choose the End-to-End method if you don't want to involve the IT team too much, or the Lean method if you want your team to be ready at any time to make the desired changes to the business departments.",
+      "TEAM_HYBRID_DESCRIPTION": "Develop your own solutions on a stable platform. It is the fastest way to deliver to customers what you want.",
+      "TEAM_END": "We have an improved process over the years with which we develop the products you want and install them exactly as you want."
+    },
+    "QA": {
+      "HEADING": "Intrebari frecvente",
+      "TITLE_1": "Sistemele se pot integra cu orice core-banking?",
+      "CONTENT_1": "Da. Până in prezent am integrat soluția cu 4 core-bankinguri diferite.",
+      "TITLE_2": "Aplicațiile vor avea un UI specific băncii noastre?",
+      "CONTENT_2": "Da. La fiecare implementare asiguram conformitatea UI cu brand book si definim UX împreună cu banca.",
+      "TITLE_3": "Cu ce tokenuri aveți integrat sistemul?",
+      "CONTENT_3": "Pana in prezent am implementat token-uri de la 3 furnizori cu diverse soluții.Mobile Token poate fi integrat chiar in aplicația de Mobile Banking - astfel asiguram clientului single app approach."
+    }
+  }
 }
