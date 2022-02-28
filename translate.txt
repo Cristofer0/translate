@@ -4,7 +4,7 @@
       "PRODUCT": "Produse",
       "CONTACT": "Contact",
       "CARRIERS": "Cariere",
-      "LANGUAGE": "Selecteaza limba"
+      "LANGUAGE": "Select"
     },
     "HOME_MAIN": {
       "TITLE_HERO_PRIMARY": "Online Banking în doar 6 luni",
