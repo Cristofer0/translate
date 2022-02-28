@@ -17,6 +17,7 @@
     "SECTION_TIME_LINE": {
       "TITLE_2022": "Proiecte in derulare cu livrare in 2022",
       "TITLE_2021": "Cele mai interesante module si funcționalități lansate recent pentru băncile noastre",
+      "BUTTON": "Contacteaza-ne",
       "BUTTON_TITLE": "Putem dezvolta si alte proiecte"
     },
     "SECTION_STAR_TECH": {
@@ -82,7 +83,8 @@
     "SECTION_TIME_LINE": {
       "TITLE_2022": "Ongoing projects with delivery in 2022",
       "TITLE_2021": "The most interesting modules and features recently launched for our banks",
-      "BUTTON_TITLE": "We can develop other projects"
+      "BUTTON_TITLE": "We can develop other projects",
+	  "BUTTON": "Contact us"
     },
     "SECTION_STAR_TECH": {
       "HEADING": "<span> StarTech </span> Platform - <br> partnership for startups ",
@@ -116,13 +118,17 @@
       "TEAM_END": "We have an improved process over the years with which we develop the products you want and install them exactly as you want."
     },
     "QA": {
-      "HEADING": "Intrebari frecvente",
+      "HEADING": "Frequent questions",
       "TITLE_1": "Sistemele se pot integra cu orice core-banking?",
-      "CONTENT_1": "Da. Până in prezent am integrat soluția cu 4 core-bankinguri diferite.",
+      "CONTENT_1": "Can the systems be integrated with any core banking?",
       "TITLE_2": "Aplicațiile vor avea un UI specific băncii noastre?",
       "CONTENT_2": "Da. La fiecare implementare asiguram conformitatea UI cu brand book si definim UX împreună cu banca.",
       "TITLE_3": "Cu ce tokenuri aveți integrat sistemul?",
       "CONTENT_3": "Pana in prezent am implementat token-uri de la 3 furnizori cu diverse soluții.Mobile Token poate fi integrat chiar in aplicația de Mobile Banking - astfel asiguram clientului single app approach."
+    },
+    "QA_BANNER": {
+      "HEADING": "Jumătate din toate proiectele IT din industria bancară sunt sub medie! Iți vine sa crezi? Este adevărat prin definiție pentru că media reprezintă punctul de mijloc 😉",
+      "SUBHEADING": "Alege jumătatea mai bună!"
     }
   }
 }
