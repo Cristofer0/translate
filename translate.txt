@@ -7,7 +7,7 @@
       "LANGUAGE": "Selecteaza limba"
     },
     "HOME_MAIN": {
-      "TITLE_HERO_PRIMARY": "Online Banking în doar 6 luni",
+      "TITLE_HERO_PRIMARY": "Online Banking ",
       "SUBTITLE_HERO_PRIMARY": "Proiectele noastre de Internet & Mobile Banking au durat intre 3 si 9 luni independentă de integrarea cu sistemele băncii.",
       "BUTTON_HERO_PRIMARY": "Vezi produsele noastre",
       "TITLE_HERO_SECONDARY": "Online Banking este cu adevărat 24/7 ?",
