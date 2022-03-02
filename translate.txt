@@ -81,7 +81,7 @@
       "NAME": "Punctualitate",
       "HEADING":  "Livram totul la timp",
       "DESCRIPTION": "Pentru ca timpul este cea mai importanta resursa, si livram totul la timp, rasplatim echipa cu:",
-      "ITEM-1": "program de lucru 6 ore",
+      "ITEM-1": "program de lucru <span class=\"text-out\">6 ore</span>",
       "ITEM-2": "<span class='text-out'>program flexibil,</span> nu ne uitam la ceas cand intrii in birou",
       "ITEM-3": "concediu <span>25 zile pe an</span>, la care adaugam cate 1 zi pean alaturi de noi"
     }
@@ -168,9 +168,9 @@
       "NAME": "Punctualitate",
       "HEADING":  "Livram totul la timp",
       "DESCRIPTION": "Pentru ca timpul este cea mai importanta resursa, si livram totul la timp, rasplatim echipa cu:",
-      "ITEM-1": "program de lucru <span >6 ore</span>",
+      "ITEM-1": "program de lucru <span class=\"text-out\">6 ore</span>",
       "ITEM-2": "<span class='text-out'>program flexibil,</span> nu ne uitam la ceas cand intrii in birou",
-      "ITEM-3": "concediu <span>25 zile pe an</span>, la care adaugam cate 1 zi pean alaturi de noi"
+      "ITEM-3": "concediu <span class=\"text-out\">25 zile pe an</span>, la care adaugam cate 1 zi pean alaturi de noi"
     }
   }
 }
