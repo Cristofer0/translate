@@ -63,6 +63,27 @@
     "QA_BANNER": {
       "HEADING": "Jumătate din toate proiectele IT din industria bancară sunt sub medie! Iți vine sa crezi? Este adevărat prin definiție pentru că media reprezintă punctul de mijloc 😉",
       "SUBHEADING": "Alege jumătatea mai bună!"
+    },//-d-------------
+    "PRODUCT_MAIN": {
+      "HEADING": "Produsele si serviciile noastre",
+      "SUBHEADING": "Ne ocupam noi de UX prin metode ca user testing si customer journey, ca tu sa te poti concentra pe produsele financiare."
+    },
+    "CAREERS_MAIN": {
+      "HEADING": "Hai la noi in echipa!",
+      "SUBHEADING": "Echipa a fost construita cu membrii alesi pe spanceana, care au valori comune, le plac provocarile, dar stiu sa se si distreze.",
+      "SEE-BELOW": "Vezi mai jos daca iti place ce oferim si daca te potrivesti cu noi!",
+      "BUTTON": "Posturi vacante"
+    },
+    "VALUES_SECTION": {
+      "HEADING": "Valorile companiei se reflecta in beneficii pentru angajati"
+    },
+    "TAB_PUNCTUALITY" : {
+      "NAME": "Punctualitate",
+      "HEADING":  "Livram totul la timp",
+      "DESCRIPTION": "Pentru ca timpul este cea mai importanta resursa, si livram totul la timp, rasplatim echipa cu:",
+      "ITEM-1": "program de lucru <span class=\"text-out\">6 ore</span>",
+      "ITEM-2": "<span class='text-out'>program flexibil,</span> nu ne uitam la ceas cand intrii in birou",
+      "ITEM-3": "concediu <span>25 zile pe an</span>, la care adaugam cate 1 zi pean alaturi de noi"
     }
   },
   "en": {
@@ -129,6 +150,27 @@
     "QA_BANNER": {
       "HEADING": "Jumătate din toate proiectele IT din industria bancară sunt sub medie! Iți vine sa crezi? Este adevărat prin definiție pentru că media reprezintă punctul de mijloc 😉",
       "SUBHEADING": "Alege jumătatea mai bună!"
+    },
+    "PRODUCT_MAIN": {
+      "HEADING": "Our products and services",
+      "SUBHEADING": "We deal with UX through methods such as user testing and customer journey, so that you can focus on financial products."
+    },
+    "CAREERS_MAIN": {
+      "HEADING": "Come to us as a team!",
+      "SUBHEADING": "The team was built with members elected by spanceana, who have common values, they like challenges, but they also know how to have fun.",
+      "SEE-BELOW": "Vezi mai jos daca iti place ce oferim si daca te potrivesti cu noi!",
+      "BUTTON": "Posturi vacante"
+    },
+    "VALUES_SECTION": {
+      "HEADING": "Valorile companiei se reflecta in beneficii pentru angajati"
+    },
+    "TAB_PUNCTUALITY" : {
+      "NAME": "Punctualitate",
+      "HEADING":  "Livram totul la timp",
+      "DESCRIPTION": "Pentru ca timpul este cea mai importanta resursa, si livram totul la timp, rasplatim echipa cu:",
+      "ITEM-1": "program de lucru <span class=\"text-out\">6 ore</span>",
+      "ITEM-2": "<span class='text-out'>program flexibil,</span> nu ne uitam la ceas cand intrii in birou",
+      "ITEM-3": "concediu <span>25 zile pe an</span>, la care adaugam cate 1 zi pean alaturi de noi"
     }
   }
 }
