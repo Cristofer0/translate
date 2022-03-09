@@ -21,7 +21,7 @@
       "BUTTON_TITLE": "Contact us"
     },
     "SECTION_STAR_TECH": {
-      "HEADING": "Platforma <span>StarTech</span> - <br> parteneriat pentru startup-uri",
+      "HEADING": "Platforma <span class=\"txt-blue\">StarTech</span> - <br> parteneriat pentru startup-uri",
       "SUBHEADING": "Platforma noastra este disponibila si pentru parteneriate cu StartUpuri. Indiferent de domeniul StartUpului tau, dacaai nevoie de un partener care este dezvoltator software, te putem ajuta cu experienta noastra"
     },
     "SECTION_PRODUCT": {
@@ -82,8 +82,40 @@
       "HEADING":  "Livram totul la timp",
       "DESCRIPTION": "Pentru ca timpul este cea mai importanta resursa, si livram totul la timp, rasplatim echipa cu:",
       "ITEM-1": "program de lucru <span class=\"text-out\">6 ore</span>",
-      "ITEM-2": "<span class='text-out'>program flexibil,</span> nu ne uitam la ceas cand intrii in birou",
-      "ITEM-3": "concediu <span>25 zile pe an</span>, la care adaugam cate 1 zi pean alaturi de noi"
+      "ITEM-2": "<span class=\"text-out\">program flexibil,</span> nu ne uitam la ceas cand intrii in birou",
+      "ITEM-3": "concediu <span class=\"text-out\">, la care adaugam cate 1 zi pean alaturi de noi"
+    },
+    "CLEAN_CODE" : {
+      "NAME": "Clean Code",
+      "HEADING":  "Sanatatea codului",
+      "DESCRIPTION": "Sanatatea ta este la fel de importanta pentru noi ca si sanatatea codului scris de tine. Iti oferim:",
+      "ITEM-1": "<span class=\"text-out\">asigurare medicala</span> + 1.000 EUR decontare cheltuieli medicale, din care 50% pot fi folositi pentru rudele de gradul 1",
+      "ITEM-2": "<span class=\"text-out\">hrana sanatoasa:</span> masa de pranz, cafea si fructe proaspete sunt decontate atunci cand esti la birou",
+      "ITEM-3": "daca practici un sport, compania deconteaza <span class=\"text-out\">lunar 50% din abonament</span>"
+    },
+    "BEST_SOLUTION" : {
+      "NAME": "Best solutions",
+      "HEADING":  "Oferim cele mai potrivite solutii clientilor nostrii",
+      "DESCRIPTION": "Suntem atenti la bugetul clientilor, de asta avem grija sa prosperi si tu si iti oferim un program de economisire:",
+      "ITEM-1": "Economisesti lunar 10% din salariu. La finalul unui an compania iti da,pe langa suma economisita de tine, un <span class=\"text-out\">bonus de 50%.</span>",
+      "ITEM-2": "In cazul in care iti cumperi casa, rata pe care o platesti lunar esteconsiderata parte a programului de economisire. Conditia este safolosesti suma pe care o primesti inapoi pentru a face o rambursareanticipata la credit."
+    },
+    "BEST_TECHNOLOGIES" : {
+      "NAME": "Best solutions",
+      "HEADING":  "Tinem pasul cu cele mai noi tehnologii",
+      "DESCRIPTION": "Folosim cele mai noi tehnologii pentru ca partenerii nostrii tin la securitatea clientilor lor:",
+      "ITEM-1": "Compania iti achizitioneaza telefonul dorit, pentru care tu vei plati doar 50% din valoarea lui."
+   },
+    "SECTION_OFFICE": {
+      "HEADING": "Turul biroului nostru"
+    },
+    "SECTION_VACANCIES": {
+      "HEADING": "Posturi vacante",
+      "BLOCK-NAME": "Oracle developer (SQL,PL/SQL Developer)",
+      "LIST-TITLE": "Procesul de recrutare consta in:",
+      "ITEM-1": "Faza 1: completarea unui formular pe site (15-20 min)",
+      "ITEM-2": "Faza 2: un test in care trebuie sa implementati un API folosit de o aplicatie Web. ",
+      "BUTTON": "Afla mai multe"
     }
   },
   "en": {
@@ -108,8 +140,8 @@
       "BUTTON_TITLE": "Contact us"
     },
     "SECTION_STAR_TECH": {
-      "HEADING": "<span> StarTech </span> Platform - <br> partnership for startups ",
-      "SUBHEADING": "Our platform is also available for partnerships with StartUpuri. Regardless of the domain of your StartUp, if you need a partner who is a software developer, we can help you with our experience."
+      "HEADING": "<span class=\"txt-blue\">StarTech </span> Platform - <br> partnership for startups ",
+      "SUBHEADING": "Our platform is also available for partnerships with StartUp. Regardless of the domain of your StartUp, if you need a partner who is a software developer, we can help you with our experience."
     },
     "SECTION_PRODUCT": {
       "HEADING": "Our products.",
@@ -140,16 +172,16 @@
     },
     "QA": {
       "HEADING": "Frequent questions",
-      "TITLE_1": "Sistemele se pot integra cu orice core-banking?",
+      "TITLE_1": "Can the systems be integrated with any core banking?",
       "CONTENT_1": "Can the systems be integrated with any core banking?",
-      "TITLE_2": "Aplicațiile vor avea un UI specific băncii noastre?",
-      "CONTENT_2": "Da. La fiecare implementare asiguram conformitatea UI cu brand book si definim UX împreună cu banca.",
-      "TITLE_3": "Cu ce tokenuri aveți integrat sistemul?",
-      "CONTENT_3": "Pana in prezent am implementat token-uri de la 3 furnizori cu diverse soluții.Mobile Token poate fi integrat chiar in aplicația de Mobile Banking - astfel asiguram clientului single app approach."
+      "TITLE_2": "Will the applications have a UI specific to our bank?",
+      "CONTENT_2": "Yes. At each implementation we ensure UI compliance with the brand book and define UX together with the bank.",
+      "TITLE_3": "What tokens have you integrated the system with?",
+      "CONTENT_3": "So far we have implemented tokens from 3 providers with various solutions. Mobile Token can be integrated even in the Mobile Banking application - thus providing the customer with a single app approach."
     },
     "QA_BANNER": {
-      "HEADING": "Jumătate din toate proiectele IT din industria bancară sunt sub medie! Iți vine sa crezi? Este adevărat prin definiție pentru că media reprezintă punctul de mijloc 😉",
-      "SUBHEADING": "Alege jumătatea mai bună!"
+      "HEADING": "Half of all IT projects in the banking industry are below average! Can you believe that? It is true by definition because the mean is the midpoint \uD83D\uDE09",
+      "SUBHEADING": "Choose the best half!"
     },
     "PRODUCT_MAIN": {
       "HEADING": "Our products and services",
@@ -158,19 +190,52 @@
     "CAREERS_MAIN": {
       "HEADING": "Come to us as a team!",
       "SUBHEADING": "The team was built with members elected by spanceana, who have common values, they like challenges, but they also know how to have fun.",
-      "SEE-BELOW": "Vezi mai jos daca iti place ce oferim si daca te potrivesti cu noi!",
-      "BUTTON": "Posturi vacante"
+      "SEE-BELOW": "See below if you like what we offer and if you fit in with us!",
+      "BUTTON": "Job Vacancies"
     },
     "VALUES_SECTION": {
-      "HEADING": "Valorile companiei se reflecta in beneficii pentru angajati"
+      "HEADING": "The company's values are reflected in employee benefits"
     },
     "TAB_PUNCTUALITY" : {
-      "NAME": "Punctualitate",
-      "HEADING":  "Livram totul la timp",
-      "DESCRIPTION": "Pentru ca timpul este cea mai importanta resursa, si livram totul la timp, rasplatim echipa cu:",
-      "ITEM-1": "program de lucru <span class=\"text-out\">6 ore</span>",
-      "ITEM-2": "<span class='text-out'>program flexibil,</span> nu ne uitam la ceas cand intrii in birou",
-      "ITEM-3": "concediu <span class=\"text-out\">25 zile pe an</span>, la care adaugam cate 1 zi pean alaturi de noi"
+      "NAME": "Punctuality",
+      "HEADING":  "We deliver everything on time",
+      "DESCRIPTION": "Because time is the most important resource, and we deliver everything on time, we reward the team with:",
+      "ITEM-1": "work program <span class=\"text-out\">6 hours</span>",
+      "ITEM-2": "<span class=\"text-out\"> flexible schedule, </span> we don't look at the clock when you enter the office",
+      "ITEM-3": "holiday <span class=\"text-out\"> 25 days a year </span>, to which we add 1 day each with us"
+    },
+
+    "CLEAN_CODE" : {
+      "NAME": "Clean Code",
+      "HEADING":  "Code health",
+      "DESCRIPTION": "Your health is as important to us as the health of the code you wrote. We offer you:",
+      "ITEM-1": "<span class=\"text-out\"> health insurance </span> + EUR 1,000 reimbursement of medical expenses, of which 50% can be used for 1st degree relatives",
+      "ITEM-2": "<span class=\"text-out\"> healthy eating: </span> lunch, coffee and fresh fruit are settled when you're at the office",
+      "ITEM-3": "if you play a sport, the company pays <span class=\"text-out\"> 50% of your monthly subscription </span>"
+    },
+    "BEST_SOLUTION" : {
+      "NAME": "Best solutions",
+      "HEADING":  "We offer the most suitable solutions to our clients",
+      "DESCRIPTION": "We pay attention to the clients' budget, that's why we make sure you prosper and we offer you a saving program:",
+      "ITEM-1": "You save 10% of your salary every month. At the end of a year, the company gives you, in addition to the amount saved by you, a <span class = \"text-out\"> 50% bonus. </span>",
+      "ITEM-2": "If you buy your house, the rate you pay monthly is considered part of the savings program. The condition is to use the amount you receive back to make an early repayment on credit."
+    },
+    "BEST_TECHNOLOGIES" : {
+      "NAME": "Best solutions",
+      "HEADING":  "We keep up with the latest technologies",
+      "DESCRIPTION": "We use the latest technologies because our partners care about the safety of their customers:",
+      "ITEM-1": "The company buys the phone you want, for which you will pay only 50% of its value."
+    },
+    "SECTION_OFFICE": {
+      "HEADING": "Our office tour"
+    },
+    "SECTION_VACANCIES": {
+      "HEADING": "Job Vacancies",
+      "BLOCK-NAME": "Oracle developer (SQL, PL / SQL Developer)",
+      "LIST-TITLE": "The recruitment process consists of:",
+      "ITEM-1": "Phase 1: filling in a form on the site (15-20 min)",
+      "ITEM-2": "Step 2: A test in which you need to implement an API used by a web application.",
+      "BUTTON": "Find out more"
     }
   }
 }
