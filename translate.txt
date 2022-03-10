@@ -4,7 +4,8 @@
       "PRODUCT": "Produse",
       "CONTACT": "Contact",
       "CARRIERS": "Cariere",
-      "LANGUAGE": "Select"
+      "LANGUAGE": "Select",
+      "COOKIE_POLICY": "Politica de cookie-uri"
     },
     "HOME_MAIN": {
       "TITLE_HERO_PRIMARY": "Online Banking în doar 6 luni",
@@ -98,7 +99,7 @@
       "HEADING":  "Oferim cele mai potrivite solutii clientilor nostrii",
       "DESCRIPTION": "Suntem atenti la bugetul clientilor, de asta avem grija sa prosperi si tu si iti oferim un program de economisire:",
       "ITEM-1": "Economisesti lunar 10% din salariu. La finalul unui an compania iti da,pe langa suma economisita de tine, un <span class=\"text-out\">bonus de 50%.</span>",
-      "ITEM-2": "In cazul in care iti cumperi casa, rata pe care o platesti lunar esteconsiderata parte a programului de economisire. Conditia este safolosesti suma pe care o primesti inapoi pentru a face o rambursareanticipata la credit."
+      "ITEM-2": "In cazul in care iti cumperi casa, rata pe care o platesti lunar este considerata parte a programului de economisire. Conditia este safolosesti suma pe care o primesti inapoi pentru a face o rambursare anticipata la credit."
     },
     "BEST_TECHNOLOGIES" : {
       "NAME": "Best solutions",
@@ -116,6 +117,10 @@
       "ITEM-1": "Faza 1: completarea unui formular pe site (15-20 min)",
       "ITEM-2": "Faza 2: un test in care trebuie sa implementati un API folosit de o aplicatie Web. ",
       "BUTTON": "Afla mai multe"
+    },
+    "FOOTER": {
+      "CALL_TO_ACTION": "Vrei sa colaboram intr-un proiect?",
+      "CONTACT_BUTTON": "Contacteaza-ne"
     }
   },
   "en": {
@@ -236,6 +241,10 @@
       "ITEM-1": "Phase 1: filling in a form on the site (15-20 min)",
       "ITEM-2": "Step 2: A test in which you need to implement an API used by a web application.",
       "BUTTON": "Find out more"
+    },
+    "FOOTER": {
+      "CALL_TO_ACTION": "Do you want to collaborate on a project?",
+      "CONTACT_BUTTON": "Contact us"
     }
   }
 }
