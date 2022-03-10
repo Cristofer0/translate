@@ -128,7 +128,8 @@
       "PRODUCT": "Products",
       "CONTACT": "Contact",
       "CARRIERS": "Careers",
-      "LANGUAGE": "Select language"
+      "LANGUAGE": "Select language",
+      "COOKIE_POLICY": "Cookie policy"
     },
     "HOME_MAIN": {
       "TITLE_HERO_PRIMARY": "Online Banking in just 6 months",
