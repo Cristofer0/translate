@@ -102,7 +102,7 @@
       "ITEM-2": "In cazul in care iti cumperi casa, rata pe care o platesti lunar este considerata parte a programului de economisire. Conditia este safolosesti suma pe care o primesti inapoi pentru a face o rambursare anticipata la credit."
     },
     "BEST_TECHNOLOGIES" : {
-      "NAME": "Best solutions",
+      "NAME": "Best technologies",
       "HEADING":  "Tinem pasul cu cele mai noi tehnologii",
       "DESCRIPTION": "Folosim cele mai noi tehnologii pentru ca partenerii nostrii tin la securitatea clientilor lor:",
       "ITEM-1": "Compania iti achizitioneaza telefonul dorit, pentru care tu vei plati doar 50% din valoarea lui."
@@ -226,7 +226,7 @@
       "ITEM-2": "If you buy your house, the rate you pay monthly is considered part of the savings program. The condition is to use the amount you receive back to make an early repayment on credit."
     },
     "BEST_TECHNOLOGIES" : {
-      "NAME": "Best solutions",
+      "NAME": "Best technologies",
       "HEADING":  "We keep up with the latest technologies",
       "DESCRIPTION": "We use the latest technologies because our partners care about the safety of their customers:",
       "ITEM-1": "The company buys the phone you want, for which you will pay only 50% of its value."
