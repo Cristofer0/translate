@@ -72,7 +72,7 @@
     "CAREERS_MAIN": {
       "HEADING": "Hai la noi in echipa!",
       "SUBHEADING": "Echipa a fost construita cu membrii alesi pe spanceana, care au valori comune, le plac provocarile, dar stiu sa se si distreze.",
-      "SEE-BELOW": "Vezi mai jos daca iti place ce oferim si daca te potrivesti cu noi!",
+      "SEE_BELOW": "Vezi mai jos daca iti place ce oferim si daca te potrivesti cu noi!",
       "BUTTON": "Posturi vacante"
     },
     "VALUES_SECTION": {
@@ -82,45 +82,114 @@
       "NAME": "Punctualitate",
       "HEADING":  "Livram totul la timp",
       "DESCRIPTION": "Pentru ca timpul este cea mai importanta resursa, si livram totul la timp, rasplatim echipa cu:",
-      "ITEM-1": "program de lucru <span class=\"text-out\">6 ore</span>",
-      "ITEM-2": "<span class=\"text-out\">program flexibil,</span> nu ne uitam la ceas cand intrii in birou",
-      "ITEM-3": "concediu <span class=\"text-out\">, la care adaugam cate 1 zi pean alaturi de noi"
+      "ITEM_1": "program de lucru <span class=\"text-out\">6 ore</span>",
+      "ITEM_2": "<span class=\"text-out\">program flexibil,</span> nu ne uitam la ceas cand intrii in birou",
+      "ITEM_3": "concediu <span class=\"text-out\">, la care adaugam cate 1 zi pean alaturi de noi"
     },
     "CLEAN_CODE" : {
       "NAME": "Clean Code",
       "HEADING":  "Sanatatea codului",
       "DESCRIPTION": "Sanatatea ta este la fel de importanta pentru noi ca si sanatatea codului scris de tine. Iti oferim:",
-      "ITEM-1": "<span class=\"text-out\">asigurare medicala</span> + 1.000 EUR decontare cheltuieli medicale, din care 50% pot fi folositi pentru rudele de gradul 1",
-      "ITEM-2": "<span class=\"text-out\">hrana sanatoasa:</span> masa de pranz, cafea si fructe proaspete sunt decontate atunci cand esti la birou",
-      "ITEM-3": "daca practici un sport, compania deconteaza <span class=\"text-out\">lunar 50% din abonament</span>"
+      "ITEM_1": "<span class=\"text-out\">asigurare medicala</span> + 1.000 EUR decontare cheltuieli medicale, din care 50% pot fi folositi pentru rudele de gradul 1",
+      "ITEM_2": "<span class=\"text-out\">hrana sanatoasa:</span> masa de pranz, cafea si fructe proaspete sunt decontate atunci cand esti la birou",
+      "ITEM_3": "daca practici un sport, compania deconteaza <span class=\"text-out\">lunar 50% din abonament</span>"
     },
     "BEST_SOLUTION" : {
       "NAME": "Best solutions",
       "HEADING":  "Oferim cele mai potrivite solutii clientilor nostrii",
       "DESCRIPTION": "Suntem atenti la bugetul clientilor, de asta avem grija sa prosperi si tu si iti oferim un program de economisire:",
-      "ITEM-1": "Economisesti lunar 10% din salariu. La finalul unui an compania iti da,pe langa suma economisita de tine, un <span class=\"text-out\">bonus de 50%.</span>",
-      "ITEM-2": "In cazul in care iti cumperi casa, rata pe care o platesti lunar este considerata parte a programului de economisire. Conditia este safolosesti suma pe care o primesti inapoi pentru a face o rambursare anticipata la credit."
+      "ITEM_1": "Economisesti lunar 10% din salariu. La finalul unui an compania iti da,pe langa suma economisita de tine, un <span class=\"text-out\">bonus de 50%.</span>",
+      "ITEM_2": "In cazul in care iti cumperi casa, rata pe care o platesti lunar este considerata parte a programului de economisire. Conditia este safolosesti suma pe care o primesti inapoi pentru a face o rambursare anticipata la credit."
     },
     "BEST_TECHNOLOGIES" : {
-      "NAME": "Best technologies",
+      "NAME": "Best solutions",
       "HEADING":  "Tinem pasul cu cele mai noi tehnologii",
       "DESCRIPTION": "Folosim cele mai noi tehnologii pentru ca partenerii nostrii tin la securitatea clientilor lor:",
-      "ITEM-1": "Compania iti achizitioneaza telefonul dorit, pentru care tu vei plati doar 50% din valoarea lui."
+      "ITEM_1": "Compania iti achizitioneaza telefonul dorit, pentru care tu vei plati doar 50% din valoarea lui."
    },
     "SECTION_OFFICE": {
       "HEADING": "Turul biroului nostru"
     },
     "SECTION_VACANCIES": {
       "HEADING": "Posturi vacante",
-      "BLOCK-NAME": "Oracle developer (SQL,PL/SQL Developer)",
-      "LIST-TITLE": "Procesul de recrutare consta in:",
-      "ITEM-1": "Faza 1: completarea unui formular pe site (15-20 min)",
-      "ITEM-2": "Faza 2: un test in care trebuie sa implementati un API folosit de o aplicatie Web. ",
+      "BLOCK_NAME": "Oracle developer (SQL,PL/SQL Developer)",
+      "LIST_TITLE": "Procesul de recrutare consta in:",
+      "ITEM_1": "Faza 1: completarea unui formular pe site (15-20 min)",
+      "ITEM_2": "Faza 2: un test in care trebuie sa implementati un API folosit de o aplicatie Web. ",
       "BUTTON": "Afla mai multe"
     },
     "FOOTER": {
       "CALL_TO_ACTION": "Vrei sa colaboram intr-un proiect?",
       "CONTACT_BUTTON": "Contacteaza-ne"
+    },
+    "IB_MAIN": {
+      "TITLE":"Internet Banking & Mobile Banking <span class=\"txt-blue\"> 100% natural <span>",
+      "SUBTITLE": "Analizam constant comportamentul clientilor si adaptam fluxurile din aplicatie dupa cum ii este mainatural utilizatorului sa foloseasca functiile."
+    },
+    "SECTION_UX": {
+      "TITLE": "Design unic la cele mai inalte standarde de UX",
+      "SUBTITLE": "Am desenat aplicatiile sa fie intuitive, sa functioneze rapid si sa satisfaca toate nevoile clientului, indiferent ce platforma foloseste.",
+      "CARD_SIMPLE": "Simplu",
+      "CARD_SIMPLE_DESCRIPTION": "Facem ca operatiile complexe sa para simple pentru utilizatorii aplicatiilor noastre.",
+      "CARD_SURE": "Sigur",
+      "CARD_SURE_DESCRIPTION": "Adaugam antivirus si app shelding in Mobile Banking astfel incat sa sporim siguranta clientului.",
+      "CARD_EXP": "Exp. omni-channel",
+      "CARD_EXP_DESCRIPTION": "Experienta familiara indiferent de platforma pe care o utilizeaza clientul.",
+      "CARD_INTEGRATION": "Integrare cu orice tip de token",
+      "CARD_INTEGRATION_DESCRIPTION": "Vrem sa oferim o experienta noua clientului, fara sa il rugam sa isi schimbe tokenul."
+    },
+    "COMMON_FUNCTIONS": {
+      "TITLE": "<span class=\"txt-blue\">Functii comune:</span><br>Internet Banking si Mobile Banking"
+    },
+    "ADVANTAGE": {
+      "AUDITORS": "Conturi",
+      "AUDITORS_DESCRIPTION": "Ofera-i utilizatorului posibilitatea de a deschide un cont curent nou daca are nevoie.",
+      "CARDS": "Carduri",
+      "CARDS_DESCRIPTION": "Utilizatorul poate sa schimbe limitele la ATM, plati online, sau chiar sa blocheze cardul sau sa solicite card nou, inclusiv card digital.",
+      "OPERATIONS": "Operatii",
+      "OPERATIONS_DESCRIPTION": "Plati in lei, valuta, transfer, schimb valutar, dar si tragere din limite de credit.",
+      "CREDITS": "Credite",
+      "CREDITS_DESCRIPTION": "Utilizatorul poate sa descarce scadentarul creditului sau sa vada toate informatiile despre produsul contractat.",
+      "WAREHOUSES": "Depozite",
+      "WAREHOUSES_DESCRIPTION": "Constituire si lichidare depozite oricand doreste clientul.",
+      "NOTIFICATIONS": "Notificari",
+      "NOTIFICATIONS_DESCRIPTION": "Utilizatorul primeste notificari atunci cand se intampla ceva important pentru el.",
+      "CHAT": "Chat & Chat Guidance",
+      "CHAT_DESCRIPTION": "Ofera utilizatorului suport de cea mai buna calitate, prin chat sau prin ghidare direct pe ecranul lui.",
+      "SETTINGS": "Setari",
+      "SETTINGS_DESCRIPTION": "Utilizatorul poate sa seteze o denumire contului, sa isi schimbe parola sau sa gestioneze lista de sabloane.",
+      "REPORTS": "Rapoarte",
+      "REPORTS_DESCRIPTION": "Extrase in PDF, XML, CSV, TXT pregatite pentru orice nevoie ar avea clientul.",
+      "UPLOAD_DOCUMENTS": "Upload documente",
+      "UPLOAD_DOCUMENTS_DESCRIPTION": "Utilizatorul poate sa incarce documente solicitate de banca, intr-un mediu sigur, fara a se deplasa la o sucursala.",
+      "ACCOUNT": "Account Top-up",
+      "ACCOUNT_DESCRIPTION": "Utilizatorul poate sa isi transfere instant banii de pe cardul lui de la o alta banca in contul bancii tale.",
+      "SAVING": "Economisire automata",
+      "SAVING_DESCRIPTION": "Utilizatorul poate sa isi transfere instant banii de pe carul lui de la o alta banca in contul bancii tale."
+    },
+    "SECTION_ESPECIALLY": {
+      "TITLE": "Special pentru carduri,<br> cel mai utilizat produs bancar",
+      "VIRTUAL_CARDS": "Virtual cards",
+      "VIRTUAL_CARDS_DESCRIPTION": "Clientul genereaza carduri atunci cand are nevoie sa isi faca cumparaturile online in siguranta maxima.",
+      "3D_SECURE": "3D Secure, integration Mobile Banking",
+      "3D_SECURE_DESCRIPTION": "Modulul 3D secure este integrat in aplicatia Mobile Banking, astfel incat confirmarea platilor online se face simplu si rapid in sigranta maxima. Acest modul este disponibil si pentru clienti care nu folosesc serviciul Mobile Banking, dar au aplicatia instalata."
+    },
+    "SPECIAL_FUNCTIONS": {
+      "TITLE": "Functii speciale",
+      "IB": "Internet Banking",
+      "MB": "Mobile Banking",
+      "CHAT": "Chat & Chat Guidance",
+      "CHAT_DESCRIPTION": "Ofera un suport de 5 stele. Prin chat guidenace poti sa ii arati clientului toti pasii pe care trebuie sa ii parcurga.",
+      "BANNER_MANAGEMENT": "Banner Management",
+      "BANNER_MANAGEMENT_DESCRIPTION": "Ajuta-l pe client sa aiba o sanatate financiara mai buna. Invata-l sa constientizeze ce se intampla cu banii lui.",
+      "BACK_OFFICE": "Back office",
+      "BACK_OFFICE_DESCRIPTION": "Back Office-ul permite configurarea tuturor pretentiilor venite de la clienti. De la drepturi de avizare plati diferite pe utliatori pana la limite individuale, vizualizare produse.",
+      "APP_SHIELDING": "App shielding",
+      "APP_SHIELDING_DESCRIPTION": "O functie care permite aplicatiei sa functioneze doar atunci cand sistemul de operare este cel Android sau iOS si nu functioneaza pe jailbreak.",
+      "TOKEN_INTEGRATION": "Token Integration",
+      "TOKEN_INTEGRATION_DESCRIPTION": "Tokenul este integrat in aplicatie, astfel incat utilizatorii nu au nevoie de doua aplicatii ca sa acceseze conturile bancare.",
+      "ANTIVIRUS": "Antivirus",
+      "ANTIVIRUS_DESCRIPTION": "Protejam clientul odata cu instalarea aplicatiei Mobile Banking printr-un modul antivirus."
     }
   },
   "en": {
@@ -128,8 +197,7 @@
       "PRODUCT": "Products",
       "CONTACT": "Contact",
       "CARRIERS": "Careers",
-      "LANGUAGE": "Select language",
-      "COOKIE_POLICY": "Cookie policy"
+      "LANGUAGE": "Select language"
     },
     "HOME_MAIN": {
       "TITLE_HERO_PRIMARY": "Online Banking in just 6 months",
@@ -196,7 +264,7 @@
     "CAREERS_MAIN": {
       "HEADING": "Come to us as a team!",
       "SUBHEADING": "The team was built with members elected by spanceana, who have common values, they like challenges, but they also know how to have fun.",
-      "SEE-BELOW": "See below if you like what we offer and if you fit in with us!",
+      "SEE_BELOW": "See below if you like what we offer and if you fit in with us!",
       "BUTTON": "Job Vacancies"
     },
     "VALUES_SECTION": {
@@ -206,46 +274,116 @@
       "NAME": "Punctuality",
       "HEADING":  "We deliver everything on time",
       "DESCRIPTION": "Because time is the most important resource, and we deliver everything on time, we reward the team with:",
-      "ITEM-1": "work program <span class=\"text-out\">6 hours</span>",
-      "ITEM-2": "<span class=\"text-out\"> flexible schedule, </span> we don't look at the clock when you enter the office",
-      "ITEM-3": "holiday <span class=\"text-out\"> 25 days a year </span>, to which we add 1 day each with us"
+      "ITEM_1": "work program <span class=\"text-out\">6 hours</span>",
+      "ITEM_2": "<span class=\"text-out\"> flexible schedule, </span> we don't look at the clock when you enter the office",
+      "ITEM_3": "holiday <span class=\"text-out\"> 25 days a year </span>, to which we add 1 day each with us"
     },
 
     "CLEAN_CODE" : {
       "NAME": "Clean Code",
       "HEADING":  "Code health",
       "DESCRIPTION": "Your health is as important to us as the health of the code you wrote. We offer you:",
-      "ITEM-1": "<span class=\"text-out\"> health insurance </span> + EUR 1,000 reimbursement of medical expenses, of which 50% can be used for 1st degree relatives",
-      "ITEM-2": "<span class=\"text-out\"> healthy eating: </span> lunch, coffee and fresh fruit are settled when you're at the office",
-      "ITEM-3": "if you play a sport, the company pays <span class=\"text-out\"> 50% of your monthly subscription </span>"
+      "ITEM_1": "<span class=\"text-out\"> health insurance </span> + EUR 1,000 reimbursement of medical expenses, of which 50% can be used for 1st degree relatives",
+      "ITEM_2": "<span class=\"text-out\"> healthy eating: </span> lunch, coffee and fresh fruit are settled when you're at the office",
+      "ITEM_3": "if you play a sport, the company pays <span class=\"text-out\"> 50% of your monthly subscription </span>"
     },
     "BEST_SOLUTION" : {
       "NAME": "Best solutions",
       "HEADING":  "We offer the most suitable solutions to our clients",
       "DESCRIPTION": "We pay attention to the clients' budget, that's why we make sure you prosper and we offer you a saving program:",
-      "ITEM-1": "You save 10% of your salary every month. At the end of a year, the company gives you, in addition to the amount saved by you, a <span class = \"text-out\"> 50% bonus. </span>",
-      "ITEM-2": "If you buy your house, the rate you pay monthly is considered part of the savings program. The condition is to use the amount you receive back to make an early repayment on credit."
+      "ITEM_1": "You save 10% of your salary every month. At the end of a year, the company gives you, in addition to the amount saved by you, a <span class = \"text-out\"> 50% bonus. </span>",
+      "ITEM_2": "If you buy your house, the rate you pay monthly is considered part of the savings program. The condition is to use the amount you receive back to make an early repayment on credit."
     },
     "BEST_TECHNOLOGIES" : {
-      "NAME": "Best technologies",
+      "NAME": "Best solutions",
       "HEADING":  "We keep up with the latest technologies",
       "DESCRIPTION": "We use the latest technologies because our partners care about the safety of their customers:",
-      "ITEM-1": "The company buys the phone you want, for which you will pay only 50% of its value."
+      "ITEM_1": "The company buys the phone you want, for which you will pay only 50% of its value."
     },
     "SECTION_OFFICE": {
       "HEADING": "Our office tour"
     },
     "SECTION_VACANCIES": {
       "HEADING": "Job Vacancies",
-      "BLOCK-NAME": "Oracle developer (SQL, PL / SQL Developer)",
-      "LIST-TITLE": "The recruitment process consists of:",
-      "ITEM-1": "Phase 1: filling in a form on the site (15-20 min)",
-      "ITEM-2": "Step 2: A test in which you need to implement an API used by a web application.",
+      "BLOCK_NAME": "Oracle developer (SQL, PL / SQL Developer)",
+      "LIST_TITLE": "The recruitment process consists of:",
+      "ITEM_1": "Phase 1: filling in a form on the site (15-20 min)",
+      "ITEM_2": "Step 2: A test in which you need to implement an API used by a web application.",
       "BUTTON": "Find out more"
     },
     "FOOTER": {
       "CALL_TO_ACTION": "Do you want to collaborate on a project?",
       "CONTACT_BUTTON": "Contact us"
+    },
+    "IB_MAIN": {
+      "TITLE":"Internet Banking & Mobile Banking <span class=\"txt-blue\"> 100% natural <span>",
+      "SUBTITLE": "We constantly analyze customer behavior and adapt the flows in the application as it is natural for the user to use the functions."
+    },
+    "SECTION_UX": {
+      "TITLE": "Unique design to the highest UX standards",
+      "SUBTITLE": "We designed the applications to be intuitive, to work quickly and to satisfy all the needs of the client, no matter what platform he uses.",
+      "CARD_SIMPLE": "Simple",
+      "CARD_SIMPLE_DESCRIPTION": "We make complex operations seem simple to users of our applications.",
+      "CARD_SURE": "Sure",
+      "CARD_SURE_DESCRIPTION": "We add antivirus and app shielding in Mobile Banking so as to increase customer security.",
+      "CARD_EXP": "Exp. omni-channel",
+      "CARD_EXP_DESCRIPTION": "Family experience regardless of the platform the client uses.",
+      "CARD_INTEGRATION": "Integration with any type of token",
+      "CARD_INTEGRATION_DESCRIPTION": "We want to offer a new experience to the customer, without asking him to change his token."
+    },
+    "COMMON_FUNCTIONS": {
+      "TITLE": "<span class=\"txt-blue\">Common functions:</span><br>Internet Banking si Mobile Banking"
+    },
+    "ADVANTAGE": {
+      "AUDITORS": "Auditors",
+      "AUDITORS_DESCRIPTION": "Give the user the opportunity to open a new checking account if needed.",
+      "CARDS": "Cards",
+      "CARDS_DESCRIPTION": "The user can change ATM limits, pay online, or even block the card or request a new card, including a digital card.",
+      "OPERATIONS": "Operations",
+      "OPERATIONS_DESCRIPTION": "Payments in lei, currency, transfer, currency exchange, but also withdrawal from credit limits.",
+      "CREDITS": "Credits",
+      "CREDITS_DESCRIPTION": "The user can download the credit schedule or see all the information about the contracted product.",
+      "WAREHOUSES": "Warehouses",
+      "WAREHOUSES_DESCRIPTION": "Establishment and liquidation of deposits whenever the client wishes.",
+      "NOTIFICATIONS": "Notifications",
+      "NOTIFICATIONS_DESCRIPTION": "The user receives notifications when something important happens to him.",
+      "CHAT": "Chat & Chat Guidance",
+      "CHAT_DESCRIPTION": "Provides the user with the best quality support, through chat or guidance directly on his screen.",
+      "SETTINGS": "Settings",
+      "SETTINGS_DESCRIPTION": "The user can set an account name, change their password, or manage their list of templates.",
+      "REPORTS": "Reports",
+      "REPORTS_DESCRIPTION": "Extracts in PDF, XML, CSV, TXT ready for any need the client may have.",
+      "UPLOAD_DOCUMENTS": "Upload documents",
+      "UPLOAD_DOCUMENTS_DESCRIPTION": "The user can upload documents requested by the bank, in a secure environment, without going to a branch.",
+      "ACCOUNT": "Account Top-up",
+      "ACCOUNT_DESCRIPTION": "The user can instantly transfer his money from his card from another bank to your bank account.",
+      "SAVING": "Automatic saving",
+      "SAVING_DESCRIPTION": "The user can instantly transfer his money from his cart from another bank to your bank account."
+    },
+    "SECTION_ESPECIALLY": {
+      "TITLE": "Especially for cards, <br> the most used banking product",
+      "VIRTUAL_CARDS": "Virtual cards",
+      "VIRTUAL_CARDS_DESCRIPTION": "The customer generates cards when he needs to do his online shopping in maximum security.",
+      "3D_SECURE": "3D Secure, Mobile Banking integration",
+      "3D_SECURE_DESCRIPTION": "The 3D secure module is integrated in the Mobile Banking application, so that the confirmation of online payments is made simple and fast in maximum security. This module is also available for customers who do not use the Mobile Banking service, but have the application installed."
+    },
+    "SPECIAL_FUNCTIONS": {
+      "TITLE": "Special functions",
+      "IB": "Internet Banking",
+      "MB": "Mobile Banking",
+      "CHAT": "Chat & Chat Guidance",
+      "CHAT_DESCRIPTION": "Offers 5-star support. Through chat guidance you can show the client all the steps he has to go through.",
+      "BANNER_MANAGEMENT": "Banner Management",
+      "BANNER_MANAGEMENT_DESCRIPTION": "Help the client to have better financial health. Teach him to be aware of what is happening with his money.",
+      "BACK_OFFICE": "Back office",
+      "BACK_OFFICE_DESCRIPTION": "The Back Office allows you to configure all customer requests. From different payment rights per user to individual limits, product viewing.",
+      "APP_SHIELDING": "App shielding",
+      "APP_SHIELDING_DESCRIPTION": "A feature that allows the app to work only when the operating system is Android or iOS and does not work on jailbreak.",
+      "TOKEN_INTEGRATION": "Token Integration",
+      "TOKEN_INTEGRATION_DESCRIPTION": "The token is integrated into the application, so users do not need two applications to access bank accounts.",
+      "ANTIVIRUS": "Antivirus",
+      "ANTIVIRUS_DESCRIPTION": "We protect the client once the Mobile Banking application is installed through an antivirus module."
+
     }
   }
 }
