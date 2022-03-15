@@ -345,8 +345,7 @@
     },
     "FOOTER": {
       "CALL_TO_ACTION": "Do you want to collaborate on a project?",
-      "CONTACT_BUTTON": "Contact us",
-
+      "CONTACT_BUTTON": "Contact us"
     },
     "IB_MAIN": {
       "TITLE":"Internet Banking & Mobile Banking <span class=\"txt-blue\"> 100% natural <span>",
