@@ -228,7 +228,8 @@
       "PRODUCT": "Products",
       "CONTACT": "Contact",
       "CARRIERS": "Careers",
-      "LANGUAGE": "Select language"
+      "LANGUAGE": "Select language",
+      "COOKIE_POLICY": "Cookies policy"
     },
     "HOME_MAIN": {
       "TITLE_HERO_PRIMARY": "Online Banking in just 6 months",
@@ -344,7 +345,8 @@
     },
     "FOOTER": {
       "CALL_TO_ACTION": "Do you want to collaborate on a project?",
-      "CONTACT_BUTTON": "Contact us"
+      "CONTACT_BUTTON": "Contact us",
+
     },
     "IB_MAIN": {
       "TITLE":"Internet Banking & Mobile Banking <span class=\"txt-blue\"> 100% natural <span>",
