@@ -190,6 +190,37 @@
       "TOKEN_INTEGRATION_DESCRIPTION": "Tokenul este integrat in aplicatie, astfel incat utilizatorii nu au nevoie de doua aplicatii ca sa acceseze conturile bancare.",
       "ANTIVIRUS": "Antivirus",
       "ANTIVIRUS_DESCRIPTION": "Protejam clientul odata cu instalarea aplicatiei Mobile Banking printr-un modul antivirus."
+    },
+    "OPERATION_MAIN": {
+      "TITLE": "Plati si in timp ce core-bankingul nu este disponibil",
+      "SUBTITLE": "Ofera clientului transferuri si plati 24/7, inclusiv in timp ce core-bankingul proceseaza inchiderea de zi."
+    },
+    "OPERATION_BANNER": {
+      "TITLE": "Operatii 24/7",
+      "DESCRIPTION": "Cu modulul 24/7 ai acces la platile de pe platforma Transfond Instant. Astfel, clientii tai pot procesa plati instant atat intrabancare cat si interbancare, indiferent de disponibilitatea sistemului core-banking."
+    },
+    "FEATURE": {
+      "AVAILABILITY": "Disponibilitate",
+      "AVAILABILITY_DESCRIPTION": "Toate aplicatiile care proceseaza operatii pe baza soldului conturilor, devin disponibile 24/7.",
+      "IMPLEMENTATION_TIME": "Timp de implementare",
+      "IMPLEMENTATION_TIME_DESCRIPTION": "Implementarea modulului 24/7 se face prin API-uri flexibile, motiv pentru care durata implementarii este scurta.",
+      "CUSTOMER_SATISFACTION": "Satisfactia clientului",
+      "CUSTOMER_SATISFACTION_DESCRIPTION": "Clientul poate sa primeasca confirmarea ca beneficiarul are disponibila suma pe cont.",
+      "INSTANT_PAYMENTS": "Plăți instantanee",
+      "INSTANT_PAYMENTS_DESCRIPTION": "Transfond Instant este inclus in modulul 24/7. Clientii tai vor putea face plati instant catre bancile care au aderat la aceasta platforma."
+    },
+    "SECTION_BENEFITS": {
+      "TITLE": "Beneficii",
+      "AVAILABILITY": "Disponibilitate",
+      "AVAILABILITY_DESCRIPTION": "Platile si incasarile sunt disponibile 24/7, independent de core banking.",
+      "SPEED": "Viteza",
+      "SPEED_DESCRIPTION": "Platile si incasarile se realizeaza in cateva secunde, indiferent daca este plata inter sau intrabancara.",
+      "SAFETY": "Siguranta",
+      "SAFETY_DESCRIPTION": "Platile vor pastra aceasi siguranta ca si in cazul platilor normale."
+    },
+    "BANNER_CLUB": {
+      "TITLE": "Intra in clubul bancilor care ofera plati instante.",
+      "DESCRIPTION": "Cu modulul 24/7 ai acces la platile de pe platforma Transfond Instant. Astfel, clientii tai pot procesa plati instant atat intrabancare cat si interbancare, indiferent de disponibilitatea sistemului core-banking."
     }
   },
   "en": {
@@ -383,7 +414,37 @@
       "TOKEN_INTEGRATION_DESCRIPTION": "The token is integrated into the application, so users do not need two applications to access bank accounts.",
       "ANTIVIRUS": "Antivirus",
       "ANTIVIRUS_DESCRIPTION": "We protect the client once the Mobile Banking application is installed through an antivirus module."
-
+    },
+    "OPERATION_MAIN": {
+      "TITLE": "Payments while core banking is not available",
+      "SUBTITLE": "It offers the customer transfers and payments 24/7, including while the core-banking processes the closing of the day."
+    },
+    "OPERATION_BANNER": {
+      "TITLE": "24/7 Operations",
+      "DESCRIPTION": "With the 24/7 module you have access to payments on the Transfond Instant platform. Thus, your customers can process instant payments both intrabank and interbank, regardless of the availability of the core-banking system."
+    },
+    "FEATURE": {
+      "AVAILABILITY": "Availability",
+      "AVAILABILITY_DESCRIPTION": "All applications that process account-based transactions become available 24/7.",
+      "IMPLEMENTATION_TIME": "Implementation time",
+      "IMPLEMENTATION_TIME_DESCRIPTION": "The implementation of the module 24/7 is done through flexible APIs, which is why the implementation time is short.",
+      "CUSTOMER_SATISFACTION": "Customer satisfaction",
+      "CUSTOMER_SATISFACTION_DESCRIPTION": "The customer can receive confirmation that the beneficiary has the amount available on the account.",
+      "INSTANT_PAYMENTS": "Instant payments",
+      "INSTANT_PAYMENTS_DESCRIPTION": "Instant Background is included in the 24/7 module. Your customers will be able to make instant payments to banks that have joined this platform."
+    },
+    "SECTION_BENEFITS": {
+      "TITLE": "BENEFITS",
+      "AVAILABILITY": "Availability",
+      "AVAILABILITY_DESCRIPTION": "Payments and receipts are available 24/7, independent of core banking.",
+      "SPEED": "Speed",
+      "SPEED_DESCRIPTION": "Payments and receipts are made in seconds, regardless of whether the payment is inter or interbank.",
+      "SAFETY": "Safety",
+      "SAFETY_DESCRIPTION": "Payments will remain as secure as normal payments."
+    },
+    "BANNER_CLUB": {
+      "TITLE": "Join the club of banks that offer court payments.",
+      "DESCRIPTION": "With the 24/7 module you have access to payments on the Transfond Instant platform. Thus, your customers can process instant payments both intrabank and interbank, regardless of the availability of the core-banking system."
     }
   }
 }
