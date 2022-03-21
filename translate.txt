@@ -119,7 +119,7 @@
       "BUTTON": "Afla mai multe"
     },
     "FOOTER": {
-      "CALL_TO_ACTION": "Vrei sa colaboram intr-un proiect?",
+      "CALL_TO_ACTION": "Vrei sa colaboram?",
       "CONTACT_BUTTON": "Contacteaza-ne"
     },
     "IB_MAIN": {
@@ -221,6 +221,27 @@
     "BANNER_CLUB": {
       "TITLE": "Intra in clubul bancilor care ofera plati instante.",
       "DESCRIPTION": "Cu modulul 24/7 ai acces la platile de pe platforma Transfond Instant. Astfel, clientii tai pot procesa plati instant atat intrabancare cat si interbancare, indiferent de disponibilitatea sistemului core-banking."
+    },
+    "STARTECH": {
+      "TITLE": "Dezvoltam software pentru startup-uri",
+      "SUBTITLE": "Ai o idee grozavă despre o aplicație, dar nu ai o echipă de dezvoltatori?\nSau ai început să te dezvolți, dar ai prefera să accelerezi și să folosești o platformă stabilă care să garanteze dezvoltarea viitoare?<br>Oferim parteneriate startup-urilor care au nevoie de o echipă de dezvoltatori cu experiență, cu o platformă solidă, sigură și scalabilă.",
+      "BUTTON": "Lasă-ne să ne alăturăm călătoriei tale"
+    },
+    "OFFER": {
+      "TITLE": "Oferta noastra",
+      "TECHNOLOGY": "Ne ocupăm de tehnologie",
+      "TECHNOLOGY_DESCRIPTION": "Ne putem alătura proiectului dumneavoastră și ne vom ocupa de toate necesitățile tehnologice: dezvoltare de aplicații, infrastructură cloud, site web - cu toate costurile aferente!",
+      "USER_FLOW": "Luăm fluxul de utilizator de la început până la sfârșit",
+      "USER_FLOW_DESCRIPTION": "Crearea unei hărți a călătoriei clienților axată pe experiența clienților pentru achizițiile utilizatorilor, pe o experiență excelentă a utilizatorului pentru a surprinde utilizatorul și pe o interfață de utilizator fantastică",
+      "PLATFORM": "Platformă scalabilă de ultimă generație",
+      "PLATFORM_DESCRIPTION": "Platforma noastră și-a dovedit eficiența și securitatea prin implementarea în bănci pentru a oferi clienților canalul Online Banking - atât Web cât și Mobile.",
+      "CARD_LEAN": "Metodologia de dezvoltare software Lean",
+      "CARD_LEAN_DESCRIPTION": "Dezvoltăm produse cu cadrul agil, optimizând timpii și resursele în crearea unui MVP pentru piață, învățând de la utilizatori și iterând pe baza feedback-ului până când produsul devine matur",
+      "CARD_STATISTICS": "Modul de statistică",
+      "CARD_STATISTICS_DESCRIPTION": "Este esențial să măsurați succesul. De aceea, dezvoltăm un modul statistic care oferă valori configurabile pentru a măsura succesul dintre iterații"
+    },
+    "ALREADY_INVESTED": {
+      "TITLE": "Am investit deja în:"
     }
   },
   "en": {
@@ -344,7 +365,7 @@
       "BUTTON": "Find out more"
     },
     "FOOTER": {
-      "CALL_TO_ACTION": "Do you want to collaborate on a project?",
+      "CALL_TO_ACTION": "Do you want to collaborate?",
       "CONTACT_BUTTON": "Contact us"
     },
     "IB_MAIN": {
@@ -446,6 +467,27 @@
     "BANNER_CLUB": {
       "TITLE": "Join the club of banks that offer court payments.",
       "DESCRIPTION": "With the 24/7 module you have access to payments on the Transfond Instant platform. Thus, your customers can process instant payments both intrabank and interbank, regardless of the availability of the core-banking system."
+    },
+    "STARTECH": {
+      "TITLE": "We are developing software for startups",
+      "SUBTITLE": "You have a great idea of an app but don’t have a team of developers?\nOr you started developing but would prefer to accelerate and use a stable platform that would guarantee future development?<br>We offer parterships for startups that need an experienced developer team, with a solid, secure and scalable platform.",
+      "BUTTON": "Let us join your journey"
+    },
+    "OFFER": {
+      "TITLE": "Our offer",
+      "TECHNOLOGY": "We take care of technology",
+      "TECHNOLOGY_DESCRIPTION": "We can join your project and take care of all the technology necessities: app development, cloud infrastructure, website - with all related costs!",
+      "USER_FLOW": "We take the user flow from start to end",
+      "USER_FLOW_DESCRIPTION": "Creating a Customer Journey Map focused on Customer Experience for user acquisitions, excellent User Experience to WOW the user, and fantastic User Interface",
+      "PLATFORM": "State-of-the-art scalable platform",
+      "PLATFORM_DESCRIPTION": "Our platform has proven its efficiency and security by being implemented in banks to provide the Online Banking channel to the customers - both Web an Mobile.",
+      "CARD_LEAN": "Lean Software Development Methodology",
+      "CARD_LEAN_DESCRIPTION": "We develop products with the agile framework, optimizing the times and resources in creating an MVP for the market, learning from the users and iterating based on feedback until the product becomes mature",
+      "CARD_STATISTICS": "Statistics module",
+      "CARD_STATISTICS_DESCRIPTION": "It is essential to measure success. That’s why we develop a statistic module that provides configurable metrics to measure the success between iterations"
+    },
+    "ALREADY_INVESTED": {
+      "TITLE": "We already invested in:"
     }
   }
 }
