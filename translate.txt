@@ -224,7 +224,7 @@
     },
     "STARTECH": {
       "TITLE": "Dezvoltam software pentru startup-uri",
-      "SUBTITLE": "Ai o idee grozavă despre o aplicație, dar nu ai o echipă de dezvoltatori?\nSau ai început să te dezvolți, dar ai prefera să accelerezi și să folosești o platformă stabilă care să garanteze dezvoltarea viitoare?<br>Oferim parteneriate startup-urilor care au nevoie de o echipă de dezvoltatori cu experiență, cu o platformă solidă, sigură și scalabilă.",
+      "SUBTITLE": "Ai o idee grozavă despre o aplicație, dar nu ai o echipă de dezvoltatori?<br>Sau ai început să te dezvolți, dar ai prefera să accelerezi și să folosești o platformă stabilă care să garanteze dezvoltarea viitoare?<br><br>Oferim parteneriate startup-urilor care au nevoie de o echipă de dezvoltatori cu experiență, cu o platformă solidă, sigură și scalabilă.",
       "BUTTON": "Lasă-ne să ne alăturăm călătoriei tale"
     },
     "OFFER": {
@@ -470,7 +470,7 @@
     },
     "STARTECH": {
       "TITLE": "We are developing software for startups",
-      "SUBTITLE": "You have a great idea of an app but don’t have a team of developers?\nOr you started developing but would prefer to accelerate and use a stable platform that would guarantee future development?<br>We offer parterships for startups that need an experienced developer team, with a solid, secure and scalable platform.",
+      "SUBTITLE": "You have a great idea of an app but don’t have a team of developers?<br>Or you started developing but would prefer to accelerate and use a stable platform that would guarantee future development?<br><br>We offer parterships for startups that need an experienced developer team, with a solid, secure and scalable platform.",
       "BUTTON": "Let us join your journey"
     },
     "OFFER": {
