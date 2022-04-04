@@ -487,7 +487,7 @@
       "CARD_STATISTICS_DESCRIPTION": "It is essential to measure success. That’s why we develop a statistic module that provides configurable metrics to measure the success between iterations"
     },
     "ALREADY_INVESTED": {
-      "TITLE": "We already invested in:"
+      "TITLE": "We already invested in:  "
     }
   }
 }
