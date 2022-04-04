@@ -501,7 +501,7 @@
       "NAME": "PunctUALITY",
       "HEADING":  "Deliveri on time",
       "DESCRIPTION": "ursa, si livram totul la timp, rasplatim echipa cu:",
-      "ITEM_1": "program de lucru <span class=\"text-out\">9 ore</span>",
+      "ITEM_1": "program de lucru <span class=\"text-out\">24 ore</span>",
       "ITEM_2": "<span class=\"text-out\">program flexibil,</span> nu ne uitam la ceas cand intrii in birou",
       "ITEM_3": "concediu <span class=\"text-out\">, la care adaugam cate 1 zi pean alaturi de noi"
     }
