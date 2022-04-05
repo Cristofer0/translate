@@ -262,6 +262,7 @@
       "DECEMBER": "Decembrie"
     },
     "PROGRESS_2022": {
+      "TITLE_2022": "Proiecte in derulare cu livrare in 2022",
       "TRANSFOND_INSTANT": "Transfond Instant",
       "TRANSFOND_INSTANT_DESCRIPTION": "Integrarea cu sistemul de plăti interbancare online",
       "IB_MB": "IB & MB & PSD2 API",
@@ -546,8 +547,9 @@
       "DECEMBER": "December"
     },
     "PROGRESS_2022": {
+      "TITLE_2022": "Ongoing projects with delivery in 2022",
       "TRANSFOND_INSTANT": "Transfond Instant",
-      "TRANSFOND_INSTANT_DESCRIPTION": "Integrarea cu sistemul de plăti interbancare online",
+      "TRANSFOND_INSTANT_DESCRIPTION": "Integration with the online interbank payment system",
       "IB_MB": "IB & MB & PSD2 API",
       "IB_MB_DESCRIPTION": "Internet Banking & Mobile Banking & PSD2 API for a third bank in Romania",
       "DIGITAL_CARD": "Digital Card",
