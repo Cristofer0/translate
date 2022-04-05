@@ -16,8 +16,6 @@
       "BUTTON_HERO_SECONDARY": "Citeste mai multe"
     },
     "SECTION_TIME_LINE": {
-      "TITLE_2022": "Proiecte in derulare cu livrare in 2022",
-      "TITLE_2021": "Cele mai interesante module si funcționalități lansate recent pentru băncile noastre",
       "BUTTON_SECTION_DESCRIPTION": "Putem dezvolta si alte proiecte",
       "BUTTON_TITLE": "Contact us"
     },
@@ -242,6 +240,46 @@
     },
     "ALREADY_INVESTED": {
       "TITLE": "Am investit deja în:"
+    },
+    "PROGRESS_2021":{
+      "TITLE_2021": "Cele mai interesante module si funcționalități lansate recent pentru băncile noastre",
+      "EXCHANGE_FLOW": "Flux negociere schimburi",
+      "EXCHANGE_FLOW_DESCRIPTION": "Negocierea ratei de schimb prin dealer de trezorerie.",
+      "MULTIPLE_PAYMENT": "Modul plata multipla",
+      "MULTIPLE_PAYMENT_DESCRIPTION": "Introducerea unei plăți către mai multi beneficiari, inclusiv prin multiplicare.",
+      "3D_SECURE": "3D Secure V2",
+      "3D_SECURE_DESCRIPTION": "Inca o banca a lansat modulul de autorizare biometrică a plaților cu cardul integrat in Mobile Banking.",
+      "WAITING_AVAILABLE": "Așteptare disponibil",
+      "WAITING_AVAILABLE_DESCRIPTION": "Plățile stau in așteptare pana in momentul când exista disponibil sau începe EOD.",
+      "SALARY_MODULE": "Modul salarizar",
+      "SALARY_MODULE_DESCRIPTION": "Cu liste de salariați și multiplicarea listei din luna precedentă.",
+      "RECOVERY_FLOW": "Flux recuperare utilizator",
+      "RECOVERY_FLOW_DESCRIPTION": "Identificarea online a clientului si trimiterea numelui de utilizator.",
+      "FEBRUARY": "Februarie",
+      "MARCH": "Martie",
+      "JUNE": "Iunie",
+      "JULY": "Iulie",
+      "DECEMBER": "Decembrie"
+    },
+    "PROGRESS_2022": {
+      "TRANSFOND_INSTANT": "Transfond Instant",
+      "TRANSFOND_INSTANT_DESCRIPTION": "Integrarea cu sistemul de plăti interbancare online",
+      "IB_MB": "IB & MB & PSD2 API",
+      "IB_MB_DESCRIPTION": "Internet Banking & Mobile Banking & PSD2 API pentru o a treia banca din Romania",
+      "DIGITAL_CARD": "Digital Card",
+      "DIGITAL_CARD_DESCRIPTION": "Emitere in doar câteva minute cu utilizare imediată prin Apple Pay si Google Pay.",
+      "TRUE_BALANCE": "True 24/7 Balance",
+      "TRUE_BALANCE_DESCRIPTION": "Aplicația de gestiune online a disponibilului pentru toate canalele digitale: Online Banking, Carduri, IVR, PSD2 API",
+      "INTEGRATION": "Integrare",
+      "INTEGRATION_DESCRIPTION": "Integrare conturi de la alte bănci prin PSD2 API",
+      "INTERNET_BANKING": "Internet Banking",
+      "INTERNET_BANKING_DESCRIPTION": "Internet Banking pentru o banca din Romania.",
+      "MOBILE_BANKING": "Mobile Banking",
+      "MOBILE_BANKING_DESCRIPTION": "Mobile Banking pentru o alta banca din Romania",
+      "GET_CVV": "Get CVV",
+      "GET_CVV_DESCRIPTION": "Accesare informații securizate card pentru plăți online (număr card, data expirare, CVV)\nNegociere schimburi fără operator",
+      "EXCHANGE_NEGOTIATION": "Negociere schimburi fără operator",
+      "EXCHANGE_NEGOTIATION_DESCRIPTION": "Flux automat de negociere schimburi valutare fără intervenție umana."
     }
   },
   "en": {
@@ -261,8 +299,6 @@
       "BUTTON_HERO_SECONDARY": "Read more"
     },
     "SECTION_TIME_LINE": {
-      "TITLE_2022": "Ongoing projects with delivery in 2022",
-      "TITLE_2021": "The most interesting modules and features recently launched for our banks",
       "BUTTON_SECTION_DESCRIPTION": "We can develop other projects",
       "BUTTON_TITLE": "Contact us"
     },
@@ -488,6 +524,46 @@
     },
     "ALREADY_INVESTED": {
       "TITLE": "We already invested in:"
+    },
+    "PROGRESS_2021":{
+      "TITLE_2021": "The most interesting modules and functionalities recently launched for our banks",
+      "EXCHANGE_FLOW": "Exchange negotiation flow",
+      "EXCHANGE_FLOW_DESCRIPTION": "Negotiating the exchange rate through the treasury dealer.",
+      "MULTIPLE_PAYMENT": "Multiple payment mode",
+      "MULTIPLE_PAYMENT_DESCRIPTION": "Introduce a payment to multiple beneficiaries, including by multiplying.",
+      "3D_SECURE": "3D Secure V2",
+      "3D_SECURE_DESCRIPTION": "Another bank has launched the biometric authorization module for payments with the card integrated in Mobile Banking.",
+      "WAITING_AVAILABLE": "Waiting available",
+      "WAITING_AVAILABLE_DESCRIPTION": "Payments are pending until EOD is available or begins.",
+      "SALARY_MODULE": "Salary module",
+      "SALARY_MODULE_DESCRIPTION": "With employee lists and multiplying the list from the previous month.",
+      "RECOVERY_FLOW": "User recovery flow",
+      "RECOVERY_FLOW_DESCRIPTION": "Identifying the customer online and sending the username.",
+      "FEBRUARY": "February",
+      "MARCH": "March",
+      "JUNE": "June",
+      "JULY": "July",
+      "DECEMBER": "December"
+    },
+    "PROGRESS_2022": {
+      "TRANSFOND_INSTANT": "Transfond Instant",
+      "TRANSFOND_INSTANT_DESCRIPTION": "Integrarea cu sistemul de plăti interbancare online",
+      "IB_MB": "IB & MB & PSD2 API",
+      "IB_MB_DESCRIPTION": "Internet Banking & Mobile Banking & PSD2 API for a third bank in Romania",
+      "DIGITAL_CARD": "Digital Card",
+      "DIGITAL_CARD_DESCRIPTION": "Issue in just a few minutes with immediate use via Apple Pay and Google Pay.",
+      "TRUE_BALANCE": "True 24/7 Balance",
+      "TRUE_BALANCE_DESCRIPTION": "Online management application available for all digital channels: Online Banking, Cards, IVR, PSD2 API",
+      "INTEGRATION": "Integration",
+      "INTEGRATION_DESCRIPTION": "Integration of accounts from other banks through PSD2 API",
+      "INTERNET_BANKING": "Internet Banking",
+      "INTERNET_BANKING_DESCRIPTION": "Internet Banking for a bank in Romania.",
+      "MOBILE_BANKING": "Mobile Banking",
+      "MOBILE_BANKING_DESCRIPTION": "Mobile Banking pentru o alta banca din Romania",
+      "GET_CVV": "Get CVV",
+      "GET_CVV_DESCRIPTION": "Access secure card information for online payments (card number, expiration date, CVV) Exchange negotiations without operator",
+      "EXCHANGE_NEGOTIATION": "Exchange negotiation without operator",
+      "EXCHANGE_NEGOTIATION_DESCRIPTION": "Automatic flow of foreign exchange trading without human intervention."
     }
   }
 }
