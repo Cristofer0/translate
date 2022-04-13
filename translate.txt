@@ -38,7 +38,7 @@
       "PSD2_DESCRIPTION": "Seteaza un API care sa fie conform PSD2 pentru a crea noi produse bazate pe noi oportunitati.",
       "ELOAN_HEADING": "eLoan Origination",
       "ELOAN_DESCRIPTION": "Intra in cercul bancilor integrate cu Transfond Instant pentru a ajuta clientii sa transfere fonduri in cateva secunde.",
-      "SME_HEADING": "SMEOnboarding",
+      "SME_HEADING": "SME Onboarding",
       "SME_DESCRIPTION": "Onboarding simplificat,cu semnatura token, fara sa fie necesara implicarea sucursalelor.",
       "BUTTON_CARD": "Citeste mai multe",
       "BUTTON_SECTION_DESCRIPTION": "Pentru a afla mai multe despre produsele noastre:",
@@ -100,7 +100,7 @@
       "ITEM_2": "In cazul in care iti cumperi casa, rata pe care o platesti lunar este considerata parte a programului de economisire. Conditia este safolosesti suma pe care o primesti inapoi pentru a face o rambursare anticipata la credit."
     },
     "BEST_TECHNOLOGIES" : {
-      "NAME": "Best solutions",
+      "NAME": "Best technologies",
       "HEADING":  "Tinem pasul cu cele mai noi tehnologii",
       "DESCRIPTION": "Folosim cele mai noi tehnologii pentru ca partenerii nostrii tin la securitatea clientilor lor:",
       "ITEM_1": "Compania iti achizitioneaza telefonul dorit, pentru care tu vei plati doar 50% din valoarea lui."
@@ -322,7 +322,7 @@
       "PSD2_DESCRIPTION": "Set an PSD2 compliant API to create new products based on new opportunities.",
       "ELOAN_HEADING": "eLoan Origination",
       "ELOAN_DESCRIPTION": "Join the circle of banks integrated with Transfond Instant to help customers transfer funds in seconds.",
-      "SME_HEADING": "SMEOnboarding",
+      "SME_HEADING": "SME Onboarding",
       "SME_DESCRIPTION": "Simplified onboarding, with token signature, without the need for branch involvement.",
       "BUTTON_CARD": "Read more ",
       "BUTTON_SECTION_DESCRIPTION": "To learn more about our products:",
@@ -385,7 +385,7 @@
       "ITEM_2": "If you buy your house, the rate you pay monthly is considered part of the savings program. The condition is to use the amount you receive back to make an early repayment on credit."
     },
     "BEST_TECHNOLOGIES" : {
-      "NAME": "Best solutions",
+      "NAME": "Best technologies",
       "HEADING":  "We keep up with the latest technologies",
       "DESCRIPTION": "We use the latest technologies because our partners care about the safety of their customers:",
       "ITEM_1": "The company buys the phone you want, for which you will pay only 50% of its value."
