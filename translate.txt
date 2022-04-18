@@ -337,7 +337,7 @@
     "QA": {
       "HEADING": "Frequent questions",
       "TITLE_1": "Can the systems be integrated with any core banking?",
-      "CONTENT_1": "Can the systems be integrated with any core banking?",
+      "CONTENT_1": "Yes. So far we have integrated the solution with 4 different core-banks.",
       "TITLE_2": "Will the applications have a UI specific to our bank?",
       "CONTENT_2": "Yes. At each implementation we ensure UI compliance with the brand book and define UX together with the bank.",
       "TITLE_3": "What tokens have you integrated the system with?",
