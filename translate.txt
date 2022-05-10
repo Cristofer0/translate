@@ -39,7 +39,7 @@
       "ELOAN_HEADING": "eLoan Origination",
       "ELOAN_DESCRIPTION": "Intra in cercul bancilor integrate cu Transfond Instant pentru a ajuta clientii sa transfere fonduri in cateva secunde.",
       "SME_HEADING": "SME Onboarding",
-      "SME_DESCRIPTION": "Onboarding simplificat,cu semnatura token, fara sa fie necesara implicarea sucursalelor.",
+      "SME_DESCRIPTION": "Onboarding simplificat, cu semnatura token, fara sa fie necesara implicarea sucursalelor.",
       "BUTTON_CARD": "Citeste mai multe",
       "BUTTON_SECTION_DESCRIPTION": "Pentru a afla mai multe despre produsele noastre:",
       "BUTTON_TITLE": "Contacteaza-ne"
