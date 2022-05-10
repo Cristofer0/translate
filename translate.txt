@@ -21,7 +21,7 @@
     },
     "SECTION_STAR_TECH": {
       "HEADING": "Platforma <span class=\"txt-blue\">StarTech</span> - <br> parteneriat pentru startup-uri",
-      "SUBHEADING": "Platforma noastra este disponibila si pentru parteneriate cu StartUpuri. Indiferent de domeniul StartUpului tau, dacaai nevoie de un partener care este dezvoltator software, te putem ajuta cu experienta noastra"
+      "SUBHEADING": "Platforma noastra este disponibila si pentru parteneriate cu StartUpuri. Indiferent de domeniul StartUpului tau, daca ai nevoie de un partener care este dezvoltator software, te putem ajuta cu experienta noastra"
     },
     "SECTION_PRODUCT": {
       "HEADING": "Produsele noastre",
@@ -262,7 +262,7 @@
       "DECEMBER": "Decembrie"
     },
     "PROGRESS_2022": {
-      "TITLE_2022": "Proiecte in derulare cu livrare in 2022",
+      "TITLE_2022": "Proiecte în derulare cu livrare in 2022",
       "TRANSFOND_INSTANT": "Transfond Instant",
       "TRANSFOND_INSTANT_DESCRIPTION": "Integrarea cu sistemul de plăti interbancare online",
       "IB_MB": "IB & MB & PSD2 API",
