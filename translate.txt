@@ -21,7 +21,7 @@
     },
     "SECTION_STAR_TECH": {
       "HEADING": "Platforma <span class=\"txt-blue\">StarTech</span> - <br> parteneriat pentru startup-uri",
-      "SUBHEADING": "Platforma noastra este disponibila si pentru parteneriate cu StartUpuri. Indiferent de domeniul StartUpului tau, daca ai nevoie de un partener care este dezvoltator software, te putem ajuta cu experienta noastra"
+      "SUBHEADING": "Platforma noastra este disponibila si pentru parteneriate cu StartUpuri. Indiferent de domeniul StartUpului tau, daca ai nevoie de un partener care este dezvoltator software, te putem ajuta cu experienta noastra."
     },
     "SECTION_PRODUCT": {
       "HEADING": "Produsele noastre",
@@ -31,7 +31,7 @@
       "IB_HEADING": "Internet Banking & Mobile Banking",
       "IB_DESCRIPTION": "Aplicatia este construita la cele mai inalte standarde din piata. Are toate functiile la care se asteapta utilizatorul, precum si functii speciale. Aplicatia mobile iOS si Android cu identificare biometrica este integrata cu tokenul mobile.",
       "CO_HEADING": "Card Online& Digital cards",
-      "CO_DESCRIPTION": "Du-te la BIO. Oferiți carduri digitale clienților dvs. cu un sistem de carduri online care îl face să funcționeze excelent.",
+      "CO_DESCRIPTION": "Go BIO. Oferiți carduri digitale clienților dvs. cu un sistem de carduri online care îl face să funcționeze excelent.",
       "HEADING_24": "24/7 True Balance",
       "DESCRIPTION_24": "Intra in cercul bancilor integrate cu Transfond Instant pentru a ajuta clientii sa transfere fonduri in cateva secunde.",
       "PSD2_HEADING": "PSD 2API & SCA",
