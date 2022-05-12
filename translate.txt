@@ -1,4 +1,396 @@
-
+{
+  "ro": {
+    "NAV_MENU": {
+      "PRODUCT": "Produse",
+      "CONTACT": "Contact",
+      "CAREER": "Cariere",
+      "LANGUAGE": "Select",
+      "COOKIE_POLICY": "Politica de cookie-uri"
+    },
+    "HOME_MAIN": {
+      "TITLE_HERO_PRIMARY": "Online Banking în doar 6 luni",
+      "SUBTITLE_HERO_PRIMARY": "Proiectele noastre de Internet & Mobile Banking au durat intre 3 si 9 luni în dependentă de integrarea cu sistemele băncii.",
+      "BUTTON_HERO_PRIMARY": "Vezi produsele noastre",
+      "TITLE_HERO_SECONDARY": "Online Banking este cu adevărat 24/7 ?",
+      "SUBTITLE_HERO_SECONDARY": "Solutia noastră True Balance permite clienților să primească bani chiar si in timpul închiderii de zi (EOD).",
+      "BUTTON_HERO_SECONDARY": "Citeste mai multe"
+    },
+    "SECTION_TIME_LINE": {
+      "BUTTON_SECTION_DESCRIPTION": "Putem dezvolta si alte proiecte",
+      "BUTTON_TITLE": "Contact us"
+    },
+    "SECTION_STAR_TECH": {
+      "HEADING": "Platforma <span class=\"txt-blue\">StarTech</span> - <br> parteneriat pentru startup-uri",
+      "SUBHEADING": "Platforma noastra este disponibila si pentru parteneriate cu StartUpuri. Indiferent de domeniul StartUpului tau, daca ai nevoie de un partener care este dezvoltator software, te putem ajuta cu experienta noastra."
+    },
+    "SECTION_PRODUCT": {
+      "HEADING": "Produsele noastre",
+      "SUBHEADING": "Ne ocupam de UX prin metode ca user testing <br> si customer journey, ca tu sa te poți concentra pe produsele financiare."
+    },
+    "PRODUCT_CARD": {
+      "IB_HEADING": "Internet Banking & Mobile Banking",
+      "IB_DESCRIPTION": "Aplicatia este construita la cele mai inalte standarde din piata. Are toate functiile la care se asteapta utilizatorul, precum si functii speciale. Aplicatia mobile iOS si Android cu identificare biometrica este integrata cu tokenul mobile.",
+      "CO_HEADING": "Card Online& Digital cards",
+      "CO_DESCRIPTION": "Go BIO. Oferiți carduri digitale clienților dvs. cu un sistem de carduri online care îl face să funcționeze excelent.",
+      "HEADING_24": "24/7 True Balance",
+      "DESCRIPTION_24": "Intra in cercul bancilor integrate cu Transfond Instant pentru a ajuta clientii sa transfere fonduri in cateva secunde.",
+      "PSD2_HEADING": "PSD 2API & SCA",
+      "PSD2_DESCRIPTION": "Seteaza un API care sa fie conform PSD2 pentru a crea noi produse bazate pe noi oportunitati.",
+      "ELOAN_HEADING": "eLoan Origination",
+      "ELOAN_DESCRIPTION": "Intra in cercul bancilor integrate cu Transfond Instant pentru a ajuta clientii sa transfere fonduri in cateva secunde.",
+      "SME_HEADING": "SME Onboarding",
+      "SME_DESCRIPTION": "Onboarding simplificat, cu semnatura token, fara sa fie necesara implicarea sucursalelor.",
+      "BUTTON_CARD": "Citeste mai multe",
+      "BUTTON_SECTION_DESCRIPTION": "Pentru a afla mai multe despre produsele noastre:",
+      "BUTTON_TITLE": "Contacteaza-ne"
+    },
+    "PRODUCT_DELIVERY": {
+      "HEADING": "Cum livram produsele?",
+      "SUBHEADING": "Tu alegi metoda in functie de resursele tale. Poti alege metoda End-to-End daca nu vrei sa implici <br> prea mult echipa IT, sau metoda Lean daca vrei ca echipa ta sa fie pregatita oricand sa faca <br> modificarile doritede departamentele business.",
+      "TEAM_HYBRID_DESCRIPTION": "Dezvolta-ti singur solutiile pe o platforma stabila. Este cea mai rapida metoda de a livra clientilor ceea ce iti doresti.",
+      "TEAM_END": "Avem un proces perfectionat in ani de zile cu care dezvoltam produsele dorite de tine si le instalam exact cum iti doresti."
+    },
+    "QA": {
+      "HEADING": "Intrebari frecvente",
+      "TITLE_1": "Sistemele se pot integra cu orice core-banking?",
+      "CONTENT_1": "Da. Până in prezent am integrat soluția cu 4 core-bankinguri diferite.",
+      "TITLE_2": "Aplicațiile vor avea un UI specific băncii noastre?",
+      "CONTENT_2": "Da. La fiecare implementare asiguram conformitatea UI cu brand book si definim UX împreună cu banca.",
+      "TITLE_3": "Cu ce tokenuri aveți integrat sistemul?",
+      "CONTENT_3": "Pana in prezent am implementat token-uri de la 3 furnizori cu diverse soluții.Mobile Token poate fi integrat chiar in aplicația de Mobile Banking - astfel asiguram clientului single app approach."
+    },
+    "QA_BANNER": {
+      "HEADING": "Jumătate din toate proiectele IT din industria bancară sunt sub medie! Iți vine sa crezi? Este adevărat prin definiție pentru că media reprezintă punctul de mijloc 😉",
+      "SUBHEADING": "Alege jumătatea mai bună!"
+    },
+    "PRODUCT_MAIN": {
+      "HEADING": "Produsele si serviciile noastre",
+      "SUBHEADING": "Ne ocupam noi de UX prin metode ca user testing si customer journey, ca tu sa te poti concentra pe produsele financiare."
+    },
+    "CAREERS_MAIN": {
+      "HEADING": "Hai la noi in echipa!",
+      "SUBHEADING": "Echipa a fost construita cu membrii alesi pe spanceana, care au valori comune, le plac provocarile, dar stiu sa se si distreze.",
+      "SEE_BELOW": "Vezi mai jos daca iti place ce oferim si daca te potrivesti cu noi!",
+      "BUTTON": "Posturi vacante"
+    },
+    "VALUES_SECTION": {
+      "HEADING": "Valorile companiei se reflecta in beneficii pentru angajati"
+    },
+    "TAB_PUNCTUALITY" : {
+      "NAME": "Punctualitate",
+      "HEADING":  "Livram totul la timp",
+      "DESCRIPTION": "Pentru ca timpul este cea mai importanta resursa, si livram totul la timp, rasplatim echipa cu:",
+      "ITEM_1": "program de lucru <span class=\"text-out\">6 ore</span>",
+      "ITEM_2": "<span class=\"text-out\">program flexibil,</span> nu ne uitam la ceas cand intrii in birou",
+      "ITEM_3": "concediu <span class=\"text-out\">, la care adaugam cate 1 zi pean alaturi de noi"
+    },
+    "CLEAN_CODE" : {
+      "NAME": "Clean Code",
+      "HEADING":  "Sanatatea codului",
+      "DESCRIPTION": "Sanatatea ta este la fel de importanta pentru noi ca si sanatatea codului scris de tine. Iti oferim:",
+      "ITEM_1": "<span class=\"text-out\">asigurare medicala</span> + 1.000 EUR decontare cheltuieli medicale, din care 50% pot fi folositi pentru rudele de gradul 1",
+      "ITEM_2": "<span class=\"text-out\">hrana sanatoasa:</span> masa de pranz, cafea si fructe proaspete sunt decontate atunci cand esti la birou",
+      "ITEM_3": "daca practici un sport, compania deconteaza <span class=\"text-out\">lunar 50% din abonament</span>"
+    },
+    "BEST_SOLUTION" : {
+      "NAME": "Best solutions",
+      "HEADING":  "Oferim cele mai potrivite solutii clientilor nostrii",
+      "DESCRIPTION": "Suntem atenti la bugetul clientilor, de asta avem grija sa prosperi si tu si iti oferim un program de economisire:",
+      "ITEM_1": "Economisesti lunar 10% din salariu. La finalul unui an compania iti da,pe langa suma economisita de tine, un <span class=\"text-out\">bonus de 50%.</span>",
+      "ITEM_2": "In cazul in care iti cumperi casa, rata pe care o platesti lunar este considerata parte a programului de economisire. Conditia este safolosesti suma pe care o primesti inapoi pentru a face o rambursare anticipata la credit."
+    },
+    "BEST_TECHNOLOGIES" : {
+      "NAME": "Best technologies",
+      "HEADING":  "Tinem pasul cu cele mai noi tehnologii",
+      "DESCRIPTION": "Folosim cele mai noi tehnologii pentru ca partenerii nostrii tin la securitatea clientilor lor:",
+      "ITEM_1": "Compania iti achizitioneaza telefonul dorit, pentru care tu vei plati doar 50% din valoarea lui."
+    },
+    "SECTION_OFFICE": {
+      "HEADING": "Turul biroului nostru"
+    },
+    "SECTION_VACANCIES": {
+      "HEADING": "Posturi vacante",
+      "BLOCK_NAME": "Oracle developer (SQL,PL/SQL Developer)",
+      "LIST_TITLE": "Procesul de recrutare consta in:",
+      "ITEM_1": "Faza 1: completarea unui formular pe site (15-20 min)",
+      "ITEM_2": "Faza 2: un test in care trebuie sa implementati un API folosit de o aplicatie Web. ",
+      "BUTTON": "Afla mai multe"
+    },
+    "FOOTER": {
+      "CALL_TO_ACTION": "Vrei sa colaboram?",
+      "CONTACT_BUTTON": "Contacteaza-ne"
+    },
+    "IB_MAIN": {
+      "TITLE":"Internet Banking & Mobile Banking <span class=\"txt-blue\"> 100% natural <span>",
+      "SUBTITLE": "Analizam constant comportamentul clientilor si adaptam fluxurile din aplicatie dupa cum ii este mainatural utilizatorului sa foloseasca functiile."
+    },
+    "SECTION_UX": {
+      "TITLE": "Design unic la cele mai inalte standarde de UX",
+      "SUBTITLE": "Am desenat aplicatiile sa fie intuitive, sa functioneze rapid si sa satisfaca toate nevoile clientului, indiferent ce platforma foloseste.",
+      "CARD_SIMPLE": "Simplu",
+      "CARD_SIMPLE_DESCRIPTION": "Facem ca operatiile complexe sa para simple pentru utilizatorii aplicatiilor noastre.",
+      "CARD_SURE": "Sigur",
+      "CARD_SURE_DESCRIPTION": "Adaugam antivirus si app shelding in Mobile Banking astfel incat sa sporim siguranta clientului.",
+      "CARD_EXP": "Exp. omni-channel",
+      "CARD_EXP_DESCRIPTION": "Experienta familiara indiferent de platforma pe care o utilizeaza clientul.",
+      "CARD_INTEGRATION": "Integrare cu orice tip de token",
+      "CARD_INTEGRATION_DESCRIPTION": "Vrem sa oferim o experienta noua clientului, fara sa il rugam sa isi schimbe tokenul."
+    },
+    "COMMON_FUNCTIONS": {
+      "TITLE": "<span class=\"txt-blue\">Functii comune:</span><br>Internet Banking si Mobile Banking"
+    },
+    "ADVANTAGE": {
+      "AUDITORS": "Conturi",
+      "AUDITORS_DESCRIPTION": "Ofera-i utilizatorului posibilitatea de a deschide un cont curent nou daca are nevoie.",
+      "CARDS": "Carduri",
+      "CARDS_DESCRIPTION": "Utilizatorul poate sa schimbe limitele la ATM, plati online, sau chiar sa blocheze cardul sau sa solicite card nou, inclusiv card digital.",
+      "OPERATIONS": "Operatii",
+      "OPERATIONS_DESCRIPTION": "Plati in lei, valuta, transfer, schimb valutar, dar si tragere din limite de credit.",
+      "CREDITS": "Credite",
+      "CREDITS_DESCRIPTION": "Utilizatorul poate sa descarce scadentarul creditului sau sa vada toate informatiile despre produsul contractat.",
+      "WAREHOUSES": "Depozite",
+      "WAREHOUSES_DESCRIPTION": "Constituire si lichidare depozite oricand doreste clientul.",
+      "NOTIFICATIONS": "Notificari",
+      "NOTIFICATIONS_DESCRIPTION": "Utilizatorul primeste notificari atunci cand se intampla ceva important pentru el.",
+      "CHAT": "Chat & Chat Guidance",
+      "CHAT_DESCRIPTION": "Ofera utilizatorului suport de cea mai buna calitate, prin chat sau prin ghidare direct pe ecranul lui.",
+      "SETTINGS": "Setari",
+      "SETTINGS_DESCRIPTION": "Utilizatorul poate sa seteze o denumire contului, sa isi schimbe parola sau sa gestioneze lista de sabloane.",
+      "REPORTS": "Rapoarte",
+      "REPORTS_DESCRIPTION": "Extrase in PDF, XML, CSV, TXT pregatite pentru orice nevoie ar avea clientul.",
+      "UPLOAD_DOCUMENTS": "Upload documente",
+      "UPLOAD_DOCUMENTS_DESCRIPTION": "Utilizatorul poate sa incarce documente solicitate de banca, intr-un mediu sigur, fara a se deplasa la o sucursala.",
+      "ACCOUNT": "Account Top-up",
+      "ACCOUNT_DESCRIPTION": "Utilizatorul poate sa isi transfere instant banii de pe cardul lui de la o alta banca in contul bancii tale.",
+      "SAVING": "Economisire automata",
+      "SAVING_DESCRIPTION": "Utilizatorul poate sa isi transfere instant banii de pe carul lui de la o alta banca in contul bancii tale."
+    },
+    "SECTION_ESPECIALLY": {
+      "TITLE": "Special pentru carduri,<br> cel mai utilizat produs bancar",
+      "VIRTUAL_CARDS": "Virtual cards",
+      "VIRTUAL_CARDS_DESCRIPTION": "Clientul genereaza carduri atunci cand are nevoie sa isi faca cumparaturile online in siguranta maxima.",
+      "3D_SECURE": "3D Secure, integration Mobile Banking",
+      "3D_SECURE_DESCRIPTION": "Modulul 3D secure este integrat in aplicatia Mobile Banking, astfel incat confirmarea platilor online se face simplu si rapid in sigranta maxima. Acest modul este disponibil si pentru clienti care nu folosesc serviciul Mobile Banking, dar au aplicatia instalata."
+    },
+    "SPECIAL_FUNCTIONS": {
+      "TITLE": "Functii speciale",
+      "IB": "Internet Banking",
+      "MB": "Mobile Banking",
+      "CHAT": "Chat & Chat Guidance",
+      "CHAT_DESCRIPTION": "Ofera un suport de 5 stele. Prin chat guidenace poti sa ii arati clientului toti pasii pe care trebuie sa ii parcurga.",
+      "BANNER_MANAGEMENT": "Banner Management",
+      "BANNER_MANAGEMENT_DESCRIPTION": "Ajuta-l pe client sa aiba o sanatate financiara mai buna. Invata-l sa constientizeze ce se intampla cu banii lui.",
+      "BACK_OFFICE": "Back office",
+      "BACK_OFFICE_DESCRIPTION": "Back Office-ul permite configurarea tuturor pretentiilor venite de la clienti. De la drepturi de avizare plati diferite pe utliatori pana la limite individuale, vizualizare produse.",
+      "APP_SHIELDING": "App shielding",
+      "APP_SHIELDING_DESCRIPTION": "O functie care permite aplicatiei sa functioneze doar atunci cand sistemul de operare este cel Android sau iOS si nu functioneaza pe jailbreak.",
+      "TOKEN_INTEGRATION": "Token Integration",
+      "TOKEN_INTEGRATION_DESCRIPTION": "Tokenul este integrat in aplicatie, astfel incat utilizatorii nu au nevoie de doua aplicatii ca sa acceseze conturile bancare.",
+      "ANTIVIRUS": "Antivirus",
+      "ANTIVIRUS_DESCRIPTION": "Protejam clientul odata cu instalarea aplicatiei Mobile Banking printr-un modul antivirus."
+    },
+    "OPERATION_MAIN": {
+      "TITLE": "Plati si in timp ce core-bankingul nu este disponibil",
+      "SUBTITLE": "Ofera clientului transferuri si plati 24/7, inclusiv in timp ce core-bankingul proceseaza inchiderea de zi."
+    },
+    "OPERATION_BANNER": {
+      "TITLE": "Operatii 24/7",
+      "DESCRIPTION": "Cu modulul 24/7 ai acces la platile de pe platforma Transfond Instant. Astfel, clientii tai pot procesa plati instant atat intrabancare cat si interbancare, indiferent de disponibilitatea sistemului core-banking."
+    },
+    "FEATURE": {
+      "AVAILABILITY": "Disponibilitate",
+      "AVAILABILITY_DESCRIPTION": "Toate aplicatiile care proceseaza operatii pe baza soldului conturilor, devin disponibile 24/7.",
+      "IMPLEMENTATION_TIME": "Timp de implementare",
+      "IMPLEMENTATION_TIME_DESCRIPTION": "Implementarea modulului 24/7 se face prin API-uri flexibile, motiv pentru care durata implementarii este scurta.",
+      "CUSTOMER_SATISFACTION": "Satisfactia clientului",
+      "CUSTOMER_SATISFACTION_DESCRIPTION": "Clientul poate sa primeasca confirmarea ca beneficiarul are disponibila suma pe cont.",
+      "INSTANT_PAYMENTS": "Plăți instantanee",
+      "INSTANT_PAYMENTS_DESCRIPTION": "Transfond Instant este inclus in modulul 24/7. Clientii tai vor putea face plati instant catre bancile care au aderat la aceasta platforma."
+    },
+    "SECTION_BENEFITS": {
+      "TITLE": "Beneficii",
+      "AVAILABILITY": "Disponibilitate",
+      "AVAILABILITY_DESCRIPTION": "Platile si incasarile sunt disponibile 24/7, independent de core banking.",
+      "SPEED": "Viteza",
+      "SPEED_DESCRIPTION": "Platile si incasarile se realizeaza in cateva secunde, indiferent daca este plata inter sau intrabancara.",
+      "SAFETY": "Siguranta",
+      "SAFETY_DESCRIPTION": "Platile vor pastra aceasi siguranta ca si in cazul platilor normale."
+    },
+    "BANNER_CLUB": {
+      "TITLE": "Intra in clubul bancilor care ofera plati instante.",
+      "DESCRIPTION": "Cu modulul 24/7 ai acces la platile de pe platforma Transfond Instant. Astfel, clientii tai pot procesa plati instant atat intrabancare cat si interbancare, indiferent de disponibilitatea sistemului core-banking."
+    },
+    "STARTECH": {
+      "TITLE": "Dezvoltam software pentru startup-uri",
+      "SUBTITLE": "Ai o idee grozavă despre o aplicație, dar nu ai o echipă de dezvoltatori?<br>Sau ai început să te dezvolți, dar ai prefera să accelerezi și să folosești o platformă stabilă care să garanteze dezvoltarea viitoare?<br><br>Oferim parteneriate startup-urilor care au nevoie de o echipă de dezvoltatori cu experiență, cu o platformă solidă, sigură și scalabilă.",
+      "BUTTON": "Lasă-ne să ne alăturăm călătoriei tale"
+    },
+    "OFFER": {
+      "TITLE": "Oferta noastra",
+      "TECHNOLOGY": "Ne ocupăm de tehnologie",
+      "TECHNOLOGY_DESCRIPTION": "Ne putem alătura proiectului dumneavoastră și ne vom ocupa de toate necesitățile tehnologice: dezvoltare de aplicații, infrastructură cloud, site web - cu toate costurile aferente!",
+      "USER_FLOW": "Luăm fluxul de utilizator de la început până la sfârșit",
+      "USER_FLOW_DESCRIPTION": "Crearea unei hărți a călătoriei clienților axată pe experiența clienților pentru achizițiile utilizatorilor, pe o experiență excelentă a utilizatorului pentru a surprinde utilizatorul și pe o interfață de utilizator fantastică",
+      "PLATFORM": "Platformă scalabilă de ultimă generație",
+      "PLATFORM_DESCRIPTION": "Platforma noastră și-a dovedit eficiența și securitatea prin implementarea în bănci pentru a oferi clienților canalul Online Banking - atât Web cât și Mobile.",
+      "CARD_LEAN": "Metodologia de dezvoltare software Lean",
+      "CARD_LEAN_DESCRIPTION": "Dezvoltăm produse cu cadrul agil, optimizând timpii și resursele în crearea unui MVP pentru piață, învățând de la utilizatori și iterând pe baza feedback-ului până când produsul devine matur",
+      "CARD_STATISTICS": "Modul de statistică",
+      "CARD_STATISTICS_DESCRIPTION": "Este esențial să măsurați succesul. De aceea, dezvoltăm un modul statistic care oferă valori configurabile pentru a măsura succesul dintre iterații"
+    },
+    "ALREADY_INVESTED": {
+      "TITLE": "Am investit deja în:"
+    },
+    "PROGRESS_2021":{
+      "TITLE_2021": "Cele mai interesante module si funcționalități lansate recent pentru băncile noastre",
+      "EXCHANGE_FLOW": "Flux negociere schimburi",
+      "EXCHANGE_FLOW_DESCRIPTION": "Negocierea ratei de schimb prin dealer de trezorerie.",
+      "MULTIPLE_PAYMENT": "Modul plata multipla",
+      "MULTIPLE_PAYMENT_DESCRIPTION": "Introducerea unei plăți către mai multi beneficiari, inclusiv prin multiplicare.",
+      "3D_SECURE": "3D Secure V2",
+      "3D_SECURE_DESCRIPTION": "Inca o banca a lansat modulul de autorizare biometrică a plaților cu cardul integrat in Mobile Banking.",
+      "WAITING_AVAILABLE": "Așteptare disponibil",
+      "WAITING_AVAILABLE_DESCRIPTION": "Plățile stau in așteptare pana in momentul când exista disponibil sau începe EOD.",
+      "SALARY_MODULE": "Modul salarizar",
+      "SALARY_MODULE_DESCRIPTION": "Cu liste de salariați și multiplicarea listei din luna precedentă.",
+      "RECOVERY_FLOW": "Flux recuperare utilizator",
+      "RECOVERY_FLOW_DESCRIPTION": "Identificarea online a clientului si trimiterea numelui de utilizator.",
+      "FEBRUARY": "Februarie",
+      "MARCH": "Martie",
+      "JUNE": "Iunie",
+      "JULY": "Iulie",
+      "DECEMBER": "Decembrie"
+    },
+    "PROGRESS_2022": {
+      "TITLE_2022": "Proiecte în derulare cu livrare in 2022",
+      "TRANSFOND_INSTANT": "Transfond Instant",
+      "TRANSFOND_INSTANT_DESCRIPTION": "Integrarea cu sistemul de plăti interbancare online",
+      "IB_MB": "IB & MB & PSD2 API",
+      "IB_MB_DESCRIPTION": "Internet Banking & Mobile Banking & PSD2 API pentru o a treia banca din Romania",
+      "DIGITAL_CARD": "Digital Card",
+      "DIGITAL_CARD_DESCRIPTION": "Emitere in doar câteva minute cu utilizare imediată prin Apple Pay si Google Pay.",
+      "TRUE_BALANCE": "True 24/7 Balance",
+      "TRUE_BALANCE_DESCRIPTION": "Aplicația de gestiune online a disponibilului pentru toate canalele digitale: Online Banking, Carduri, IVR, PSD2 API",
+      "INTEGRATION": "Integrare",
+      "INTEGRATION_DESCRIPTION": "Integrare conturi de la alte bănci prin PSD2 API",
+      "INTERNET_BANKING": "Internet Banking",
+      "INTERNET_BANKING_DESCRIPTION": "Internet Banking pentru o banca din Romania.",
+      "MOBILE_BANKING": "Mobile Banking",
+      "MOBILE_BANKING_DESCRIPTION": "Mobile Banking pentru o alta banca din Romania",
+      "GET_CVV": "Get CVV",
+      "GET_CVV_DESCRIPTION": "Accesare informații securizate card pentru plăți online (număr card, data expirare, CVV)\nNegociere schimburi fără operator",
+      "EXCHANGE_NEGOTIATION": "Negociere schimburi fără operator",
+      "EXCHANGE_NEGOTIATION_DESCRIPTION": "Flux automat de negociere schimburi valutare fără intervenție umana."
+    },
+    "CAREER_NAV": {
+      "WE_OFFER": "What we offer",
+      "WE_DO": "What we do",
+      "HOW_WE_DO": "How we do it",
+      "GOOD_FIT": "Are you a good fit?",
+      "OUR_OFFICES": "Our offices",
+      "OPEN_POSITIONS": "Open positions"
+    },
+    "SECTION_WE_OFFER": {
+      "HEADING": "What we offer"
+    },
+    "OFFER_VACATION": {
+      "TITLE": "25 days of vacation (+1/year)",
+      "SUBTITLE": "+1+1+1+ ... = 33 already reached by our colleagues ... and counting ...",
+      "DESCRIPTION": "25 days of vacation + 1 additional day for every year worked with us"
+    },
+    "OFFER_WORKING": {
+      "TITLE": "6 hour working day since 2015",
+      "SUBTITLE": "(even before Sweden ;)",
+      "DESCRIPTION": "What would you do with your 2 extra hours? Have a hobby or just prefer to sleep longer? ;)"
+    },
+    "OFFER_LUNCH": {
+      "TITLE": "Lunch included",
+      "DESCRIPTION": "We pay for your lunch so you don't have to care about this daily spending"
+    },
+    "OFFER_HEALTH": {
+      "TITLE": "1.000 EUR for health ",
+      "SUBTITLE": "(including dental care and any other spendings related to your health)",
+      "DESCRIPTION": "500 EUR you can use for your family members - same conditions: NO conditions!"
+    },
+    "OFFER_PHONE": {
+      "TITLE": "50% off for a new phone",
+      "DESCRIPTION": "The rest 50% you can pay in 6 monthly installments"
+    },
+    "OFFER_SAILING": {
+      "TITLE": "50% off for a new phone",
+      "DESCRIPTION": "The rest 50% you can pay in 6 monthly installments"
+    },
+    "OFFER_GROWTH": {
+      "TITLE": "100 EUR / year guaranteed salary growth",
+      "DESCRIPTION": "The growth could be higher and will reflect your professional growth."
+    },
+    "OFFER_BONUS": {
+      "TITLE": "5% annual bonus for savings",
+      "DESCRIPTION": "We encourage you to save 10% of your monthly salary and we annually reward you with a bonus of half of what you saved."
+    },
+    "STANDARD_BENEFITS": {
+      "HEADING": "Asking about standard benefits that you get in other companies?<br>Of course we have them:",
+      "HEALTH_INSURANCE": "Health insurance",
+      "EMPLOYEE_REFERRAL": "Employee Referral Program",
+      "HYBRID_WORK": "Hybrid work with 3 days from home and 2 days from office",
+      "FITNESS": "50% off for your fitness subscription",
+      "TRAININGS": "Team buildings and trainings"
+    },
+    "SECTION_WE_DO": {
+      "HEADING": "What we do",
+      "SUBHEADING": "We build the products for different domains on our GTK platform:"
+    },
+    "WE_DO_ONLINE_BANKING": {
+      "TITLE": "Online Banking",
+      "SUBTITLE": "A high availability top secured app",
+      "DESCRIPTION": "The channel must be available 24/7 even when other supporting systems could be in maintenance. The security is periodically verified by specialized companies which perform Penetration Testing against latest threats."
+    },
+    "WE_DO_FINTECH": {
+      "TITLE": "FinTech",
+      "SUBTITLE": "Budgeting app for the entire family",
+      "DESCRIPTION": "We believe this app will be the best in it's class to combine Budgeting with Social Media"
+    },
+    "WE_DO_WINETECH": {
+      "TITLE": "Winetech",
+      "SUBTITLE": "Mobile app for wine lovers",
+      "DESCRIPTION": "The app will help you guess the wine you like"
+    },
+    "HOW_WE_DO": {
+      "TITLE": "How we do it",
+      "JOB_CRAFTING": "Job crafting:",
+      "JOB_CRAFTING_DESCRIPTION": "We build your job around you",
+      "BLUEPRINT": "Blueprint:",
+      "BLUEPRINT_DESCRIPTION": "High level architecture for the developments which we review in squad meets.",
+      "JIRA_FLOW": "Jira flow:",
+      "JIRA_FLOW_DESCRIPTION": "A complex (but not complicated) flow with over 20 nodes that cover all the stages of a development like Design, Front End, Back End, Testing, Dev Environment, Testing Environment etc."
+    },
+    "WE_USE": {
+      "TITLE": "We use",
+      "INFRASTRUCTURE": "Infrastructure:",
+      "INFRASTRUCTURE_DESCRIPTION": "Cloud, Linux, Virtual Box:",
+      "PLATFORM": "Platform:",
+      "PLATFORM_DESCRIPTION": "Oracle DB, Tomcat, Apache",
+      "TOOLS": "Tools:",
+      "TOOLS_DESCRIPTION": "Git, PL/SQL Developer, Visual Studio Code",
+      "CODE": "Code:",
+      "CODE_DESCRIPTION": "SQL, PL/SQL, Apex"
+    },
+    "GOOD_FIT": {
+      "TITLE": "Are you a good fit?",
+      "DESCRIPTION": "<span class=\"text-span-10-px-bottom\">We are looking for specialists with proven experience so we'll ask you to give few examples of the projects and responsabilities that would describe the best your experience.</span><br>Also we have a programming challenge that would demonstrate your skill level. <span class=\"txt-blue\">You'll get a completion bonus depending on the result!</span>",
+      "BUTTON": "Check our programming challenge"
+    },
+    "OPEN_POSITION": {
+      "HEADING": "Open positions",
+      "TITLE": "Oracle developer (SQL, PL/SQL Developer) Bucharest",
+      "LIST_TITLE": "We re looking for engineers with:",
+      "ITEM_1": "Experience in designing and building complex systems using SQL, PL/SQL",
+      "ITEM_2": "Interest in owning projects end-to-end and supporting them as they go live in production",
+      "ITEM_3": "Appreciation of clean code and software engineering best-practice",
+      "ITEM_4": "A passion for learning and an interest in high-end architecture",
+      "ITEM_5": "Exceptional communication skills who enjoy sharing knowledge and collaborating with other",
+      "BUTTON": "Apply"
+    },
     "SECTION_CHALLENGE": {
       "HEADING": "Programming Challenge",
       "SUBHEADING": "API ROVaccinare",
@@ -33,5 +425,437 @@
       "TITLE": "List of APIs to use for the Ministry of Health:",
       "ITEM_1": "updateVaccinationClinic",
       "ITEM_2": "updateVaccinationStock",
-      "ITEM_3": "displayVaccinationStock",
+      "ITEM_3": "displayVaccinationStock"
     }
+  },
+  "en": {
+    "NAV_MENU": {
+      "PRODUCT": "Products",
+      "CONTACT": "Contact",
+      "CAREER": "Careers",
+      "LANGUAGE": "Select language",
+      "COOKIE_POLICY": "Cookies policy"
+    },
+    "HOME_MAIN": {
+      "TITLE_HERO_PRIMARY": "Online Banking in just 6 months",
+      "SUBTITLE_HERO_PRIMARY": "Our Internet & Mobile Banking projects took 3 to 9 months independent of integration with the bank's systems.",
+      "BUTTON_HERO_PRIMARY": "View our products",
+      "TITLE_HERO_SECONDARY": "Is Online Banking Really 24/7?",
+      "SUBTITLE_HERO_SECONDARY": "Our True Balance solution allows customers to receive money even during daytime closing (EOD).",
+      "BUTTON_HERO_SECONDARY": "Read more"
+    },
+    "SECTION_TIME_LINE": {
+      "BUTTON_SECTION_DESCRIPTION": "We can develop other projects",
+      "BUTTON_TITLE": "Contact us"
+    },
+    "SECTION_STAR_TECH": {
+      "HEADING": "<span class=\"txt-blue\">StarTech </span> Platform - <br> partnership for startups ",
+      "SUBHEADING": "Our platform is also available for partnerships with StartUp. Regardless of the domain of your StartUp, if you need a partner who is a software developer, we can help you with our experience."
+    },
+    "SECTION_PRODUCT": {
+      "HEADING": "Our products.",
+      "SUBHEADING": "We deal with UX through methods such as user testing <br> and customer journey, so that you can focus on financial products."
+    },
+    "PRODUCT_CARD": {
+      "IB_HEADING": "Internet Banking & Mobile Banking",
+      "IB_DESCRIPTION": "The application is built to the highest standards on the market. It has all the functions that the user expects, as well as special functions. The iOS and Android mobile application with biometric identification is integrated with the mobile token.",
+      "CO_HEADING": "Card Online& Digital cards",
+      "CO_DESCRIPTION": "Go to BIO. Give your customers digital cards with an online card system that makes it work great.",
+      "HEADING_24": "24/7 True Balance",
+      "DESCRIPTION_24": "Join the circle of banks integrated with Transfond Instant to help customers transfer funds in seconds.",
+      "PSD2_HEADING": "PSD 2API & SCA",
+      "PSD2_DESCRIPTION": "Set an PSD2 compliant API to create new products based on new opportunities.",
+      "ELOAN_HEADING": "eLoan Origination",
+      "ELOAN_DESCRIPTION": "Join the circle of banks integrated with Transfond Instant to help customers transfer funds in seconds.",
+      "SME_HEADING": "SME Onboarding",
+      "SME_DESCRIPTION": "Simplified onboarding, with token signature, without the need for branch involvement.",
+      "BUTTON_CARD": "Read more ",
+      "BUTTON_SECTION_DESCRIPTION": "To learn more about our products:",
+      "BUTTON_TITLE": "Contact us"
+    },
+    "PRODUCT_DELIVERY": {
+      "HEADING": "How do we deliver the products?",
+      "SUBHEADING": "You choose the method according to your resources. You can choose the End-to-End method if you don't want to involve the IT team too much, or the Lean method if you want your team to be ready at any time to make the desired changes to the business departments.",
+      "TEAM_HYBRID_DESCRIPTION": "Develop your own solutions on a stable platform. It is the fastest way to deliver to customers what you want.",
+      "TEAM_END": "We have an improved process over the years with which we develop the products you want and install them exactly as you want."
+    },
+    "QA": {
+      "HEADING": "Frequent questions",
+      "TITLE_1": "Can the systems be integrated with any core banking?",
+      "CONTENT_1": "Yes. So far we have integrated the solution with 4 different core-banks.",
+      "TITLE_2": "Will the applications have a UI specific to our bank?",
+      "CONTENT_2": "Yes. At each implementation we ensure UI compliance with the brand book and define UX together with the bank.",
+      "TITLE_3": "What tokens have you integrated the system with?",
+      "CONTENT_3": "So far we have implemented tokens from 3 providers with various solutions. Mobile Token can be integrated even in the Mobile Banking application - thus providing the customer with a single app approach."
+    },
+    "QA_BANNER": {
+      "HEADING": "Half of all IT projects in the banking industry are below average! Can you believe that? It is true by definition because the mean is the midpoint \uD83D\uDE09",
+      "SUBHEADING": "Choose the best half!"
+    },
+    "PRODUCT_MAIN": {
+      "HEADING": "Our products and services",
+      "SUBHEADING": "We deal with UX through methods such as user testing and customer journey, so that you can focus on financial products."
+    },
+    "CAREERS_MAIN": {
+      "HEADING": "Come to us as a team!",
+      "SUBHEADING": "The team was built with members elected by spanceana, who have common values, they like challenges, but they also know how to have fun.",
+      "SEE_BELOW": "See below if you like what we offer and if you fit in with us!",
+      "BUTTON": "Job Vacancies"
+    },
+    "VALUES_SECTION": {
+      "HEADING": "The company's values are reflected in employee benefits"
+    },
+    "TAB_PUNCTUALITY" : {
+      "NAME": "Punctuality",
+      "HEADING":  "We deliver everything on time",
+      "DESCRIPTION": "Because time is the most important resource, and we deliver everything on time, we reward the team with:",
+      "ITEM_1": "work program <span class=\"text-out\">6 hours</span>",
+      "ITEM_2": "<span class=\"text-out\"> flexible schedule, </span> we don't look at the clock when you enter the office",
+      "ITEM_3": "holiday <span class=\"text-out\"> 25 days a year </span>, to which we add 1 day each with us"
+    },
+
+    "CLEAN_CODE" : {
+      "NAME": "Clean Code",
+      "HEADING":  "Code health",
+      "DESCRIPTION": "Your health is as important to us as the health of the code you wrote. We offer you:",
+      "ITEM_1": "<span class=\"text-out\"> health insurance </span> + EUR 1,000 reimbursement of medical expenses, of which 50% can be used for 1st degree relatives",
+      "ITEM_2": "<span class=\"text-out\"> healthy eating: </span> lunch, coffee and fresh fruit are settled when you're at the office",
+      "ITEM_3": "if you play a sport, the company pays <span class=\"text-out\"> 50% of your monthly subscription </span>"
+    },
+    "BEST_SOLUTION" : {
+      "NAME": "Best solutions",
+      "HEADING":  "We offer the most suitable solutions to our clients",
+      "DESCRIPTION": "We pay attention to the clients' budget, that's why we make sure you prosper and we offer you a saving program:",
+      "ITEM_1": "You save 10% of your salary every month. At the end of a year, the company gives you, in addition to the amount saved by you, a <span class = \"text-out\"> 50% bonus. </span>",
+      "ITEM_2": "If you buy your house, the rate you pay monthly is considered part of the savings program. The condition is to use the amount you receive back to make an early repayment on credit."
+    },
+    "BEST_TECHNOLOGIES" : {
+      "NAME": "Best technologies",
+      "HEADING":  "We keep up with the latest technologies",
+      "DESCRIPTION": "We use the latest technologies because our partners care about the safety of their customers:",
+      "ITEM_1": "The company buys the phone you want, for which you will pay only 50% of its value."
+    },
+    "SECTION_OFFICE": {
+      "HEADING": "Our office tour"
+    },
+    "SECTION_VACANCIES": {
+      "HEADING": "Job Vacancies",
+      "BLOCK_NAME": "Oracle developer (SQL, PL / SQL Developer)",
+      "LIST_TITLE": "The recruitment process consists of:",
+      "ITEM_1": "Phase 1: filling in a form on the site (15-20 min)",
+      "ITEM_2": "Step 2: A test in which you need to implement an API used by a web application.",
+      "BUTTON": "Find out more"
+    },
+    "FOOTER": {
+      "CALL_TO_ACTION": "Do you want to collaborate?",
+      "CONTACT_BUTTON": "Contact us"
+    },
+    "IB_MAIN": {
+      "TITLE":"Internet Banking & Mobile Banking <span class=\"txt-blue\"> 100% natural <span>",
+      "SUBTITLE": "We constantly analyze customer behavior and adapt the flows in the application as it is natural for the user to use the functions."
+    },
+    "SECTION_UX": {
+      "TITLE": "Unique design to the highest UX standards",
+      "SUBTITLE": "We designed the applications to be intuitive, to work quickly and to satisfy all the needs of the client, no matter what platform he uses.",
+      "CARD_SIMPLE": "Simple",
+      "CARD_SIMPLE_DESCRIPTION": "We make complex operations seem simple to users of our applications.",
+      "CARD_SURE": "Sure",
+      "CARD_SURE_DESCRIPTION": "We add antivirus and app shielding in Mobile Banking so as to increase customer security.",
+      "CARD_EXP": "Exp. omni-channel",
+      "CARD_EXP_DESCRIPTION": "Family experience regardless of the platform the client uses.",
+      "CARD_INTEGRATION": "Integration with any type of token",
+      "CARD_INTEGRATION_DESCRIPTION": "We want to offer a new experience to the customer, without asking him to change his token."
+    },
+    "COMMON_FUNCTIONS": {
+      "TITLE": "<span class=\"txt-blue\">Common functions:</span><br>Internet Banking si Mobile Banking"
+    },
+    "ADVANTAGE": {
+      "AUDITORS": "Auditors",
+      "AUDITORS_DESCRIPTION": "Give the user the opportunity to open a new checking account if needed.",
+      "CARDS": "Cards",
+      "CARDS_DESCRIPTION": "The user can change ATM limits, pay online, or even block the card or request a new card, including a digital card.",
+      "OPERATIONS": "Operations",
+      "OPERATIONS_DESCRIPTION": "Payments in lei, currency, transfer, currency exchange, but also withdrawal from credit limits.",
+      "CREDITS": "Credits",
+      "CREDITS_DESCRIPTION": "The user can download the credit schedule or see all the information about the contracted product.",
+      "WAREHOUSES": "Warehouses",
+      "WAREHOUSES_DESCRIPTION": "Establishment and liquidation of deposits whenever the client wishes.",
+      "NOTIFICATIONS": "Notifications",
+      "NOTIFICATIONS_DESCRIPTION": "The user receives notifications when something important happens to him.",
+      "CHAT": "Chat & Chat Guidance",
+      "CHAT_DESCRIPTION": "Provides the user with the best quality support, through chat or guidance directly on his screen.",
+      "SETTINGS": "Settings",
+      "SETTINGS_DESCRIPTION": "The user can set an account name, change their password, or manage their list of templates.",
+      "REPORTS": "Reports",
+      "REPORTS_DESCRIPTION": "Extracts in PDF, XML, CSV, TXT ready for any need the client may have.",
+      "UPLOAD_DOCUMENTS": "Upload documents",
+      "UPLOAD_DOCUMENTS_DESCRIPTION": "The user can upload documents requested by the bank, in a secure environment, without going to a branch.",
+      "ACCOUNT": "Account Top-up",
+      "ACCOUNT_DESCRIPTION": "The user can instantly transfer his money from his card from another bank to your bank account.",
+      "SAVING": "Automatic saving",
+      "SAVING_DESCRIPTION": "The user can instantly transfer his money from his cart from another bank to your bank account."
+    },
+    "SECTION_ESPECIALLY": {
+      "TITLE": "Especially for cards, <br> the most used banking product",
+      "VIRTUAL_CARDS": "Virtual cards",
+      "VIRTUAL_CARDS_DESCRIPTION": "The customer generates cards when he needs to do his online shopping in maximum security.",
+      "3D_SECURE": "3D Secure, Mobile Banking integration",
+      "3D_SECURE_DESCRIPTION": "The 3D secure module is integrated in the Mobile Banking application, so that the confirmation of online payments is made simple and fast in maximum security. This module is also available for customers who do not use the Mobile Banking service, but have the application installed."
+    },
+    "SPECIAL_FUNCTIONS": {
+      "TITLE": "Special functions",
+      "IB": "Internet Banking",
+      "MB": "Mobile Banking",
+      "CHAT": "Chat & Chat Guidance",
+      "CHAT_DESCRIPTION": "Offers 5-star support. Through chat guidance you can show the client all the steps he has to go through.",
+      "BANNER_MANAGEMENT": "Banner Management",
+      "BANNER_MANAGEMENT_DESCRIPTION": "Help the client to have better financial health. Teach him to be aware of what is happening with his money.",
+      "BACK_OFFICE": "Back office",
+      "BACK_OFFICE_DESCRIPTION": "The Back Office allows you to configure all customer requests. From different payment rights per user to individual limits, product viewing.",
+      "APP_SHIELDING": "App shielding",
+      "APP_SHIELDING_DESCRIPTION": "A feature that allows the app to work only when the operating system is Android or iOS and does not work on jailbreak.",
+      "TOKEN_INTEGRATION": "Token Integration",
+      "TOKEN_INTEGRATION_DESCRIPTION": "The token is integrated into the application, so users do not need two applications to access bank accounts.",
+      "ANTIVIRUS": "Antivirus",
+      "ANTIVIRUS_DESCRIPTION": "We protect the client once the Mobile Banking application is installed through an antivirus module."
+    },
+    "OPERATION_MAIN": {
+      "TITLE": "Payments while core banking is not available",
+      "SUBTITLE": "It offers the customer transfers and payments 24/7, including while the core-banking processes the closing of the day."
+    },
+    "OPERATION_BANNER": {
+      "TITLE": "24/7 Operations",
+      "DESCRIPTION": "With the 24/7 module you have access to payments on the Transfond Instant platform. Thus, your customers can process instant payments both intrabank and interbank, regardless of the availability of the core-banking system."
+    },
+    "FEATURE": {
+      "AVAILABILITY": "Availability",
+      "AVAILABILITY_DESCRIPTION": "All applications that process account-based transactions become available 24/7.",
+      "IMPLEMENTATION_TIME": "Implementation time",
+      "IMPLEMENTATION_TIME_DESCRIPTION": "The implementation of the module 24/7 is done through flexible APIs, which is why the implementation time is short.",
+      "CUSTOMER_SATISFACTION": "Customer satisfaction",
+      "CUSTOMER_SATISFACTION_DESCRIPTION": "The customer can receive confirmation that the beneficiary has the amount available on the account.",
+      "INSTANT_PAYMENTS": "Instant payments",
+      "INSTANT_PAYMENTS_DESCRIPTION": "Instant Background is included in the 24/7 module. Your customers will be able to make instant payments to banks that have joined this platform."
+    },
+    "SECTION_BENEFITS": {
+      "TITLE": "BENEFITS",
+      "AVAILABILITY": "Availability",
+      "AVAILABILITY_DESCRIPTION": "Payments and receipts are available 24/7, independent of core banking.",
+      "SPEED": "Speed",
+      "SPEED_DESCRIPTION": "Payments and receipts are made in seconds, regardless of whether the payment is inter or interbank.",
+      "SAFETY": "Safety",
+      "SAFETY_DESCRIPTION": "Payments will remain as secure as normal payments."
+    },
+    "BANNER_CLUB": {
+      "TITLE": "Join the club of banks that offer court payments.",
+      "DESCRIPTION": "With the 24/7 module you have access to payments on the Transfond Instant platform. Thus, your customers can process instant payments both intrabank and interbank, regardless of the availability of the core-banking system."
+    },
+    "STARTECH": {
+      "TITLE": "We are developing software for startups",
+      "SUBTITLE": "You have a great idea of an app but don’t have a team of developers?<br>Or you started developing but would prefer to accelerate and use a stable platform that would guarantee future development?<br><br>We offer parterships for startups that need an experienced developer team, with a solid, secure and scalable platform.",
+      "BUTTON": "Let us join your journey"
+    },
+    "OFFER": {
+      "TITLE": "Our offer",
+      "TECHNOLOGY": "We take care of technology",
+      "TECHNOLOGY_DESCRIPTION": "We can join your project and take care of all the technology necessities: app development, cloud infrastructure, website - with all related costs!",
+      "USER_FLOW": "We take the user flow from start to end",
+      "USER_FLOW_DESCRIPTION": "Creating a Customer Journey Map focused on Customer Experience for user acquisitions, excellent User Experience to WOW the user, and fantastic User Interface",
+      "PLATFORM": "State-of-the-art scalable platform",
+      "PLATFORM_DESCRIPTION": "Our platform has proven its efficiency and security by being implemented in banks to provide the Online Banking channel to the customers - both Web an Mobile.",
+      "CARD_LEAN": "Lean Software Development Methodology",
+      "CARD_LEAN_DESCRIPTION": "We develop products with the agile framework, optimizing the times and resources in creating an MVP for the market, learning from the users and iterating based on feedback until the product becomes mature",
+      "CARD_STATISTICS": "Statistics module",
+      "CARD_STATISTICS_DESCRIPTION": "It is essential to measure success. That’s why we develop a statistic module that provides configurable metrics to measure the success between iterations"
+    },
+    "ALREADY_INVESTED": {
+      "TITLE": "We already invested in:"
+    },
+    "PROGRESS_2021":{
+      "TITLE_2021": "The most interesting modules and functionalities recently launched for our banks",
+      "EXCHANGE_FLOW": "Exchange negotiation flow",
+      "EXCHANGE_FLOW_DESCRIPTION": "Negotiating the exchange rate through the treasury dealer.",
+      "MULTIPLE_PAYMENT": "Multiple payment mode",
+      "MULTIPLE_PAYMENT_DESCRIPTION": "Introduce a payment to multiple beneficiaries, including by multiplying.",
+      "3D_SECURE": "3D Secure V2",
+      "3D_SECURE_DESCRIPTION": "Another bank has launched the biometric authorization module for payments with the card integrated in Mobile Banking.",
+      "WAITING_AVAILABLE": "Waiting available",
+      "WAITING_AVAILABLE_DESCRIPTION": "Payments are pending until EOD is available or begins.",
+      "SALARY_MODULE": "Salary module",
+      "SALARY_MODULE_DESCRIPTION": "With employee lists and multiplying the list from the previous month.",
+      "RECOVERY_FLOW": "User recovery flow",
+      "RECOVERY_FLOW_DESCRIPTION": "Identifying the customer online and sending the username.",
+      "FEBRUARY": "February",
+      "MARCH": "March",
+      "JUNE": "June",
+      "JULY": "July",
+      "DECEMBER": "December"
+    },
+    "PROGRESS_2022": {
+      "TITLE_2022": "Ongoing projects with delivery in 2022",
+      "TRANSFOND_INSTANT": "Transfond Instant",
+      "TRANSFOND_INSTANT_DESCRIPTION": "Integration with the online interbank payment system",
+      "IB_MB": "IB & MB & PSD2 API",
+      "IB_MB_DESCRIPTION": "Internet Banking & Mobile Banking & PSD2 API for a third bank in Romania",
+      "DIGITAL_CARD": "Digital Card",
+      "DIGITAL_CARD_DESCRIPTION": "Issue in just a few minutes with immediate use via Apple Pay and Google Pay.",
+      "TRUE_BALANCE": "True 24/7 Balance",
+      "TRUE_BALANCE_DESCRIPTION": "Online management application available for all digital channels: Online Banking, Cards, IVR, PSD2 API",
+      "INTEGRATION": "Integration",
+      "INTEGRATION_DESCRIPTION": "Integration of accounts from other banks through PSD2 API",
+      "INTERNET_BANKING": "Internet Banking",
+      "INTERNET_BANKING_DESCRIPTION": "Internet Banking for a bank in Romania.",
+      "MOBILE_BANKING": "Mobile Banking",
+      "MOBILE_BANKING_DESCRIPTION": "Mobile Banking pentru o alta banca din Romania",
+      "GET_CVV": "Get CVV",
+      "GET_CVV_DESCRIPTION": "Access secure card information for online payments (card number, expiration date, CVV) Exchange negotiations without operator",
+      "EXCHANGE_NEGOTIATION": "Exchange negotiation without operator",
+      "EXCHANGE_NEGOTIATION_DESCRIPTION": "Automatic flow of foreign exchange trading without human intervention."
+    },
+    "CAREER_NAV": {
+      "WE_OFFER": "What we offer",
+      "WE_DO": "What we do",
+      "HOW_WE_DO": "How we do it",
+      "GOOD_FIT": "Are you a good fit?",
+      "OUR_OFFICES": "Our offices",
+      "OPEN_POSITIONS": "Open positions"
+    },
+    "SECTION_WE_OFFER": {
+      "HEADING": "What we offer"
+    },
+    "OFFER_VACATION": {
+      "TITLE": "25 days of vacation (+1/year)",
+      "SUBTITLE": "+1+1+1+ ... = 33 already reached by our colleagues ... and counting ...",
+      "DESCRIPTION": "25 days of vacation + 1 additional day for every year worked with us"
+    },
+    "OFFER_WORKING": {
+      "TITLE": "6 hour working day since 2015",
+      "SUBTITLE": "(even before Sweden ;)",
+      "DESCRIPTION": "What would you do with your 2 extra hours? Have a hobby or just prefer to sleep longer? ;)"
+    },
+    "OFFER_LUNCH": {
+      "TITLE": "Lunch included",
+      "DESCRIPTION": "We pay for your lunch so you don't have to care about this daily spending"
+    },
+    "OFFER_HEALTH": {
+      "TITLE": "1.000 EUR for health ",
+      "SUBTITLE": "(including dental care and any other spendings related to your health)",
+      "DESCRIPTION": "500 EUR you can use for your family members - same conditions: NO conditions!"
+    },
+    "OFFER_PHONE": {
+      "TITLE": "50% off for a new phone",
+      "DESCRIPTION": "The rest 50% you can pay in 6 monthly installments"
+    },
+    "OFFER_SAILING": {
+      "TITLE": "50% off for a new phone",
+      "DESCRIPTION": "The rest 50% you can pay in 6 monthly installments"
+    },
+    "OFFER_GROWTH": {
+      "TITLE": "100 EUR / year guaranteed salary growth",
+      "DESCRIPTION": "The growth could be higher and will reflect your professional growth."
+    },
+    "OFFER_BONUS": {
+      "TITLE": "5% annual bonus for savings",
+      "DESCRIPTION": "We encourage you to save 10% of your monthly salary and we annually reward you with a bonus of half of what you saved."
+    },
+    "STANDARD_BENEFITS": {
+      "HEADING": "Asking about standard benefits that you get in other companies?<br>Of course we have them:",
+      "HEALTH_INSURANCE": "Health insurance",
+      "EMPLOYEE_REFERRAL": "Employee Referral Program",
+      "HYBRID_WORK": "Hybrid work with 3 days from home and 2 days from office",
+      "FITNESS": "50% off for your fitness subscription",
+      "TRAININGS": "Team buildings and trainings"
+    },
+    "SECTION_WE_DO": {
+      "HEADING": "What we do",
+      "SUBHEADING": "We build the products for different domains on our GTK platform:"
+    },
+    "WE_DO_ONLINE_BANKING": {
+      "TITLE": "Online Banking",
+      "SUBTITLE": "A high availability top secured app",
+      "DESCRIPTION": "The channel must be available 24/7 even when other supporting systems could be in maintenance. The security is periodically verified by specialized companies which perform Penetration Testing against latest threats."
+    },
+    "WE_DO_FINTECH": {
+      "TITLE": "FinTech",
+      "SUBTITLE": "Budgeting app for the entire family",
+      "DESCRIPTION": "We believe this app will be the best in it's class to combine Budgeting with Social Media"
+    },
+    "WE_DO_WINETECH": {
+      "TITLE": "Winetech",
+      "SUBTITLE": "Mobile app for wine lovers",
+      "DESCRIPTION": "The app will help you guess the wine you like"
+    },
+    "HOW_WE_DO": {
+      "TITLE": "How we do it",
+      "JOB_CRAFTING": "Job crafting:",
+      "JOB_CRAFTING_DESCRIPTION": "We build your job around you",
+      "BLUEPRINT": "Blueprint:",
+      "BLUEPRINT_DESCRIPTION": "High level architecture for the developments which we review in squad meets.",
+      "JIRA_FLOW": "Jira flow:",
+      "JIRA_FLOW_DESCRIPTION": "A complex (but not complicated) flow with over 20 nodes that cover all the stages of a development like Design, Front End, Back End, Testing, Dev Environment, Testing Environment etc."
+    },
+    "WE_USE": {
+      "TITLE": "We use",
+      "INFRASTRUCTURE": "Infrastructure:",
+      "INFRASTRUCTURE_DESCRIPTION": "Cloud, Linux, Virtual Box:",
+      "PLATFORM": "Platform:",
+      "PLATFORM_DESCRIPTION": "Oracle DB, Tomcat, Apache",
+      "TOOLS": "Tools:",
+      "TOOLS_DESCRIPTION": "Git, PL/SQL Developer, Visual Studio Code",
+      "CODE": "Code:",
+      "CODE_DESCRIPTION": "SQL, PL/SQL, Apex"
+    },
+    "GOOD_FIT": {
+      "TITLE": "Are you a good fit?",
+      "DESCRIPTION": "<span class=\"text-span-10-px-bottom\">We are looking for specialists with proven experience so we'll ask you to give few examples of the projects and responsabilities that would describe the best your experience.</span><br>Also we have a programming challenge that would demonstrate your skill level. <span class=\"txt-blue\">You'll get a completion bonus depending on the result!</span>",
+      "BUTTON": "Check our programming challenge"
+    },
+    "OPEN_POSITION": {
+      "HEADING": "Open positions",
+      "TITLE": "Oracle developer (SQL, PL/SQL Developer) Bucharest",
+      "LIST_TITLE": "We re looking for engineers with:",
+      "ITEM_1": "Experience in designing and building complex systems using SQL, PL/SQL",
+      "ITEM_2": "Interest in owning projects end-to-end and supporting them as they go live in production",
+      "ITEM_3": "Appreciation of clean code and software engineering best-practice",
+      "ITEM_4": "A passion for learning and an interest in high-end architecture",
+      "ITEM_5": "Exceptional communication skills who enjoy sharing knowledge and collaborating with other",
+      "BUTTON": "Apply"
+    },
+    "SECTION_CHALLENGE": {
+      "HEADING": "Programming Challenge",
+      "SUBHEADING": "API ROVaccinare",
+      "BUTTON": "Careers"
+    },
+    "BLOCK_DESCRIPTION": {
+      "TITLE": "Description",
+      "DETAIL": "<span class=\"span-8px-bottom\">In the context of the SARS-Cov-2 Romania pandemic, the vaccination process of the population begins. Your responsibility is to implement an API used by a Web application in which Romanian citizens will schedule for the vaccine. In addition to the Web application, the Ministry of Health will use the API to update the list of vaccination centers respectively, vaccine stocks.</span><br><span class=\"span-8px-bottom\">Each citizen will identify himself in the application through CNP. A citizen can have only one vaccination schedule.</span><br><span class=\"span-8px-bottom\">Each vial of vaccine (vial) contains 5 doses. 3 vials (15 doses) can be used parallel every hour (timeSlot) in any clinic.<br></span>There are 10 timeSlots that start at 8:00, 9:00, ..., 16:00, and 17:00. every day. Appointments can be made any day of the week, including Saturday and Sunday."
+    },
+    "BLOCK_ASSESSMENT": {
+      "TITLE": "Assessment",
+      "ITEM_1": "the correctness of the answers in the serial regime of sending the requests",
+      "ITEM_2": "the correctness of the answers in the parallel regime of sending the requests"
+    },
+    "BLOCK_NOTES": {
+      "TITLE": "Notes",
+      "LIST_TITLE": "The requirements are simplified compared to the actual situation:",
+      "ITEM_1": "there is only one type of vaccine",
+      "ITEM_2": "the vaccine is a single dose",
+      "ITEM_3": "all vaccination centers have the same capacity: 3 vials (15 doses) per hour",
+      "ITEM_4": "he vaccination schedule is identical at all centers, 8:00 - 17:00, every day of the week",
+      "GENERALIZE": "Focus on the requirements, <span class=\"txt/blue\">don't try to generalize!</span>"
+    },
+    "API_WEB": {
+      "TITLE": "List of APIs to use for the Web application:",
+      "ITEM_1": "register",
+      "ITEM_2": "login",
+      "ITEM_3": "createAppoinment",
+      "ITEM_4": "logout"
+    },
+    "API_MINISTRY": {
+      "TITLE": "List of APIs to use for the Ministry of Health:",
+      "ITEM_1": "updateVaccinationClinic",
+      "ITEM_2": "updateVaccinationStock",
+      "ITEM_3": "displayVaccinationStock"
+    }
+  }
+}
