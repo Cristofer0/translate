@@ -3,7 +3,7 @@
     "NAV_MENU": {
       "PRODUCT": "Produse",
       "CONTACT": "Contact",
-      "CARRIERS": "Cariere",
+      "CAREER": "Cariere",
       "LANGUAGE": "Select",
       "COOKIE_POLICY": "Politica de cookie-uri"
     },
@@ -104,7 +104,7 @@
       "HEADING":  "Tinem pasul cu cele mai noi tehnologii",
       "DESCRIPTION": "Folosim cele mai noi tehnologii pentru ca partenerii nostrii tin la securitatea clientilor lor:",
       "ITEM_1": "Compania iti achizitioneaza telefonul dorit, pentru care tu vei plati doar 50% din valoarea lui."
-   },
+    },
     "SECTION_OFFICE": {
       "HEADING": "Turul biroului nostru"
     },
@@ -281,13 +281,122 @@
       "GET_CVV_DESCRIPTION": "Accesare informații securizate card pentru plăți online (număr card, data expirare, CVV)\nNegociere schimburi fără operator",
       "EXCHANGE_NEGOTIATION": "Negociere schimburi fără operator",
       "EXCHANGE_NEGOTIATION_DESCRIPTION": "Flux automat de negociere schimburi valutare fără intervenție umana."
+    },
+    "CAREER_NAV": {
+      "WE_OFFER": "What we offer",
+      "WE_DO": "What we do",
+      "HOW_WE_DO": "How we do it",
+      "GOOD_FIT": "Are you a good fit?",
+      "OUR_OFFICES": "Our offices",
+      "OPEN_POSITIONS": "Open positions"
+    },
+    "SECTION_WE_OFFER": {
+      "HEADING": "What we offer"
+    },
+    "OFFER_VACATION": {
+      "TITLE": "25 days of vacation (+1/year)",
+      "SUBTITLE": "+1+1+1+ ... = 33 already reached by our colleagues ... and counting ...",
+      "DESCRIPTION": "25 days of vacation + 1 additional day for every year worked with us"
+    },
+    "OFFER_WORKING": {
+      "TITLE": "6 hour working day since 2015",
+      "SUBTITLE": "(even before Sweden ;)",
+      "DESCRIPTION": "What would you do with your 2 extra hours? Have a hobby or just prefer to sleep longer? ;)"
+    },
+    "OFFER_LUNCH": {
+      "TITLE": "Lunch included",
+      "DESCRIPTION": "We pay for your lunch so you don't have to care about this daily spending"
+    },
+    "OFFER_HEALTH": {
+      "TITLE": "1.000 EUR for health ",
+      "SUBTITLE": "(including dental care and any other spendings related to your health)",
+      "DESCRIPTION": "500 EUR you can use for your family members - same conditions: NO conditions!"
+    },
+    "OFFER_PHONE": {
+      "TITLE": "50% off for a new phone",
+      "DESCRIPTION": "The rest 50% you can pay in 6 monthly installments"
+    },
+    "OFFER_SAILING": {
+      "TITLE": "50% off for a new phone",
+      "DESCRIPTION": "The rest 50% you can pay in 6 monthly installments"
+    },
+    "OFFER_GROWTH": {
+      "TITLE": "100 EUR / year guaranteed salary growth",
+      "DESCRIPTION": "The growth could be higher and will reflect your professional growth."
+    },
+    "OFFER_BONUS": {
+      "TITLE": "5% annual bonus for savings",
+      "DESCRIPTION": "We encourage you to save 10% of your monthly salary and we annually reward you with a bonus of half of what you saved."
+    },
+    "STANDARD_BENEFITS": {
+      "HEADING": "Asking about standard benefits that you get in other companies?<br>Of course we have them:",
+      "HEALTH_INSURANCE": "Health insurance",
+      "EMPLOYEE_REFERRAL": "Employee Referral Program",
+      "HYBRID_WORK": "Hybrid work with 3 days from home and 2 days from office",
+      "FITNESS": "50% off for your fitness subscription",
+      "TRAININGS": "Team buildings and trainings"
+    },
+    "SECTION_WE_DO": {
+      "HEADING": "What we do",
+      "SUBHEADING": "We build the products for different domains on our GTK platform:"
+    },
+    "WE_DO_ONLINE_BANKING": {
+      "TITLE": "Online Banking",
+      "SUBTITLE": "A high availability top secured app",
+      "DESCRIPTION": "The channel must be available 24/7 even when other supporting systems could be in maintenance. The security is periodically verified by specialized companies which perform Penetration Testing against latest threats."
+    },
+    "WE_DO_FINTECH": {
+      "TITLE": "FinTech",
+      "SUBTITLE": "Budgeting app for the entire family",
+      "DESCRIPTION": "We believe this app will be the best in it's class to combine Budgeting with Social Media"
+    },
+    "WE_DO_WINETECH": {
+      "TITLE": "Winetech",
+      "SUBTITLE": "Mobile app for wine lovers",
+      "DESCRIPTION": "The app will help you guess the wine you like"
+    },
+    "HOW_WE_DO": {
+      "TITLE": "How we do it",
+      "JOB_CRAFTING": "Job crafting:",
+      "JOB_CRAFTING_DESCRIPTION": "We build your job around you",
+      "BLUEPRINT": "Blueprint:",
+      "BLUEPRINT_DESCRIPTION": "High level architecture for the developments which we review in squad meets.",
+      "JIRA_FLOW": "Jira flow:",
+      "JIRA_FLOW_DESCRIPTION": "A complex (but not complicated) flow with over 20 nodes that cover all the stages of a development like Design, Front End, Back End, Testing, Dev Environment, Testing Environment etc."
+    },
+    "WE_USE": {
+      "TITLE": "We use",
+      "INFRASTRUCTURE": "Infrastructure:",
+      "INFRASTRUCTURE_DESCRIPTION": "Cloud, Linux, Virtual Box:",
+      "PLATFORM": "Platform:",
+      "PLATFORM_DESCRIPTION": "Oracle DB, Tomcat, Apache",
+      "TOOLS": "Tools:",
+      "TOOLS_DESCRIPTION": "Git, PL/SQL Developer, Visual Studio Code",
+      "CODE": "Code:",
+      "CODE_DESCRIPTION": "SQL, PL/SQL, Apex"
+    },
+    "GOOD_FIT": {
+      "TITLE": "Are you a good fit?",
+      "DESCRIPTION": "<span class=\"text-span-10-px-bottom\">We are looking for specialists with proven experience so we'll ask you to give few examples of the projects and responsabilities that would describe the best your experience.</span><br>Also we have a programming challenge that would demonstrate your skill level. <span class=\"txt-blue\">You'll get a completion bonus depending on the result!</span>",
+      "BUTTON": "Check our programming challenge"
+    },
+    "OPEN_POSITION": {
+      "HEADING": "Open positions",
+      "TITLE": "Oracle developer (SQL, PL/SQL Developer) Bucharest",
+      "LIST_TITLE": "We re looking for engineers with:",
+      "ITEM_1": "Experience in designing and building complex systems using SQL, PL/SQL",
+      "ITEM_2": "Interest in owning projects end-to-end and supporting them as they go live in production",
+      "ITEM_3": "Appreciation of clean code and software engineering best-practice",
+      "ITEM_4": "A passion for learning and an interest in high-end architecture",
+      "ITEM_5": "Exceptional communication skills who enjoy sharing knowledge and collaborating with other",
+      "BUTTON": "Apply"
     }
   },
   "en": {
     "NAV_MENU": {
       "PRODUCT": "Products",
       "CONTACT": "Contact",
-      "CARRIERS": "Careers",
+      "CAREER": "Careers",
       "LANGUAGE": "Select language",
       "COOKIE_POLICY": "Cookies policy"
     },
@@ -566,6 +675,115 @@
       "GET_CVV_DESCRIPTION": "Access secure card information for online payments (card number, expiration date, CVV) Exchange negotiations without operator",
       "EXCHANGE_NEGOTIATION": "Exchange negotiation without operator",
       "EXCHANGE_NEGOTIATION_DESCRIPTION": "Automatic flow of foreign exchange trading without human intervention."
+    },
+    "CAREER_NAV": {
+      "WE_OFFER": "What we offer",
+      "WE_DO": "What we do",
+      "HOW_WE_DO": "How we do it",
+      "GOOD_FIT": "Are you a good fit?",
+      "OUR_OFFICES": "Our offices",
+      "OPEN_POSITIONS": "Open positions"
+    },
+    "SECTION_WE_OFFER": {
+      "HEADING": "What we offer"
+    },
+    "OFFER_VACATION": {
+      "TITLE": "25 days of vacation (+1/year)",
+      "SUBTITLE": "+1+1+1+ ... = 33 already reached by our colleagues ... and counting ...",
+      "DESCRIPTION": "25 days of vacation + 1 additional day for every year worked with us"
+    },
+    "OFFER_WORKING": {
+      "TITLE": "6 hour working day since 2015",
+      "SUBTITLE": "(even before Sweden ;)",
+      "DESCRIPTION": "What would you do with your 2 extra hours? Have a hobby or just prefer to sleep longer? ;)"
+    },
+    "OFFER_LUNCH": {
+      "TITLE": "Lunch included",
+      "DESCRIPTION": "We pay for your lunch so you don't have to care about this daily spending"
+    },
+    "OFFER_HEALTH": {
+      "TITLE": "1.000 EUR for health ",
+      "SUBTITLE": "(including dental care and any other spendings related to your health)",
+      "DESCRIPTION": "500 EUR you can use for your family members - same conditions: NO conditions!"
+    },
+    "OFFER_PHONE": {
+      "TITLE": "50% off for a new phone",
+      "DESCRIPTION": "The rest 50% you can pay in 6 monthly installments"
+    },
+    "OFFER_SAILING": {
+      "TITLE": "50% off for a new phone",
+      "DESCRIPTION": "The rest 50% you can pay in 6 monthly installments"
+    },
+    "OFFER_GROWTH": {
+      "TITLE": "100 EUR / year guaranteed salary growth",
+      "DESCRIPTION": "The growth could be higher and will reflect your professional growth."
+    },
+    "OFFER_BONUS": {
+      "TITLE": "5% annual bonus for savings",
+      "DESCRIPTION": "We encourage you to save 10% of your monthly salary and we annually reward you with a bonus of half of what you saved."
+    },
+    "STANDARD_BENEFITS": {
+      "HEADING": "Asking about standard benefits that you get in other companies?<br>Of course we have them:",
+      "HEALTH_INSURANCE": "Health insurance",
+      "EMPLOYEE_REFERRAL": "Employee Referral Program",
+      "HYBRID_WORK": "Hybrid work with 3 days from home and 2 days from office",
+      "FITNESS": "50% off for your fitness subscription",
+      "TRAININGS": "Team buildings and trainings"
+    },
+    "SECTION_WE_DO": {
+      "HEADING": "What we do",
+      "SUBHEADING": "We build the products for different domains on our GTK platform:"
+    },
+    "WE_DO_ONLINE_BANKING": {
+      "TITLE": "Online Banking",
+      "SUBTITLE": "A high availability top secured app",
+      "DESCRIPTION": "The channel must be available 24/7 even when other supporting systems could be in maintenance. The security is periodically verified by specialized companies which perform Penetration Testing against latest threats."
+    },
+    "WE_DO_FINTECH": {
+      "TITLE": "FinTech",
+      "SUBTITLE": "Budgeting app for the entire family",
+      "DESCRIPTION": "We believe this app will be the best in it's class to combine Budgeting with Social Media"
+    },
+    "WE_DO_WINETECH": {
+      "TITLE": "Winetech",
+      "SUBTITLE": "Mobile app for wine lovers",
+      "DESCRIPTION": "The app will help you guess the wine you like"
+    },
+    "HOW_WE_DO": {
+      "TITLE": "How we do it",
+      "JOB_CRAFTING": "Job crafting:",
+      "JOB_CRAFTING_DESCRIPTION": "We build your job around you",
+      "BLUEPRINT": "Blueprint:",
+      "BLUEPRINT_DESCRIPTION": "High level architecture for the developments which we review in squad meets.",
+      "JIRA_FLOW": "Jira flow:",
+      "JIRA_FLOW_DESCRIPTION": "A complex (but not complicated) flow with over 20 nodes that cover all the stages of a development like Design, Front End, Back End, Testing, Dev Environment, Testing Environment etc."
+    },
+    "WE_USE": {
+      "TITLE": "We use",
+      "INFRASTRUCTURE": "Infrastructure:",
+      "INFRASTRUCTURE_DESCRIPTION": "Cloud, Linux, Virtual Box:",
+      "PLATFORM": "Platform:",
+      "PLATFORM_DESCRIPTION": "Oracle DB, Tomcat, Apache",
+      "TOOLS": "Tools:",
+      "TOOLS_DESCRIPTION": "Git, PL/SQL Developer, Visual Studio Code",
+      "CODE": "Code:",
+      "CODE_DESCRIPTION": "SQL, PL/SQL, Apex"
+    },
+    "GOOD_FIT": {
+      "TITLE": "Are you a good fit?",
+      "DESCRIPTION": "<span class=\"text-span-10-px-bottom\">We are looking for specialists with proven experience so we'll ask you to give few examples of the projects and responsabilities that would describe the best your experience.</span><br>Also we have a programming challenge that would demonstrate your skill level. <span class=\"txt-blue\">You'll get a completion bonus depending on the result!</span>",
+      "BUTTON": "Check our programming challenge"
+    },
+    "OPEN_POSITION": {
+      "HEADING": "Open positions",
+      "TITLE": "Oracle developer (SQL, PL/SQL Developer) Bucharest",
+      "LIST_TITLE": "We re looking for engineers with:",
+      "ITEM_1": "Experience in designing and building complex systems using SQL, PL/SQL",
+      "ITEM_2": "Interest in owning projects end-to-end and supporting them as they go live in production",
+      "ITEM_3": "Appreciation of clean code and software engineering best-practice",
+      "ITEM_4": "A passion for learning and an interest in high-end architecture",
+      "ITEM_5": "Exceptional communication skills who enjoy sharing knowledge and collaborating with other",
+      "BUTTON": "Apply"
     }
   }
 }
