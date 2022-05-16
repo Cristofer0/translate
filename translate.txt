@@ -426,6 +426,11 @@
       "ITEM_1": "updateVaccinationClinic",
       "ITEM_2": "updateVaccinationStock",
       "ITEM_3": "displayVaccinationStock"
+    },
+    "OUR_OFFICE": {
+      "TITLE": "Biroul nostru",
+      "BUCHAREST": "București",
+      "CHISINAU": "Chișinău"
     }
   },
   "en": {
@@ -747,8 +752,8 @@
       "DESCRIPTION": "The rest 50% you can pay in 6 monthly installments"
     },
     "OFFER_SAILING": {
-      "TITLE": "50% off for a new phone",
-      "DESCRIPTION": "The rest 50% you can pay in 6 monthly installments"
+      "TITLE": "Sailing school course paid by the company",
+      "DESCRIPTION": "Including the taxes to get the Skipper's license. We love sailing and we call it coding wind and waves ;)"
     },
     "OFFER_GROWTH": {
       "TITLE": "100 EUR / year guaranteed salary growth",
@@ -856,6 +861,11 @@
       "ITEM_1": "updateVaccinationClinic",
       "ITEM_2": "updateVaccinationStock",
       "ITEM_3": "displayVaccinationStock"
+    },
+    "OUR_OFFICE": {
+      "TITLE": "Our office",
+      "BUCHAREST": "Bucharest",
+      "CHISINAU": "Chisinau"
     }
   }
 }
