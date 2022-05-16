@@ -283,105 +283,105 @@
       "EXCHANGE_NEGOTIATION_DESCRIPTION": "Flux automat de negociere schimburi valutare fără intervenție umana."
     },
     "CAREER_NAV": {
-      "WE_OFFER": "What we offer",
-      "WE_DO": "What we do",
-      "HOW_WE_DO": "How we do it",
-      "GOOD_FIT": "Are you a good fit?",
-      "OUR_OFFICES": "Our offices",
-      "OPEN_POSITIONS": "Open positions"
+      "WE_OFFER": "Ce oferim",
+      "WE_DO": "Ce facem noi",
+      "HOW_WE_DO": "Cum facem",
+      "GOOD_FIT": "Te potrivești?",
+      "OUR_OFFICES": "Sediile noastre",
+      "OPEN_POSITIONS": "Pozitii disponibile"
     },
     "SECTION_WE_OFFER": {
-      "HEADING": "What we offer"
+      "HEADING": "Ce oferim"
     },
     "OFFER_VACATION": {
-      "TITLE": "25 days of vacation (+1/year)",
-      "SUBTITLE": "+1+1+1+ ... = 33 already reached by our colleagues ... and counting ...",
-      "DESCRIPTION": "25 days of vacation + 1 additional day for every year worked with us"
+      "TITLE": "25 zile de concediu (+1/an)",
+      "SUBTITLE": "+1+1+1+ ... = 33 zile are deja un coleg ...  și continuă să adune ...",
+      "DESCRIPTION": "25 zile de concediu + 1 zi pentru fiecare an alături de noi"
     },
     "OFFER_WORKING": {
-      "TITLE": "6 hour working day since 2015",
-      "SUBTITLE": "(even before Sweden ;)",
-      "DESCRIPTION": "What would you do with your 2 extra hours? Have a hobby or just prefer to sleep longer? ;)"
+      "TITLE": "6 ore pe zi, încă din 2015",
+      "SUBTITLE": "(implementat înaintea Suediei ;)",
+      "DESCRIPTION": "Ce ai face cu 2 ore in plus pe zi?? Ai un hobby sau preferi să dormi în plus? ;)"
     },
     "OFFER_LUNCH": {
-      "TITLE": "Lunch included",
-      "DESCRIPTION": "We pay for your lunch so you don't have to care about this daily spending"
+      "TITLE": "Masa de prânz",
+      "DESCRIPTION": "Plătim noi prânzul, ca tu să nu îti faci griji pentru această cheltuială zilnică."
     },
     "OFFER_HEALTH": {
-      "TITLE": "1.000 EUR for health ",
-      "SUBTITLE": "(including dental care and any other spendings related to your health)",
-      "DESCRIPTION": "500 EUR you can use for your family members - same conditions: NO conditions!"
+      "TITLE": "11.000 EUR pentru cheltuieli medicale",
+      "SUBTITLE": "(inclusiv Stomatologie sau orice alte cheltuieli medicale)",
+      "DESCRIPTION": "5500 EUR pot fi folositi pentru rude de gradul I - aceleași condiții: FĂRĂ condiții!"
     },
     "OFFER_PHONE": {
-      "TITLE": "50% off for a new phone",
-      "DESCRIPTION": "The rest 50% you can pay in 6 monthly installments"
+      "TITLE": "Decontam 50% din costul telefonului tau nou",
+      "DESCRIPTION": "Și jumătatea ta o poți achita in 6 rate lunare."
     },
     "OFFER_SAILING": {
-      "TITLE": "50% off for a new phone",
-      "DESCRIPTION": "The rest 50% you can pay in 6 monthly installments"
+      "TITLE": "Curs Sailing decontat de companie",
+      "DESCRIPTION": "Include și taxa de licenta Skipper. Ne place să navigăm și numim asta: coding wind and waves ;)"
     },
     "OFFER_GROWTH": {
-      "TITLE": "100 EUR / year guaranteed salary growth",
-      "DESCRIPTION": "The growth could be higher and will reflect your professional growth."
+      "TITLE": "100 EUR / an mărire salarială garantată",
+      "DESCRIPTION": "Creșterea salarială poate să fie mai mare și te asigurăm că este egală cu creșterea ta profesională."
     },
     "OFFER_BONUS": {
-      "TITLE": "5% annual bonus for savings",
-      "DESCRIPTION": "We encourage you to save 10% of your monthly salary and we annually reward you with a bonus of half of what you saved."
+      "TITLE": "5% anual - bonus de economisire",
+      "DESCRIPTION": "Te încurajăm să economisești 10% din salariul tău lunar și te recompensăm cu jumătate din cât ai economisit."
     },
     "STANDARD_BENEFITS": {
-      "HEADING": "Asking about standard benefits that you get in other companies?<br>Of course we have them:",
-      "HEALTH_INSURANCE": "Health insurance",
-      "EMPLOYEE_REFERRAL": "Employee Referral Program",
-      "HYBRID_WORK": "Hybrid work with 3 days from home and 2 days from office",
-      "FITNESS": "50% off for your fitness subscription",
-      "TRAININGS": "Team buildings and trainings"
+      "HEADING": "ATe întrebi de beneficiile standard oferite de toate companiile?<br>Le avem si noi:",
+      "HEALTH_INSURANCE": "Asigurare medicală",
+      "EMPLOYEE_REFERRAL": "Bonus pentru recomandare angajați",
+      "HYBRID_WORK": "Program hibrid: săptămânal 3 zile de oriunde, 2 zile la birou.",
+      "FITNESS": "50% din abonamentul de la orice sală",
+      "TRAININGS": "Team building-uri și cursuri"
     },
     "SECTION_WE_DO": {
-      "HEADING": "What we do",
-      "SUBHEADING": "We build the products for different domains on our GTK platform:"
+      "HEADING": "Ce facem noi",
+      "SUBHEADING": "Construim produse din diferite domenii pe platforma noastră GTK:"
     },
     "WE_DO_ONLINE_BANKING": {
       "TITLE": "Online Banking",
-      "SUBTITLE": "A high availability top secured app",
-      "DESCRIPTION": "The channel must be available 24/7 even when other supporting systems could be in maintenance. The security is periodically verified by specialized companies which perform Penetration Testing against latest threats."
+      "SUBTITLE": "Super sigur și disponibil tot timpul",
+      "DESCRIPTION": "Sistemul trebuie sa fie disponibil 24/7 chiar dacă alte sisteme sunt închise pentru mentenanță. Securitatea este verificata periodic de companii specializate in Teste de Penetrare."
     },
     "WE_DO_FINTECH": {
       "TITLE": "FinTech",
-      "SUBTITLE": "Budgeting app for the entire family",
-      "DESCRIPTION": "We believe this app will be the best in it's class to combine Budgeting with Social Media"
+      "SUBTITLE": "Aplicație de bugetare pentru toată familia",
+      "DESCRIPTION": "Credem că această aplicație va fi cea mai bună aplicație care combină bugetarea cu Social Media."
     },
     "WE_DO_WINETECH": {
       "TITLE": "Winetech",
-      "SUBTITLE": "Mobile app for wine lovers",
-      "DESCRIPTION": "The app will help you guess the wine you like"
+      "SUBTITLE": "Aplicație pentru iubitorii de vin",
+      "DESCRIPTION": "Aplicația îți va spune dacă îți place sau nu un vin."
     },
     "HOW_WE_DO": {
-      "TITLE": "How we do it",
-      "JOB_CRAFTING": "Job crafting:",
-      "JOB_CRAFTING_DESCRIPTION": "We build your job around you",
+      "TITLE": "Cum facem",
+      "JOB_CRAFTING": "Construim posturi:",
+      "JOB_CRAFTING_DESCRIPTION": "Aptitudinile tale definesc responsabilitățile pe care le ai.",
       "BLUEPRINT": "Blueprint:",
-      "BLUEPRINT_DESCRIPTION": "High level architecture for the developments which we review in squad meets.",
-      "JIRA_FLOW": "Jira flow:",
-      "JIRA_FLOW_DESCRIPTION": "A complex (but not complicated) flow with over 20 nodes that cover all the stages of a development like Design, Front End, Back End, Testing, Dev Environment, Testing Environment etc."
+      "BLUEPRINT_DESCRIPTION": "Arhitectura high level pentru dezvoltările care sunt revizuite în  ședințele squad-ului.",
+      "JIRA_FLOW": "Flux Jira:",
+      "JIRA_FLOW_DESCRIPTION": "Un flux complex, dar nu complicat, cu peste 20 de noduri care acopera toate stadiile dezvoltarii, cum ar fi Design, Front End, Back End, Testing, Dev Environment, Testing Environment etc."
     },
     "WE_USE": {
-      "TITLE": "We use",
-      "INFRASTRUCTURE": "Infrastructure:",
+      "TITLE": "Ce folosim",
+      "INFRASTRUCTURE": "Infrastructuri:",
       "INFRASTRUCTURE_DESCRIPTION": "Cloud, Linux, Virtual Box:",
-      "PLATFORM": "Platform:",
+      "PLATFORM": "Platforme:",
       "PLATFORM_DESCRIPTION": "Oracle DB, Tomcat, Apache",
       "TOOLS": "Tools:",
       "TOOLS_DESCRIPTION": "Git, PL/SQL Developer, Visual Studio Code",
-      "CODE": "Code:",
+      "CODE": "Cod:",
       "CODE_DESCRIPTION": "SQL, PL/SQL, Apex"
     },
     "GOOD_FIT": {
-      "TITLE": "Are you a good fit?",
-      "DESCRIPTION": "<span class=\"text-span-10-px-bottom\">We are looking for specialists with proven experience so we'll ask you to give few examples of the projects and responsabilities that would describe the best your experience.</span><br>Also we have a programming challenge that would demonstrate your skill level. <span class=\"txt-blue\">You'll get a completion bonus depending on the result!</span>",
-      "BUTTON": "Check our programming challenge"
+      "TITLE": "Crezi că te potrivești?",
+      "DESCRIPTION": "<span class=\"text-span-10-px-bottom\">WCăutăm specialisti cu experienta dovedita, asa ca te vom ruga sa ne descrii cateva proiecte si responsabilitati pe care descriu cel mai bine experienta ta.</span><br>De asemenea avem și o provocare de programare prin care să îți demonstrezi nivelul abilitatilor tale. <span class=\"txt-blue\">În funcție de rezultat, poți să primești un bonus de completare!!</span>",
+      "BUTTON": "Vezi provocarea de programare"
     },
     "OPEN_POSITION": {
-      "HEADING": "Open positions",
+      "HEADING": "Poziții disponibile",
       "TITLE": "Oracle developer (SQL, PL/SQL Developer) Bucharest",
       "LIST_TITLE": "We re looking for engineers with:",
       "ITEM_1": "Experience in designing and building complex systems using SQL, PL/SQL",
