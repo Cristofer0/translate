@@ -394,7 +394,7 @@
     "SECTION_CHALLENGE": {
       "HEADING": "Provocare de programare",
       "SUBHEADING": "API ROVaccinare",
-      "BUTTON": "Careers"
+      "BUTTON": "Cariere"
     },
     "BLOCK_DESCRIPTION": {
       "TITLE": "Descriere",
