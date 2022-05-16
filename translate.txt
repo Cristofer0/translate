@@ -398,31 +398,32 @@
     },
     "BLOCK_DESCRIPTION": {
       "TITLE": "Description",
-      "DETAIL": "<span class=\"span-8px-bottom\">In the context of the SARS-Cov-2 Romania pandemic, the vaccination process of the population begins. Your responsibility is to implement an API used by a Web application in which Romanian citizens will schedule for the vaccine. In addition to the Web application, the Ministry of Health will use the API to update the list of vaccination centers respectively, vaccine stocks.</span><br><span class=\"span-8px-bottom\">Each citizen will identify himself in the application through CNP. A citizen can have only one vaccination schedule.</span><br><span class=\"span-8px-bottom\">Each vial of vaccine (vial) contains 5 doses. 3 vials (15 doses) can be used parallel every hour (timeSlot) in any clinic.<br></span>There are 10 timeSlots that start at 8:00, 9:00, ..., 16:00, and 17:00. every day. Appointments can be made any day of the week, including Saturday and Sunday."
+      "DETAIL": "<span class=\"span-8px-bottom\">IIn contextul pandemiei de SARS-Cov-2 Romania incepe procesul de vaccinare al populatiei. Voua va
+revine sarcina sa implementati un API folosit de o aplicatie Web in care se vor programa cetatenii Romaniei pentru vaccin. Pe langa aplicatia Web, API-ul va fi folosit si de Ministerul Sanatatii pentru a actualiza lista de centre de vaccinare, respectiv a stocurilor de vaccin..</span><br><span class=\"span-8px-bottom\">Fiecare cetatean se va identifica in aplicatie prin CNP. Un cetatean poate avea o singura programare la vaccinare.</span><br><span class=\"span-8px-bottom\">Fiecare fiola de vaccin (vial) contine 5 doze. In orice clinica, in fiecare ora (timeSlot) se pot utiliza in paralel 3 fiole (15 doze). In fiecare zi exista 10 timeSlot-uri care incep la orele 8:00, 9:00, ..., 16:00 si 17:00. Programarile se pot face in orice zi din saptamana, inclusiv sambata si duminica."
     },
     "BLOCK_ASSESSMENT": {
-      "TITLE": "Assessment",
-      "ITEM_1": "the correctness of the answers in the serial regime of sending the requests",
-      "ITEM_2": "the correctness of the answers in the parallel regime of sending the requests"
+      "TITLE": "Evaluare",
+      "ITEM_1": "corectitudinea raspunsurilor in regim serial de trimitere a requesturilor",
+      "ITEM_2": "corectitudinea raspunsurilor in regim paralel de trimitere a requesturilor"
     },
     "BLOCK_NOTES": {
-      "TITLE": "Notes",
-      "LIST_TITLE": "The requirements are simplified compared to the actual situation:",
-      "ITEM_1": "there is only one type of vaccine",
-      "ITEM_2": "the vaccine is a single dose",
-      "ITEM_3": "all vaccination centers have the same capacity: 3 vials (15 doses) per hour",
-      "ITEM_4": "he vaccination schedule is identical at all centers, 8:00 - 17:00, every day of the week",
-      "GENERALIZE": "Focus on the requirements, <span class=\"txt/blue\">don't try to generalize!</span>"
+      "TITLE": "Mentiuni",
+      "LIST_TITLE": "Cerintele sunt simplificate fata de situatia reala:",
+      "ITEM_1": "exista un singur tip de vaccin",
+      "ITEM_2": "vaccinul este de tip mono doza",
+      "ITEM_3": "toate centrele de vaccinare au aceeasi capacitate: 3 fiole (15 doze) / ora",
+      "ITEM_4": "programul de vaccinare este identic la toate centrele, 8:00 - 17:00, in fiecare zi din saptamana",
+      "GENERALIZE": "Focusati-va pe cerinte,<span class=\"txt/blue\">nu incercati sa generalizati!</span>"
     },
     "API_WEB": {
-      "TITLE": "List of APIs to use for the Web application:",
+      "TITLE": "Lista API-urilor folosite pentru aplicatia Web:",
       "ITEM_1": "register",
       "ITEM_2": "login",
       "ITEM_3": "createAppoinment",
       "ITEM_4": "logout"
     },
     "API_MINISTRY": {
-      "TITLE": "List of APIs to use for the Ministry of Health:",
+      "TITLE": "Lista API-urilor folosite pentru Ministerul Sanatatii:",
       "ITEM_1": "updateVaccinationClinic",
       "ITEM_2": "updateVaccinationStock",
       "ITEM_3": "displayVaccinationStock"
