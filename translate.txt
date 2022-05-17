@@ -308,9 +308,9 @@
       "DESCRIPTION": "Plătim noi prânzul, ca tu să nu îti faci griji pentru această cheltuială zilnică."
     },
     "OFFER_HEALTH": {
-      "TITLE": "11.000 EUR pentru cheltuieli medicale",
+      "TITLE": "1.000 EUR pentru cheltuieli medicale",
       "SUBTITLE": "(inclusiv Stomatologie sau orice alte cheltuieli medicale)",
-      "DESCRIPTION": "5500 EUR pot fi folositi pentru rude de gradul I - aceleași condiții: FĂRĂ condiții!"
+      "DESCRIPTION": "500 EUR pot fi folositi pentru rude de gradul I - aceleași condiții: FĂRĂ condiții!"
     },
     "OFFER_PHONE": {
       "TITLE": "Decontam 50% din costul telefonului tau nou",
