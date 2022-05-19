@@ -431,6 +431,11 @@
       "TITLE": "Biroul nostru",
       "BUCHAREST": "București",
       "CHISINAU": "Chișinău"
+    },
+    "BANNER_COOKIES": {
+      "CONTENT": "By clicking\"Accept All Cokies\"you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our <a href=\"/politica-de-cookie-uri\" class=\"fs-cc-banner_text-link\">Privacy Policy</a> for more information.",
+      "OPEN_PREFERENCES": "Preferences",
+      "ALLOW": "Accept all cookies"
     }
   },
   "en": {
@@ -866,6 +871,11 @@
       "TITLE": "Our office",
       "BUCHAREST": "Bucharest",
       "CHISINAU": "Chisinau"
+    },
+    "BANNER_COOKIES": {
+      "CONTENT": "By clicking\"Accept All Cokies\"you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our <a href=\"/politica-de-cookie-uri\" class=\"fs-cc-banner_text-link\">Privacy Policy</a> for more information.",
+      "OPEN_PREFERENCES": "Preferences",
+      "ALLOW": "Accept all cookies"
     }
   }
 }
