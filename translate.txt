@@ -5,7 +5,8 @@
       "CONTACT": "Contact",
       "CAREER": "Cariere",
       "LANGUAGE": "Select",
-      "COOKIE_POLICY": "Politica de cookie-uri"
+      "COOKIE_POLICY": "Politica de cookie-uri",
+      "BLOG": "Blog"
     },
     "HOME_MAIN": {
       "TITLE_HERO_PRIMARY": "Online Banking în doar 6 luni",
@@ -445,7 +446,8 @@
       "CONTACT": "Contact",
       "CAREER": "Careers",
       "LANGUAGE": "Select language",
-      "COOKIE_POLICY": "Cookies policy"
+      "COOKIE_POLICY": "Cookies policy",
+      "BLOG": "Blog"
     },
     "HOME_MAIN": {
       "TITLE_HERO_PRIMARY": "Online Banking in just 6 months",
