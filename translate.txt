@@ -329,12 +329,13 @@
       "DESCRIPTION": "Te încurajăm să economisești 10% din salariul tău lunar și te recompensăm cu jumătate din cât ai economisit."
     },
     "STANDARD_BENEFITS": {
-      "HEADING": "ATe întrebi de beneficiile standard oferite de toate companiile?<br>Le avem si noi:",
+      "HEADING": "Te întrebi de beneficiile standard oferite de toate companiile?<br>Le avem si noi:",
       "HEALTH_INSURANCE": "Asigurare medicală",
       "EMPLOYEE_REFERRAL": "Bonus pentru recomandare angajați",
       "HYBRID_WORK": "Program hibrid: săptămânal 3 zile de oriunde, 2 zile la birou.",
       "FITNESS": "50% din abonamentul de la orice sală",
-      "TRAININGS": "Team building-uri și cursuri"
+      "TRAININGS": "Team building-uri și cursuri",
+      "FLEXIBLE_SCHEDULE": "Program flexibil"
     },
     "SECTION_WE_DO": {
       "HEADING": "Ce facem noi",
@@ -774,7 +775,8 @@
       "EMPLOYEE_REFERRAL": "Employee Referral Program",
       "HYBRID_WORK": "Hybrid work with 3 days from home and 2 days from office",
       "FITNESS": "50% off for your fitness subscription",
-      "TRAININGS": "Team buildings and trainings"
+      "TRAININGS": "Team buildings and trainings",
+      "FLEXIBLE_SCHEDULE": "Flexible schedule"
     },
     "SECTION_WE_DO": {
       "HEADING": "What we do",
