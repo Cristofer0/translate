@@ -438,6 +438,19 @@
       "CONTENT": "By clicking\"Accept All Cokies\"you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our <a href=\"/politica-de-cookie-uri\" class=\"fs-cc-banner_text-link\">Privacy Policy</a> for more information.",
       "OPEN_PREFERENCES": "Preferences",
       "ALLOW": "Accept all cookies"
+    },
+    "SECTION_TIME": {
+      "HEADING": "360 Onboarding - achizitie client in 20min",
+      "CONTENT_BLOCK": "Imagineaza-ti un non-client devine client prin modulul Onboarding, isi deschide conturi si cu modului Digital Cards isi generaza un card pe care poate sa-l asocieze in Apple Pay sau Google Pay, cu modulul Top-up isi transfera bani in contul de la banca ta si poate sa faca plati. Avem toate modulele pentru a oferi aceasta experienta clientului tau.",
+      "BANNER_BLOCK": "Avem toate modulele pentru a oferi aceasta experienta clientului tau."
+    },
+    "SECTION_ALL_IN_ONE": {
+      "HEADING": "All in One",
+      "TITLE_LIST": "Clientul are o singura aplicatie cu mai multe scopuri:",
+      "ITEM_1": "Mobile Banking",
+      "ITEM_2": "Mobile Token",
+      "ITEM_3": "3D Secure Biometric",
+      "ITEM_4": "Antivirus"
     }
   },
   "en": {
@@ -880,6 +893,19 @@
       "CONTENT": "By clicking\"Accept All Cokies\"you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our <a href=\"/politica-de-cookie-uri\" class=\"fs-cc-banner_text-link\">Privacy Policy</a> for more information.",
       "OPEN_PREFERENCES": "Preferences",
       "ALLOW": "Accept all cookies"
+    },
+    "SECTION_TIME": {
+      "HEADING": "360 Onboarding - customer acquisition in 20 min",
+      "CONTENT_BLOCK": "Imagine a non-customer becomes a customer through the Onboarding module, opens accounts and with the Digital Cards mode he generates a card that he can associate in Apple Pay or Google Pay, with the Top-up module he transfers money to his account at your bank and can make payments. We have all the modules to offer this experience to your customer.",
+      "BANNER_BLOCK": "\"We have all the modules to provide this experience to your customer."
+    },
+    "SECTION_ALL_IN_ONE": {
+      "HEADING": "All in One",
+      "TITLE_LIST": "The client has a single application for several purposes:",
+      "ITEM_1": "Mobile Banking",
+      "ITEM_2": "Mobile Token",
+      "ITEM_3": "3D Secure Biometric",
+      "ITEM_4": "Antivirus"
     }
   }
 }
