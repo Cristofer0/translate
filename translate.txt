@@ -3,7 +3,7 @@
     "NAV_MENU": {
       "PRODUCT": "Produse",
       "CONTACT": "Contact",
-      "CAREER": "Cariere",
+      "CAREER": "Angajam!",
       "LANGUAGE": "Select",
       "COOKIE_POLICY": "Politica de cookie-uri",
       "BLOG": "Blog"
@@ -457,7 +457,7 @@
     "NAV_MENU": {
       "PRODUCT": "Products",
       "CONTACT": "Contact",
-      "CAREER": "Careers",
+      "CAREER": "We're hiring!",
       "LANGUAGE": "Select language",
       "COOKIE_POLICY": "Cookies policy",
       "BLOG": "Blog"
