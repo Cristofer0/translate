@@ -35,7 +35,7 @@
       "CO_DESCRIPTION": "Go BIO. Oferiți carduri digitale clienților dvs. cu un sistem de carduri online care îl face să funcționeze excelent.",
       "HEADING_24": "24/7 True Balance",
       "DESCRIPTION_24": "Intra in cercul bancilor integrate cu Transfond Instant pentru a ajuta clientii sa transfere fonduri in cateva secunde.",
-      "PSD2_HEADING": "PSD 2API & SCA",
+      "PSD2_HEADING": "PSD2 API & SCA",
       "PSD2_DESCRIPTION": "Seteaza un API care sa fie conform PSD2 pentru a crea noi produse bazate pe noi oportunitati.",
       "ELOAN_HEADING": "eLoan Origination",
       "ELOAN_DESCRIPTION": "Intra in cercul bancilor integrate cu Transfond Instant pentru a ajuta clientii sa transfere fonduri in cateva secunde.",
