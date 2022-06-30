@@ -492,7 +492,7 @@
       "PSD2_HEADING": "PSD2 API & SCA",
       "PSD2_DESCRIPTION": "Set an PSD2 compliant API to create new products based on new opportunities.",
       "ELOAN_HEADING": "eLoan Origination",
-      "ELOAN_DESCRIPTION": "Join the circle of banks integrated with Transfond Instant to help customers transfer funds in seconds.",
+      "ELOAN_DESCRIPTION": "Online flows for loan applications integrated with the Corebanking for scoring calculation and online decisions. Available for individuals - Personal Loan and Credit Card and also for Companies - Overdraft and Credit Line.",
       "SME_HEADING": "SME Onboarding",
       "SME_DESCRIPTION": "Simplified onboarding, with token signature, without the need for branch involvement.",
       "BUTTON_CARD": "Read more ",
