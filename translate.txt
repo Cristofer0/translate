@@ -31,7 +31,7 @@
     "PRODUCT_CARD": {
       "IB_HEADING": "Internet Banking & Mobile Banking",
       "IB_DESCRIPTION": "Aplicatia este construita la cele mai inalte standarde din piata. Are toate functiile la care se asteapta utilizatorul, precum si functii speciale. Aplicatia mobile iOS si Android cu identificare biometrica este integrata cu tokenul mobile.",
-      "CO_HEADING": "Card Online& Digital cards",
+      "CO_HEADING": "Card Online & Digital cards",
       "CO_DESCRIPTION": "Go BIO. Oferiți carduri digitale clienților dvs. cu un sistem de carduri online care îl face să funcționeze excelent.",
       "HEADING_24": "24/7 True Balance",
       "DESCRIPTION_24": "Intra in cercul bancilor integrate cu Transfond Instant pentru a ajuta clientii sa transfere fonduri in cateva secunde.",
@@ -485,7 +485,7 @@
     "PRODUCT_CARD": {
       "IB_HEADING": "Internet Banking & Mobile Banking",
       "IB_DESCRIPTION": "The application is built to the highest standards on the market. It has all the functions that the user expects, as well as special functions. The iOS and Android mobile application with biometric identification is integrated with the mobile token.",
-      "CO_HEADING": "Card Online& Digital cards",
+      "CO_HEADING": "Card Online & Digital cards",
       "CO_DESCRIPTION": "Go to BIO. Give your customers digital cards with an online card system that makes it work great.",
       "HEADING_24": "24/7 True Balance",
       "DESCRIPTION_24": "Join the circle of banks integrated with Transfond Instant to help customers transfer funds in seconds.",
