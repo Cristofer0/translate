@@ -489,7 +489,7 @@
       "CO_DESCRIPTION": "Go to BIO. Give your customers digital cards with an online card system that makes it work great.",
       "HEADING_24": "24/7 True Balance",
       "DESCRIPTION_24": "Join the circle of banks integrated with Transfond Instant to help customers transfer funds in seconds.",
-      "PSD2_HEADING": "PSD 2API & SCA",
+      "PSD2_HEADING": "PSD2 API & SCA",
       "PSD2_DESCRIPTION": "Set an PSD2 compliant API to create new products based on new opportunities.",
       "ELOAN_HEADING": "eLoan Origination",
       "ELOAN_DESCRIPTION": "Join the circle of banks integrated with Transfond Instant to help customers transfer funds in seconds.",
