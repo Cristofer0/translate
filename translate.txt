@@ -279,7 +279,7 @@
       "MOBILE_BANKING": "Mobile Banking",
       "MOBILE_BANKING_DESCRIPTION": "Mobile Banking pentru o alta banca din Romania",
       "GET_CVV": "Get CVV",
-      "GET_CVV_DESCRIPTION": "Accesare informații securizate card pentru plăți online (număr card, data expirare, CVV)\nNegociere schimburi fără operator",
+      "GET_CVV_DESCRIPTION": "Accesare informații securizate card pentru plăți online (număr card, data expirare, CVV)",
       "EXCHANGE_NEGOTIATION": "Negociere schimburi fără operator",
       "EXCHANGE_NEGOTIATION_DESCRIPTION": "Flux automat de negociere schimburi valutare fără intervenție umana."
     },
