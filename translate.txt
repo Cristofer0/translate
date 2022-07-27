@@ -326,7 +326,7 @@
       "DESCRIPTION": "Creșterea salarială poate să fie mai mare și te asigurăm că este egală cu creșterea ta profesională."
     },
     "OFFER_BONUS": {
-      "TITLE": "50% anual - bonus de economisire",
+      "TITLE": "5% anual - bonus de economisire",
       "DESCRIPTION": "Te încurajăm să economisești 10% din salariul tău lunar și te recompensăm cu jumătate din cât ai economisit."
     },
     "STANDARD_BENEFITS": {
@@ -781,7 +781,7 @@
       "DESCRIPTION": "The growth could be higher and will reflect your professional growth."
     },
     "OFFER_BONUS": {
-      "TITLE": "50% annual bonus for savings",
+      "TITLE": "5% annual bonus for savings",
       "DESCRIPTION": "We encourage you to save 10% of your monthly salary and we annually reward you with a bonus of half of what you saved."
     },
     "STANDARD_BENEFITS": {
