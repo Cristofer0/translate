@@ -306,7 +306,7 @@
     },
     "OFFER_LUNCH": {
       "TITLE": "Masa de prânz",
-      "DESCRIPTION": "Plătim noi prânzul, ca tu să nu îti faci griji pentru această cheltuială zilnică."
+      "DESCRIPTION": "Plătim noi prânzul, ca tu să nu îți faci griji pentru această cheltuială zilnică."
     },
     "OFFER_HEALTH": {
       "TITLE": "1.000 EUR pentru cheltuieli medicale",
