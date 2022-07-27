@@ -781,7 +781,7 @@
       "DESCRIPTION": "The growth could be higher and will reflect your professional growth."
     },
     "OFFER_BONUS": {
-      "TITLE": "5% annual bonus for savings",
+      "TITLE": "50% annual bonus for savings",
       "DESCRIPTION": "We encourage you to save 10% of your monthly salary and we annually reward you with a bonus of half of what you saved."
     },
     "STANDARD_BENEFITS": {
