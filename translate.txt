@@ -460,7 +460,7 @@
       "CAREER": "We're hiring!",
       "LANGUAGE": "Select language",
       "COOKIE_POLICY": "Cookies policy",
-      "BLOG": "Blog"
+      "BLOG": "Way of working"
     },
     "HOME_MAIN": {
       "TITLE_HERO_PRIMARY": "Online Banking in just 6 months",
