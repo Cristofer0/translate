@@ -6,7 +6,7 @@
       "CAREER": "Angajam!",
       "LANGUAGE": "Select",
       "COOKIE_POLICY": "Politica de cookie-uri",
-      "BLOG": "Blog"
+      "BLOG": "Way of working"
     },
     "HOME_MAIN": {
       "TITLE_HERO_PRIMARY": "Online Banking în doar 6 luni",
