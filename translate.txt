@@ -379,7 +379,7 @@
     },
     "GOOD_FIT": {
       "TITLE": "Crezi că te potrivești?",
-      "DESCRIPTION": "<span class=\"text-span-10-px-bottom\">WCăutăm specialisti cu experienta dovedita, asa ca te vom ruga sa ne descrii cateva proiecte si responsabilitati pe care descriu cel mai bine experienta ta.</span><br>De asemenea avem și o provocare de programare prin care să îți demonstrezi nivelul abilitatilor tale. <span class=\"txt-blue\">În funcție de rezultat, poți să primești un bonus de completare!!</span>",
+      "DESCRIPTION": "<span class=\"text-span-10-px-bottom\">Căutăm specialisti cu experienta dovedita, asa ca te vom ruga sa ne descrii cateva proiecte si responsabilitati pe care descriu cel mai bine experienta ta.</span><br>De asemenea avem și o provocare de programare prin care să îți demonstrezi nivelul abilitatilor tale. <span class=\"txt-blue\">În funcție de rezultat, poți să primești un bonus de completare!!</span>",
       "BUTTON": "Vezi provocarea de programare"
     },
     "OPEN_POSITION": {
