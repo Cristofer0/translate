@@ -339,7 +339,7 @@
       "FLEXIBLE_SCHEDULE": "Program flexibil"
     },
     "SECTION_WE_DO": {
-      "HEADING": "Ce facem noi",
+      "HEADING": "Ce proiect ți se potrivește?",
       "SUBHEADING": "Construim produse din diferite domenii pe platforma noastră GTK:"
     },
     "WE_DO_ONLINE_BANKING": {
