@@ -794,7 +794,7 @@
       "FLEXIBLE_SCHEDULE": "Flexible schedule"
     },
     "SECTION_WE_DO": {
-      "HEADING": "What we do",
+      "HEADING": "What project fits you?",
       "SUBHEADING": "We build the products for different domains on our GTK platform:"
     },
     "WE_DO_ONLINE_BANKING": {
