@@ -9,7 +9,7 @@
       "BLOG": "Way of working"
     },
     "HOME_MAIN": {
-      "TITLE_HERO_PRIMARY": "Online Banking în doar 6 luni",
+      "TITLE_HERO_PRIMARY": "#1 in Romania",
       "SUBTITLE_HERO_PRIMARY": "Proiectele noastre de Internet & Mobile Banking au durat intre 3 si 9 luni în dependentă de integrarea cu sistemele băncii.",
       "BUTTON_HERO_PRIMARY": "Vezi produsele noastre",
       "TITLE_HERO_SECONDARY": "Online Banking este cu adevărat 24/7 ?",
@@ -463,7 +463,7 @@
       "BLOG": "Way of working"
     },
     "HOME_MAIN": {
-      "TITLE_HERO_PRIMARY": "Online Banking in just 6 months",
+      "TITLE_HERO_PRIMARY": "#1 in Romania",
       "SUBTITLE_HERO_PRIMARY": "Our Internet & Mobile Banking projects took 3 to 9 months independent of integration with the bank's systems.",
       "BUTTON_HERO_PRIMARY": "View our products",
       "TITLE_HERO_SECONDARY": "Is Online Banking Really 24/7?",
