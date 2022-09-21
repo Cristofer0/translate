@@ -368,7 +368,8 @@
     },
     "WAY_OF_WORKING": {
       "TITLE": "Way of working",
-      "SUBTITLE": "Daca esti interesat mai in detaliu despre modul cum ne desfasuram activitatea, te invitam sa citesti cateva articole in care descriem principii, fluxuri, perspectivele noastre"
+      "SUBTITLE": "Daca esti interesat mai in detaliu despre modul cum ne desfasuram activitatea, te invitam sa citesti cateva articole in care descriem principii, fluxuri, perspectivele noastre",
+      "BUTTON": "Vezi toate articolele"
     },
     "GOOD_FIT": {
       "TITLE": "Crezi că te potrivești?",
@@ -816,7 +817,8 @@
     },
     "WAY_OF_WORKING": {
       "TITLE": "Way of working",
-      "SUBTITLE": "If you are interested in more detail about how we carry out our activity, we invite you to read some articles in which we describe our principles, flows, perspectives"
+      "SUBTITLE": "If you are interested in more detail about how we carry out our activity, we invite you to read some articles in which we describe our principles, flows, perspectives",
+      "BUTTON": "See all articles"
     },
     "GOOD_FIT": {
       "TITLE": "Are you a good fit?",
