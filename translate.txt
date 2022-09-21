@@ -366,16 +366,9 @@
       "JIRA_FLOW": "Flux Jira:",
       "JIRA_FLOW_DESCRIPTION": "Un flux complex, dar nu complicat, cu peste 20 de noduri care acopera toate stadiile dezvoltarii, cum ar fi Design, Front End, Back End, Testing, Dev Environment, Testing Environment etc."
     },
-    "WE_USE": {
-      "TITLE": "Ce folosim",
-      "INFRASTRUCTURE": "Infrastructuri:",
-      "INFRASTRUCTURE_DESCRIPTION": "Cloud, Linux, Virtual Box:",
-      "PLATFORM": "Platforme:",
-      "PLATFORM_DESCRIPTION": "Oracle DB, Tomcat, Apache",
-      "TOOLS": "Tools:",
-      "TOOLS_DESCRIPTION": "Git, PL/SQL Developer, Visual Studio Code",
-      "CODE": "Cod:",
-      "CODE_DESCRIPTION": "SQL, PL/SQL, Apex"
+    "WAY_OF_WORKING": {
+      "TITLE": "Way of working",
+      "SUBTITLE": "Daca esti interesat mai in detaliu despre modul cum ne desfasuram activitatea, te invitam sa citesti cateva articole in care descriem principii, fluxuri, perspectivele noastre"
     },
     "GOOD_FIT": {
       "TITLE": "Crezi că te potrivești?",
@@ -821,16 +814,9 @@
       "JIRA_FLOW": "Jira flow:",
       "JIRA_FLOW_DESCRIPTION": "A complex (but not complicated) flow with over 20 nodes that cover all the stages of a development like Design, Front End, Back End, Testing, Dev Environment, Testing Environment etc."
     },
-    "WE_USE": {
-      "TITLE": "We use",
-      "INFRASTRUCTURE": "Infrastructure:",
-      "INFRASTRUCTURE_DESCRIPTION": "Cloud, Linux, Virtual Box:",
-      "PLATFORM": "Platform:",
-      "PLATFORM_DESCRIPTION": "Oracle DB, Tomcat, Apache",
-      "TOOLS": "Tools:",
-      "TOOLS_DESCRIPTION": "Git, PL/SQL Developer, Visual Studio Code",
-      "CODE": "Code:",
-      "CODE_DESCRIPTION": "SQL, PL/SQL, Apex"
+    "WAY_OF_WORKING": {
+      "TITLE": "Way of working",
+      "SUBTITLE": "If you are interested in more detail about how we carry out our activity, we invite you to read some articles in which we describe our principles, flows, perspectives"
     },
     "GOOD_FIT": {
       "TITLE": "Are you a good fit?",
