@@ -10,7 +10,7 @@
     },
     "HOME_MAIN": {
       "TITLE_HERO_PRIMARY": "#1 in Romania",
-      "SUBTITLE_HERO_PRIMARY": "Proiectele noastre de Internet & Mobile Banking au durat intre 3 si 9 luni în dependentă de integrarea cu sistemele băncii.",
+      "SUBTITLE_HERO_PRIMARY": "Avem cele mai multe implementări de Internet și Mobile Banking din Romania. ",
       "BUTTON_HERO_PRIMARY": "Vezi produsele noastre",
       "TITLE_HERO_SECONDARY": "Online Banking este cu adevărat 24/7 ?",
       "SUBTITLE_HERO_SECONDARY": "Solutia noastră True Balance permite clienților să primească bani chiar si in timpul închiderii de zi (EOD).",
@@ -464,7 +464,7 @@
     },
     "HOME_MAIN": {
       "TITLE_HERO_PRIMARY": "#1 in Romania",
-      "SUBTITLE_HERO_PRIMARY": "Our Internet & Mobile Banking projects took 3 to 9 months independent of integration with the bank's systems.",
+      "SUBTITLE_HERO_PRIMARY": "We have the most implementations of Internet and Mobile Banking in Romania.",
       "BUTTON_HERO_PRIMARY": "View our products",
       "TITLE_HERO_SECONDARY": "Is Online Banking Really 24/7?",
       "SUBTITLE_HERO_SECONDARY": "Our True Balance solution allows customers to receive money even during daytime closing (EOD).",
