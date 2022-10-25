@@ -68,12 +68,6 @@
       "HEADING": "Produsele si serviciile noastre",
       "SUBHEADING": "Ne ocupam noi de UX prin metode ca user testing si customer journey, ca tu sa te poti concentra pe produsele financiare."
     },
-    "CAREERS_MAIN": {
-      "HEADING": "Hai la noi in echipa!",
-      "SUBHEADING": "Echipa a fost construita cu membrii alesi pe spanceana, care au valori comune, le plac provocarile, dar stiu sa se si distreze.",
-      "SEE_BELOW": "Vezi mai jos daca iti place ce oferim si daca te potrivesti cu noi!",
-      "BUTTON": "Posturi vacante"
-    },
     "VALUES_SECTION": {
       "HEADING": "Valorile companiei se reflecta in beneficii pentru angajati"
     },
@@ -445,6 +439,80 @@
       "ITEM_2": "Mobile Token",
       "ITEM_3": "3D Secure Biometric",
       "ITEM_4": "Antivirus"
+    },
+    "CAREERS_MAIN": {
+      "HEADING": "Hai la noi in echipa!"
+    },
+    "CAREERS_TEST": {
+      "HEADING": "Vezi daca ne potrivim",
+      "SUBHEADING": "Testează compania noastră",
+      "DESCRIPTION": "Răspunde la 8 întrebări și găsește stilul de lucru pe care l-ai dori la o companie",
+      "INFO": "Răspunsurile sunt între -2 si 2, unde -2 arată că te potrivești mai mult cu raspunsul din stânga, 0 neutru, iar 2 că te potrivești mai mult cu răspunsul din dreapta.",
+      "BUTTON_OPEN_TEST": "Testeaza-ne"
+    },
+    "BENEFITS": {
+      "HEADING": "Beneficii",
+      "DESCRIPTION": "Colegii apreciaza cel mai mult <span class=\"20px-w-500-blue\">programul de 6 ore/zi</span>. Vezi toate beneficiile pe care le oferim, poate tu gasesti unul mai bun.",
+      "BUTTON_SHOW": "Toate beneficiile",
+      "ITEM_1": "6 ore pe zi, încă din 2015 (implementat înaintea Suediei ;)",
+      "ITEM_2": "25 zile de concediu + 1 zi pentru fiecare an alături de noi",
+      "ITEM_3": "Plătim noi prânzul, ca tu să nu îți faci griji pentru această cheltuială zilnică.",
+      "ITEM_4": "1.000 EUR pentru cheltuieli medicale .500 EUR pot fi folositi pentru rude de gradul I.",
+      "ITEM_5": "Decontam 50% din costul telefonului tau nou",
+      "ITEM_6": "Curs Sailing decontat de companie",
+      "ITEM_7": "100 EUR / an mărire salarială garantată",
+      "ITEM_8": "Te încurajăm să economisești 10% din salariul tău lunar și te recompensăm cu jumătate din cât ai economisit.",
+      "ITEM_9": "Asigurare medicală",
+      "ITEM_10": "Bonus pentru recomandare angajați",
+      "ITEM_11": "Program hibrid: săptămânal 3 zile de oriunde, 2 zile la birou",
+      "ITEM_12": "50% din abonamentul de la orice sală",
+      "ITEM_13": "Team building-uri și cursuri",
+      "BUTTON_HIDE": "Ascunde beneficiile"
+    },
+    "PROCEDURE": {
+      "HEADING": "Mod de lucru",
+      "DESCRIPTION": "BluePrint-ul (specificații detaliate) și diversitatea activităților oferă confortul și dezvoltarea profesională. Dacă ești curios despre modul nostru de lucru, te invităm să citești și articolele noastre.",
+      "BUTTON": "Toate articolele"
+    },
+    "TEAM": {
+      "HEADING": "TEAM",
+      "DESCRIPTION": "Conform testului Gallup, top 5 calități ale echipei sunt: Responsability, Learner, Ideation, Relator si Individualization. Citeste articolul nostru pentru mai multe detalii."
+    },
+    "WORK_TEAM": {
+      "HEADING": "Cum te putem asigura ca vei lucra intr-o echipa cu standarde ridicate?",
+      "DESCRIPTION": "Pentru a stabili in mod corect nivelul aptitudinilor, toti colegii nostrii au trecut printr-un test. La fel este necesar sa treci si tu, nu facem exceptii."
+    },
+    "SELECTION_PROCESS": {
+      "HEADING": "Procesul de selecție",
+      "BLOCK_1_HEADING": "Aptitudinile unui dezvoltator nu se calculează în ani.",
+      "BLOCK_1_DESCRIPTION": "Doi colegi cu acelasi numar de ani vechime pot avea eficienta diferita in dependenta de implicare si capacitate. La fel cum doi dezvoltatori care au lucrat in echipe diferite pot avea aptitudini diferite in dependenta de modul de lucru din care a invatat fiecare.",
+      "BLOCK_2_HEADING": "Ce NU putem afla dintr-un simplu interviu:",
+      "BLOCK_2_ITEM_1": "nivelul de complexitate a problemelor pe care le poate rezolva candidatul (stim foarte bine ca 2 specialisti cu acelasi numar de ani de experienta pot avea capacitati diferite)",
+      "BLOCK_2_ITEM_2": "utilizarea eficienta a limbajului de programare",
+      "BLOCK_2_ITEM_3": "modul organizat de scriere a codului"
+    },
+    "SECTION_TEST_FORM": {
+      "DESCRIPTION": "Pentru rezolvare am configurat un <span class=\"w-500\">mediu online complet functional</span> iar verificarea rezultatului o facem prin <span class=\"w-500\">rularea automata a unor scenarii de test.</span>"
+    },
+    "TEST_JUNIOR": {
+      "HEADING": "Oracle developer (SQL, PL/SQL Developer)",
+      "DESCRIPTION": "Test <span class=\"span-blue\">Junior-Mid</span> Level<br><span class=\"span-size-20\">Salariu 6.000 lei - 10.000 lei</span>",
+      "QUESTION": "Ce urmărim cu acest test:",
+      "ITEM_1": "Poți implementa o soluție pe baza unei specificații tehnice detaliate",
+      "ITEM_2_TITLE": "Cu îndrumarea potrivită poți învăța rapid lucruri noi",
+      "ITEM_2_DESCRIPTION": "Chiar dacă unele zone îți sunt necunoscute, vei putea totuși rezolva problema utilizând hint-urile cu link-uri către documentație.",
+      "ITEM_3_TITLE": "Oracle este un tool foarte avansat",
+      "ITEM_3_DESCRIPTION": "Soluția poate fi implementată integral cu Oracle (SQL si PL/SQL), inclusiv încarcare de fișiere și apeluri HTTP.",
+      "BUTTON_OPEN_FORM": "Solicită detalii test"
+    },
+    "TEST_SENIOR": {
+      "HEADING": "Oracle developer (SQL, PL/SQL Developer)",
+      "DESCRIPTION": "Test <span class=\"span-blue\">Mid-Senior</span> Level<br><span class=\"span-size-20\">Salariu 11.000 lei - 16.000 lei</span>",
+      "QUESTION": "Ce urmărim cu acest test:",
+      "ITEM_1": "Poți implementa o soluție pe baza unei specificații tehnice detaliate",
+      "ITEM_2_TITLE": "Cu îndrumarea potrivită poți învăța rapid lucruri noi",
+      "ITEM_2_DESCRIPTION": "Chiar dacă unele zone îți sunt necunoscute, vei putea totuși rezolva problema utilizând hint-urile cu link-uri către documentație.",
+      "BUTTON_OPEN_FORM": "Solicită detalii test"
     }
   },
   "en": {
@@ -894,6 +962,80 @@
       "ITEM_2": "Mobile Token",
       "ITEM_3": "3D Secure Biometric",
       "ITEM_4": "Antivirus"
+    },
+    "CAREERS_MAIN": {
+      "HEADING": "Join our team!"
+    },
+    "CAREERS_TEST": {
+      "HEADING": "See if we match",
+      "SUBHEADING": "Test our company",
+      "DESCRIPTION": "Answer 8 questions and find the work style you would like in a company",
+      "INFO": "The answers are between -2 and 2, where -2 shows that you fit more with the answer on the left, 0 neutral, and 2 that you fit more with the answer on the right.",
+      "BUTTON_OPEN_TEST": "tested us"
+    },
+    "BENEFITS": {
+      "HEADING": "Benefits",
+      "DESCRIPTION": "Colleagues appreciate the <span class=\"20px-w-500-blue\">6 hours/day program</span> the most. See all the benefits we offer, maybe you can find a better one.",
+      "BUTTON_SHOW": "All the benefits",
+      "ITEM_1": "6 hours a day, since 2015 (implemented before Sweden ;)",
+      "ITEM_2": "25 days of vacation + 1 day for every year with us",
+      "ITEM_3": "We pay for lunch so you don't have to worry about this daily expense.",
+      "ITEM_4": "1,000 eur for medical expenses. 500 eur can be used for first degree relatives.",
+      "ITEM_5": "We discount 50% of the cost of your new phone",
+      "ITEM_6": "Sailing course settled by the company",
+      "ITEM_7": "100 EUR / in guaranteed salary increase",
+      "ITEM_8": "We encourage you to save 10% of your monthly salary and reward you with half of what you save.",
+      "ITEM_9": "Medical insurance",
+      "ITEM_10": "Employee referral bonus",
+      "ITEM_11": "Hybrid schedule: weekly 3 days from anywhere, 2 days at the office",
+      "ITEM_12": "50% of the subscription from any gym",
+      "ITEM_13": "Team building and courses",
+      "BUTTON_HIDE": "Hide the benefits"
+    },
+    "PROCEDURE": {
+      "HEADING": "Procedure",
+      "DESCRIPTION": "The BluePrint (detailed specifications) and the diversity of activities provide comfort and professional development. If you are curious about our way of working, we invite you to read our articles.",
+      "BUTTON": "All articles"
+    },
+    "TEAM": {
+      "HEADING": "Team",
+      "DESCRIPTION": "According to the Gallup test, the top 5 qualities of the team are: Responsibility, Learner, Ideation, Relator and Individualization. Read our article for more details."
+    },
+    "WORK_TEAM": {
+      "HEADING": "How can we ensure that you will work in a team with high standards?",
+      "DESCRIPTION": "In order to correctly establish the level of skills, all our colleagues passed a test. It is also necessary for you to pass, we do not make exceptions."
+    },
+    "SELECTION_PROCESS": {
+      "HEADING": "The selection process",
+      "BLOCK_1_HEADING": "A developer's skills are not measured in years.",
+      "BLOCK_1_DESCRIPTION": "Two colleagues with the same number of years of seniority can have different efficiency depending on their involvement and capacity. Just as two developers who have worked in different teams can have different skills depending on the way of work that each one learned from.",
+      "BLOCK_2_HEADING": "What we CANNOT learn from a simple interview:",
+      "BLOCK_2_ITEM_1": "the level of complexity of the problems that the candidate can solve (we know very well that 2 specialists with the same number of years of experience can have different capacities)",
+      "BLOCK_2_ITEM_2": "efficient use of the programming language",
+      "BLOCK_2_ITEM_3": "organized way of writing code"
+    },
+    "SECTION_TEST_FORM": {
+      "DESCRIPTION": "For the solution, we configured a fully <span class=\"w-500\"> functional online environment</span> and we check the result by <span class=\"w-500\"> automatically running some test scenarios.</span>"
+    },
+    "TEST_JUNIOR": {
+      "HEADING": "Oracle developer (SQL, PL/SQL Developer)",
+      "DESCRIPTION": "Test <span class=\"span-blue\">Junior-Mid</span> Level<br><span class=\"span-size-20\">Salariu 6.000 lei - 10.000 lei</span>",
+      "QUESTION": "What we aim for with this test:",
+      "ITEM_1": "You can implement a solution based on a detailed technical specification",
+      "ITEM_2_TITLE": "With the right guidance you can learn new things quickly",
+      "ITEM_2_DESCRIPTION": "Even if some areas are unfamiliar to you, you will still be able to solve the problem using the hints with links to the documentation.",
+      "ITEM_3_TITLE": "Oracle is a very advanced tool",
+      "ITEM_3_DESCRIPTION": "The solution can be fully implemented with Oracle (SQL and PL/SQL), including file upload and HTTP calls.",
+      "BUTTON_OPEN_FORM": "Request test details"
+    },
+    "TEST_SENIOR": {
+      "HEADING": "Oracle developer (SQL, PL/SQL Developer)",
+      "DESCRIPTION": "Test <span class=\"span-blue\">Mid-Senior</span> Level<br><span class=\"span-size-20\">Salariu 11.000 lei - 16.000 lei</span>",
+      "QUESTION": "What we aim for with this test:",
+      "ITEM_1": "You can implement a solution based on a detailed technical specification",
+      "ITEM_2_TITLE": "With the right guidance you can learn new things quickly",
+      "ITEM_2_DESCRIPTION": "Even if some areas are unfamiliar to you, you will still be able to solve the problem using the hints with links to the documentation.",
+      "BUTTON_OPEN_FORM": "Request test details"
     }
   }
 }
