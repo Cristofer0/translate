@@ -971,7 +971,7 @@
       "SUBHEADING": "Test our company",
       "DESCRIPTION": "Answer 8 questions and find the work style you would like in a company",
       "INFO": "The answers are between -2 and 2, where -2 shows that you fit more with the answer on the left, 0 neutral, and 2 that you fit more with the answer on the right.",
-      "BUTTON_OPEN_TEST": "tested us"
+      "BUTTON_OPEN_TEST": "Tested us"
     },
     "BENEFITS": {
       "HEADING": "Benefits",
