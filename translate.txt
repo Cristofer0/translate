@@ -475,7 +475,7 @@
       "BUTTON": "Toate articolele"
     },
     "TEAM": {
-      "HEADING": "TEAM",
+      "HEADING": "Echipa",
       "DESCRIPTION": "Conform testului Gallup, top 5 calități ale echipei sunt: Responsability, Learner, Ideation, Relator si Individualization. Citeste articolul nostru pentru mai multe detalii."
     },
     "WORK_TEAM": {
@@ -524,7 +524,7 @@
       "Q3_TITLE": "3. Cum preferi să fie gestionate situațiile în care s-ar căuta vinovați?",
       "Q3_1": "Imi salvez toate discutiile si pot justifica argumentat ca vina nu este a mea.",
       "Q3_2": "Prefer un mediu în care se caută soluțiile nu vinovații.",
-      "Q4_TITLE": ">4. Îți prezentăm top 5 calitați care au rezultat din testele colegilor de pe <a href=\"https://www.viacharacter.org/character-strengths\" target=\"_blank\" class=\"link-5\">https://www.viacharacter.org/character-strengths</a>: Honesty, Fairness, Love, Forgiveness, Judgment. Ce parere ai despre o astfel de echipă?",
+      "Q4_TITLE": "4. Îți prezentăm top 5 calitați care au rezultat din testele colegilor de pe <a href=\"https://www.viacharacter.org/character-strengths\" target=\"_blank\" class=\"link-5\">https://www.viacharacter.org/character-strengths</a>: Honesty, Fairness, Love, Forgiveness, Judgment. Ce parere ai despre o astfel de echipă?",
       "Q4_1": "Aș prefera o echipă mai provocatoare în care să-mi cizelez calitățile de prădător.",
       "Q4_2": "E perfect pentru mine.",
       "Q5_TITLE": "5. Ce parere ai despre un mediu de lucru cu multi-tasking, când cerințele și prioritățile se tot schimbă pe parcurs?",
