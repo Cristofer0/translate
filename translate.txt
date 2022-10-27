@@ -513,6 +513,42 @@
       "ITEM_2_TITLE": "Gestiune paralelism.",
       "ITEM_2_DESCRIPTION": "Testele urmăresc și funcționarea proceselor concurente.",
       "BUTTON_OPEN_FORM": "Solicită detalii test"
+    },
+    "QUESTIONNAIRE": {
+      "Q1_TITLE": "1. Cât de importantă consideri documentația tehnică într-un proiect?",
+      "Q1_1": "Prefer abordarea Agile - cât mai puțină documentatie, preferabil deloc.",
+      "Q1_2": "Mi-ar plăcea să lucrez cu documentație tehnică - cred că este important pasul de schițare a implementării înainte de a scrie cod.",
+      "Q2_TITLE": "2. Tehnici de lucru, precum Code Style Guide, Code Review, Checklist îmbunătățesc procesul de dezvoltare sau mai degraba îl îngreunează?",
+      "Q2_1": "Imi place să am libertate în metodologia de lucru, fara constrangeri. In final rezultatul e cel care contează.",
+      "Q2_2": "Prefer modul de lucru organizat în care echipa respectă metodologiile agreate. Calitatea rezultatului depinde de calitatea tehnicilor de lucru iar acestea depind de contribuția fiecăruia.",
+      "Q3_TITLE": "3. Cum preferi să fie gestionate situațiile în care s-ar căuta vinovați?",
+      "Q3_1": "Imi salvez toate discutiile si pot justifica argumentat ca vina nu este a mea.",
+      "Q3_2": "Prefer un mediu în care se caută soluțiile nu vinovații.",
+      "Q4_TITLE": ">4. Îți prezentăm top 5 calitați care au rezultat din testele colegilor de pe <a href=\"https://www.viacharacter.org/character-strengths\" target=\"_blank\" class=\"link-5\">https://www.viacharacter.org/character-strengths</a>: Honesty, Fairness, Love, Forgiveness, Judgment. Ce parere ai despre o astfel de echipă?",
+      "Q4_1": "Aș prefera o echipă mai provocatoare în care să-mi cizelez calitățile de prădător.",
+      "Q4_2": "E perfect pentru mine.",
+      "Q5_TITLE": "5. Ce parere ai despre un mediu de lucru cu multi-tasking, când cerințele și prioritățile se tot schimbă pe parcurs?",
+      "Q5_1": "Asta e realitatea, cred ca lucrul in paralel la mai multe taskuri e singura solutie de a-ti atinge obiectivele.",
+      "Q5_2": "Prefer să mă pot concentra pe un singur task și să-l termin înainte să trec la urmatorul.",
+      "Q6_TITLE": "6. Cum ți-ar plăcea să fie procesul de integrare într-o nouă echipă?",
+      "Q6_1": "Prefer sa preiau takuri imediat si sa ma prind pe parcurs.",
+      "Q6_2": "Prefer să am timp să studiez documentația proiectului și procedurile de lucru înainte de a incepe.",
+      "Q7_TITLE": "7. Cât de bine ar trebui să testăm candidații în procesul de angajare?",
+      "Q7_1": "O discuție ar fi suficientă. Un specialist experimentat se poate identifica imediat.",
+      "Q7_2": "Testarea ar trebui sa fie cât mai riguroasă - mi-ar plăcea să știu că și viitorii colegi au experiența necesară și că nu va trebui să compensez neajunsurile lor.",
+      "Q8_TITLE": "8. Dacă ți-am oferi mai mult timp liber - preferi să-l folosesti pentru activități personale zilnice sau pentru vacanțe?",
+      "Q8_1": "Mi-ar plăcea să am un program mai scurt.",
+      "Q8_2": "Aș prefera să am mai multe zile de concediu.",
+      "BUTTON": "Vezi rezultatul"
+    },
+    "RESULT": {
+      "HEADING": "Rezultat",
+      "DESCRIPTION": "<span class=\"w-700-blue\">Apropo!</span> Ultima intrebare, despre timpul liber, nu face parte din test - e doar o ocazie sa-ti spunem ca avem program de 6 ore si 25 de zile de concediu +1 zi pentru fiecare an alaturi de echipa noastra ;)",
+      "BAD": "<span class=\"text-span-8\">-16 ... -8</span>Pentru o fire spontană ca tine credem că ai avea șanse mari de succes să lansezi un startup! Probabil la noi în echipă te-ai potrivi mai puțin pentru că încercăm să fim mai disciplinați și să respectăm metodologiile pe care tot noi ni le definim.",
+      "FAIR": "<span class=\"text-span-8\">-7 ... 0</span>Ai calitățile necesare pentru a lucra într-un mediu cu multă incertitudine. Probabil te-ai descurca să ai multe task-uri urgente care-și tot schimba prioritatea. E posibil să te plictisești în echipa noastră pentru că urmărim să lucrăm pe baza unei planificări.",
+      "GOOD": "<span class=\"text-span-8\">1 ... 7</span>Îți dorești să fii organizat și să aduci mai multă structură în activitatea ta. Poate mediul actual nu-ți permite să-ți atingi potențialul în acest sens.Vei fi cel mai câștigat în echipa noastră pentru că ai avea oportunitatea să-ți dezvolți aceste calități.",
+      "EXCELLENT": "<span class=\"text-span-8\">8 ... 16</span>Se pare că suntem perfect match pentru tine! Hai să ne cunoaștem! Dacă ți se potrivește echipa noastră și modul de lucru, vezi job-urile disponibile.",
+      "BUTTON": "Posturi vacante"
     }
   },
   "en": {
@@ -1030,6 +1066,42 @@
       "ITEM_2_TITLE": "Parallelism management.",
       "ITEM_2_DESCRIPTION": "Tests also monitor the operation of concurrent processes.",
       "BUTTON_OPEN_FORM": "Request test details"
+    },
+    "QUESTIONNAIRE": {
+      "Q1_TITLE": "1. How important do you consider technical documentation in a project?",
+      "Q1_1": "I prefer the Agile approach - as little documentation as possible, preferably none.",
+      "Q1_2": "I would like to work with technical documentation - I think the step of sketching out the implementation before writing code is important.",
+      "Q2_TITLE": "2. Do work techniques such as Code Style Guide, Code Review, Checklist improve the development process or rather make it more difficult?",
+      "Q2_1": "I like to have freedom in my work methodology, without constraints. In the end, the result is what matters.",
+      "Q2_2": "I prefer the organized way of working where the team respects the agreed methodologies. The quality of the result depends on the quality of the work techniques and they depend on the contribution of each one.",
+      "Q3_TITLE": "3. How would you prefer to handle situations in which the culprits would be sought?",
+      "Q3_1": "I save all my discussions and can justify with arguments that the fault is not mine.",
+      "Q3_2": "I prefer an environment where solutions are sought, not the culprits.",
+      "Q4_TITLE": ">4. Here are the top 5 qualities that emerged from peer-reviewed <a href=\"https://www.viacharacter.org/character-strengths\" target=\"_blank\" class=\"link-5\">https:/ /www.viacharacter.org/character-strengths</a>: Honesty, Fairness, Love, Forgiveness, Judgment. What do you think about such a team?",
+      "Q4_1": "I would prefer a more challenging team where I can hone my predatory qualities.",
+      "Q4_2": "It's perfect for me.",
+      "Q5_TITLE": "5. How do you feel about a multi-tasking work environment, when demands and priorities keep changing along the way?",
+      "Q5_1": "This is the reality, I think that working in parallel on several tasks is the only solution to reach your goals.",
+      "Q5_2": "I prefer to be able to focus on one task and finish it before moving on to the next.",
+      "Q6_TITLE": "6. How would you like the integration process to be in a new team?",
+      "Q6_1": "I prefer to take the cues immediately and catch myself along the way.",
+      "Q6_2": "I prefer to have time to study the project documentation and work procedures before starting.",
+      "Q7_TITLE": "7. How well should we test candidates in the hiring process?",
+      "Q7_1": "A discussion would be enough. An experienced specialist can identify himself immediately.",
+      "Q7_2": "Testing should be as rigorous as possible - I would like to know that future colleagues also have the necessary experience and that I will not have to compensate for their shortcomings.",
+      "Q8_TITLE": "8. If we gave you more free time - would you prefer to use it for personal daily activities or for vacations?",
+      "Q8_1": "I would like to have a shorter schedule.",
+      "Q8_2": "I would prefer to have more vacation days.",
+      "BUTTON": "See the result"
+    },
+    "RESULT": {
+      "HEADING": "Rezultat",
+      "DESCRIPTION": "<span class=\"w-700-blue\">By the way!</span> The last question, about free time, is not part of the test - it's just an opportunity to tell you that we have a schedule of 6 hours and 25 days of leave +1 day for each year with our team; )",
+      "BAD": "<span class=\"text-span-8\">-16 ... -8</span>For a spontaneous nature like you, we think you would have a great chance of success launching a startup! You would probably fit less in our team because we try to be more disciplined and respect the methodologies that we also define for ourselves.",
+      "FAIR": "<span class=\"text-span-8\">-7 ... 0</span>You have the necessary qualities to work in an environment with a lot of uncertainty. You could probably handle having many urgent tasks that keep changing their priority. It is possible to get bored in our team because we aim to work according to a plan.",
+      "GOOD": "<span class=\"text-span-8\">1 ... 7</span>You want to be organized and bring more structure to your work. Perhaps the current environment does not allow you to reach your potential in this sense. You will be the most profitable in our team because you would have the opportunity to develop these qualities.",
+      "EXCELLENT": "<span class=\"text-span-8\">8 ... 16</span>Looks like we're the perfect match for you! Let's get to know each other! If you like our team and way of working, see the available jobs.",
+      "BUTTON": "Vacancies"
     }
   }
 }
