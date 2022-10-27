@@ -509,9 +509,9 @@
       "HEADING": "Oracle developer (SQL, PL/SQL Developer)",
       "DESCRIPTION": "Test <span class=\"span-blue\">Mid-Senior</span> Level<br><span class=\"span-size-20\">Salariu 11.000 lei - 16.000 lei</span>",
       "QUESTION": "Ce urmărim cu acest test:",
-      "ITEM_1": "Poți implementa o soluție pe baza unei specificații tehnice detaliate",
-      "ITEM_2_TITLE": "Cu îndrumarea potrivită poți învăța rapid lucruri noi",
-      "ITEM_2_DESCRIPTION": "Chiar dacă unele zone îți sunt necunoscute, vei putea totuși rezolva problema utilizând hint-urile cu link-uri către documentație.",
+      "ITEM_1": "Implementarea unei soluții complete - modelul de date, fluxurile etc.",
+      "ITEM_2_TITLE": "Gestiune paralelism.",
+      "ITEM_2_DESCRIPTION": "Testele urmăresc și funcționarea proceselor concurente.",
       "BUTTON_OPEN_FORM": "Solicită detalii test"
     }
   },
@@ -583,12 +583,6 @@
     "PRODUCT_MAIN": {
       "HEADING": "Our products and services",
       "SUBHEADING": "We deal with UX through methods such as user testing and customer journey, so that you can focus on financial products."
-    },
-    "CAREERS_MAIN": {
-      "HEADING": "Come to us as a team!",
-      "SUBHEADING": "The team was built with members elected by spanceana, who have common values, they like challenges, but they also know how to have fun.",
-      "SEE_BELOW": "See below if you like what we offer and if you fit in with us!",
-      "BUTTON": "Job Vacancies"
     },
     "VALUES_SECTION": {
       "HEADING": "The company's values are reflected in employee benefits"
@@ -1032,9 +1026,9 @@
       "HEADING": "Oracle developer (SQL, PL/SQL Developer)",
       "DESCRIPTION": "Test <span class=\"span-blue\">Mid-Senior</span> Level<br><span class=\"span-size-20\">Salariu 11.000 lei - 16.000 lei</span>",
       "QUESTION": "What we aim for with this test:",
-      "ITEM_1": "You can implement a solution based on a detailed technical specification",
-      "ITEM_2_TITLE": "With the right guidance you can learn new things quickly",
-      "ITEM_2_DESCRIPTION": "Even if some areas are unfamiliar to you, you will still be able to solve the problem using the hints with links to the documentation.",
+      "ITEM_1": "Implementation of a complete solution - data model, flows, etc.",
+      "ITEM_2_TITLE": "Parallelism management.",
+      "ITEM_2_DESCRIPTION": "Tests also monitor the operation of concurrent processes.",
       "BUTTON_OPEN_FORM": "Request test details"
     }
   }
