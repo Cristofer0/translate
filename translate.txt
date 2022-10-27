@@ -544,10 +544,10 @@
     "RESULT": {
       "HEADING": "Rezultat",
       "DESCRIPTION": "<span class=\"w-700-blue\">Apropo!</span> Ultima intrebare, despre timpul liber, nu face parte din test - e doar o ocazie sa-ti spunem ca avem program de 6 ore si 25 de zile de concediu +1 zi pentru fiecare an alaturi de echipa noastra ;)",
-      "BAD": "<span class=\"text-span-8\">-16 ... -8</span>Pentru o fire spontană ca tine credem că ai avea șanse mari de succes să lansezi un startup! Probabil la noi în echipă te-ai potrivi mai puțin pentru că încercăm să fim mai disciplinați și să respectăm metodologiile pe care tot noi ni le definim.",
-      "FAIR": "<span class=\"text-span-8\">-7 ... 0</span>Ai calitățile necesare pentru a lucra într-un mediu cu multă incertitudine. Probabil te-ai descurca să ai multe task-uri urgente care-și tot schimba prioritatea. E posibil să te plictisești în echipa noastră pentru că urmărim să lucrăm pe baza unei planificări.",
-      "GOOD": "<span class=\"text-span-8\">1 ... 7</span>Îți dorești să fii organizat și să aduci mai multă structură în activitatea ta. Poate mediul actual nu-ți permite să-ți atingi potențialul în acest sens.Vei fi cel mai câștigat în echipa noastră pentru că ai avea oportunitatea să-ți dezvolți aceste calități.",
-      "EXCELLENT": "<span class=\"text-span-8\">8 ... 16</span>Se pare că suntem perfect match pentru tine! Hai să ne cunoaștem! Dacă ți se potrivește echipa noastră și modul de lucru, vezi job-urile disponibile.",
+      "BAD": "<span class=\"text-span-8\">0 ... 10</span>Pentru o fire spontană ca tine credem că ai avea șanse mari de succes să lansezi un startup! Probabil la noi în echipă te-ai potrivi mai puțin pentru că încercăm să fim mai disciplinați și să respectăm metodologiile pe care tot noi ni le definim.",
+      "FAIR": "<span class=\"text-span-8\">11 ... 20</span>Ai calitățile necesare pentru a lucra într-un mediu cu multă incertitudine. Probabil te-ai descurca să ai multe task-uri urgente care-și tot schimba prioritatea. E posibil să te plictisești în echipa noastră pentru că urmărim să lucrăm pe baza unei planificări.",
+      "GOOD": "<span class=\"text-span-8\">21 ... 30</span>Îți dorești să fii organizat și să aduci mai multă structură în activitatea ta. Poate mediul actual nu-ți permite să-ți atingi potențialul în acest sens.Vei fi cel mai câștigat în echipa noastră pentru că ai avea oportunitatea să-ți dezvolți aceste calități.",
+      "EXCELLENT": "<span class=\"text-span-8\">31 ... 40</span>Se pare că suntem perfect match pentru tine! Hai să ne cunoaștem! Dacă ți se potrivește echipa noastră și modul de lucru, vezi job-urile disponibile.",
       "BUTTON": "Posturi vacante"
     }
   },
@@ -1097,10 +1097,10 @@
     "RESULT": {
       "HEADING": "Rezultat",
       "DESCRIPTION": "<span class=\"w-700-blue\">By the way!</span> The last question, about free time, is not part of the test - it's just an opportunity to tell you that we have a schedule of 6 hours and 25 days of leave +1 day for each year with our team; )",
-      "BAD": "<span class=\"text-span-8\">-16 ... -8</span>For a spontaneous nature like you, we think you would have a great chance of success launching a startup! You would probably fit less in our team because we try to be more disciplined and respect the methodologies that we also define for ourselves.",
-      "FAIR": "<span class=\"text-span-8\">-7 ... 0</span>You have the necessary qualities to work in an environment with a lot of uncertainty. You could probably handle having many urgent tasks that keep changing their priority. It is possible to get bored in our team because we aim to work according to a plan.",
-      "GOOD": "<span class=\"text-span-8\">1 ... 7</span>You want to be organized and bring more structure to your work. Perhaps the current environment does not allow you to reach your potential in this sense. You will be the most profitable in our team because you would have the opportunity to develop these qualities.",
-      "EXCELLENT": "<span class=\"text-span-8\">8 ... 16</span>Looks like we're the perfect match for you! Let's get to know each other! If you like our team and way of working, see the available jobs.",
+      "BAD": "<span class=\"text-span-8\">0 ... 10</span>For a spontaneous nature like you, we think you would have a great chance of success launching a startup! You would probably fit less in our team because we try to be more disciplined and respect the methodologies that we also define for ourselves.",
+      "FAIR": "<span class=\"text-span-8\">11 ... 20</span>You have the necessary qualities to work in an environment with a lot of uncertainty. You could probably handle having many urgent tasks that keep changing their priority. It is possible to get bored in our team because we aim to work according to a plan.",
+      "GOOD": "<span class=\"text-span-8\">21 ... 30</span>You want to be organized and bring more structure to your work. Perhaps the current environment does not allow you to reach your potential in this sense. You will be the most profitable in our team because you would have the opportunity to develop these qualities.",
+      "EXCELLENT": "<span class=\"text-span-8\">31 ... 40</span>Looks like we're the perfect match for you! Let's get to know each other! If you like our team and way of working, see the available jobs.",
       "BUTTON": "Vacancies"
     }
   }
