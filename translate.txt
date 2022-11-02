@@ -89,7 +89,7 @@
     },
     "BEST_SOLUTION" : {
       "NAME": "Best solutions",
-      "HEADING":  "Oferim cele mai potrivite solutii clientilor nostrii",
+      "HEADING":  "Oferim cele mai potrivite solutii clientilor nostri",
       "DESCRIPTION": "Suntem atenti la bugetul clientilor, de asta avem grija sa prosperi si tu si iti oferim un program de economisire:",
       "ITEM_1": "Economisesti lunar 10% din salariu. La finalul unui an compania iti da,pe langa suma economisita de tine, un <span class=\"text-out\">bonus de 50%.</span>",
       "ITEM_2": "In cazul in care iti cumperi casa, rata pe care o platesti lunar este considerata parte a programului de economisire. Conditia este safolosesti suma pe care o primesti inapoi pentru a face o rambursare anticipata la credit."
@@ -97,7 +97,7 @@
     "BEST_TECHNOLOGIES" : {
       "NAME": "Best technologies",
       "HEADING":  "Tinem pasul cu cele mai noi tehnologii",
-      "DESCRIPTION": "Folosim cele mai noi tehnologii pentru ca partenerii nostrii tin la securitatea clientilor lor:",
+      "DESCRIPTION": "Folosim cele mai noi tehnologii pentru ca partenerii nostri tin la securitatea clientilor lor:",
       "ITEM_1": "Compania iti achizitioneaza telefonul dorit, pentru care tu vei plati doar 50% din valoarea lui."
     },
     "SECTION_OFFICE": {
@@ -480,7 +480,7 @@
     },
     "WORK_TEAM": {
       "HEADING": "Cum te putem asigura ca vei lucra intr-o echipa cu standarde ridicate?",
-      "DESCRIPTION": "Pentru a stabili in mod corect nivelul aptitudinilor, toti colegii nostrii au trecut printr-un test. La fel este necesar sa treci si tu, nu facem exceptii."
+      "DESCRIPTION": "Pentru a stabili in mod corect nivelul aptitudinilor, toti colegii nostri au trecut printr-un test. La fel este necesar sa treci si tu, nu facem exceptii."
     },
     "SELECTION_PROCESS": {
       "HEADING": "Procesul de selecție",
