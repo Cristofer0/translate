@@ -503,7 +503,8 @@
       "ITEM_2_DESCRIPTION": "Chiar dacă unele zone îți sunt necunoscute, vei putea totuși rezolva problema utilizând hint-urile cu link-uri către documentație.",
       "ITEM_3_TITLE": "Oracle este un tool foarte avansat",
       "ITEM_3_DESCRIPTION": "Soluția poate fi implementată integral cu Oracle (SQL si PL/SQL), inclusiv încarcare de fișiere și apeluri HTTP.",
-      "BUTTON_OPEN_FORM": "Solicită detalii test"
+      "BUTTON_OPEN_FORM": "Aplica",
+      "BUTTON_OPEN_PDF": "Vezi detalii test"
     },
     "TEST_SENIOR": {
       "HEADING": "Oracle developer (SQL, PL/SQL Developer)",
@@ -512,7 +513,8 @@
       "ITEM_1": "Implementarea unei soluții complete - modelul de date, fluxurile etc.",
       "ITEM_2_TITLE": "Gestiune paralelism.",
       "ITEM_2_DESCRIPTION": "Testele urmăresc și funcționarea proceselor concurente.",
-      "BUTTON_OPEN_FORM": "Solicită detalii test"
+      "BUTTON_OPEN_FORM": "Aplica",
+      "BUTTON_OPEN_PDF": "Vezi detalii test"
     },
     "QUESTIONNAIRE": {
       "Q1_TITLE": "1. Cât de importantă consideri documentația tehnică într-un proiect?",
@@ -1056,7 +1058,8 @@
       "ITEM_2_DESCRIPTION": "Even if some areas are unfamiliar to you, you will still be able to solve the problem using the hints with links to the documentation.",
       "ITEM_3_TITLE": "Oracle is a very advanced tool",
       "ITEM_3_DESCRIPTION": "The solution can be fully implemented with Oracle (SQL and PL/SQL), including file upload and HTTP calls.",
-      "BUTTON_OPEN_FORM": "Request test details"
+      "BUTTON_OPEN_FORM": "Apply",
+      "BUTTON_OPEN_PDF": "See test details"
     },
     "TEST_SENIOR": {
       "HEADING": "Oracle developer (SQL, PL/SQL Developer)",
@@ -1065,7 +1068,8 @@
       "ITEM_1": "Implementation of a complete solution - data model, flows, etc.",
       "ITEM_2_TITLE": "Parallelism management.",
       "ITEM_2_DESCRIPTION": "Tests also monitor the operation of concurrent processes.",
-      "BUTTON_OPEN_FORM": "Request test details"
+      "BUTTON_OPEN_FORM": "Apply",
+      "BUTTON_OPEN_PDF": "See test details"
     },
     "QUESTIONNAIRE": {
       "Q1_TITLE": "1. How important do you consider technical documentation in a project?",
