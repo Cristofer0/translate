@@ -9,12 +9,10 @@
       "BLOG": "Way of working"
     },
     "HOME_MAIN": {
-      "TITLE_HERO_PRIMARY": "#1 in Romania",
-      "SUBTITLE_HERO_PRIMARY": "Avem cele mai multe implementări de Internet și Mobile Banking din Romania. ",
-      "BUTTON_HERO_PRIMARY": "Vezi produsele noastre",
-      "TITLE_HERO_SECONDARY": "Online Banking este cu adevărat 24/7 ?",
-      "SUBTITLE_HERO_SECONDARY": "Solutia noastră True Balance permite clienților să primească bani chiar si in timpul închiderii de zi (EOD).",
-      "BUTTON_HERO_SECONDARY": "Citeste mai multe"
+      "TITLE_HERO_PRIMARY": "Online Banking și nu numai",
+      "SUBTITLE_HERO_PRIMARY": "Avem cele mai multe implementări de Internet și Mobile Banking din Romania.  Dezvoltam si aplicatii care imbunatatesc viata financiara a utilizatorilor. Vezi prezentarea aplicatiei noastre.",
+      "BUTTON_HERO_PRIMARY": "Produsele noastre",
+      "BUTTON_HERO_SECONDARY": "Prezentare Dneros"
     },
     "SECTION_TIME_LINE": {
       "BUTTON_SECTION_DESCRIPTION": "Putem dezvolta si alte proiecte",
@@ -563,12 +561,10 @@
       "BLOG": "Way of working"
     },
     "HOME_MAIN": {
-      "TITLE_HERO_PRIMARY": "#1 in Romania",
-      "SUBTITLE_HERO_PRIMARY": "We have the most implementations of Internet and Mobile Banking in Romania.",
-      "BUTTON_HERO_PRIMARY": "View our products",
-      "TITLE_HERO_SECONDARY": "Is Online Banking Really 24/7?",
-      "SUBTITLE_HERO_SECONDARY": "Our True Balance solution allows customers to receive money even during daytime closing (EOD).",
-      "BUTTON_HERO_SECONDARY": "Read more"
+      "TITLE_HERO_PRIMARY": "Online Banking and beyond",
+      "SUBTITLE_HERO_PRIMARY": "We have the most implementations of Internet and Mobile Banking in Romania. We also develop applications that improve the financial life of users. See the presentation of our application.",
+      "BUTTON_HERO_PRIMARY": "Our products",
+      "BUTTON_HERO_SECONDARY": "Presentation Dneros"
     },
     "SECTION_TIME_LINE": {
       "BUTTON_SECTION_DESCRIPTION": "We can develop other projects",
@@ -1099,7 +1095,7 @@
       "BUTTON": "See the result"
     },
     "RESULT": {
-      "HEADING": "Rezultat",
+      "HEADING": "Result",
       "DESCRIPTION": "<span class=\"w-700-blue\">By the way!</span> The last question, about free time, is not part of the test - it's just an opportunity to tell you that we have a schedule of 6 hours and 25 days of leave +1 day for each year with our team; )",
       "BAD": "<span class=\"text-span-8\">0 ... 10</span>For a spontaneous nature like you, we think you would have a great chance of success launching a startup! You would probably fit less in our team because we try to be more disciplined and respect the methodologies that we also define for ourselves.",
       "FAIR": "<span class=\"text-span-8\">11 ... 20</span>You have the necessary qualities to work in an environment with a lot of uncertainty. You could probably handle having many urgent tasks that keep changing their priority. It is possible to get bored in our team because we aim to work according to a plan.",
