@@ -1,7 +1,7 @@
 {
   "ro": {
     "NAV_MENU": {
-      "PRODUCT": "Produse",
+      "PRODUCT": "Online banking",
       "CONTACT": "Contact",
       "CAREER": "Angajam!",
       "LANGUAGE": "Select",
@@ -553,7 +553,7 @@
   },
   "en": {
     "NAV_MENU": {
-      "PRODUCT": "Products",
+      "PRODUCT": "Online banking",
       "CONTACT": "Contact",
       "CAREER": "We're hiring!",
       "LANGUAGE": "Select language",
