@@ -211,7 +211,8 @@
     },
     "BANNER_CLUB": {
       "TITLE": "Intra in clubul bancilor care ofera plati instante.",
-      "DESCRIPTION": "Cu modulul 24/7 ai acces la platile de pe platforma Transfond Instant. Astfel, clientii tai pot procesa plati instant atat intrabancare cat si interbancare, indiferent de disponibilitatea sistemului core-banking."
+      "DESCRIPTION": "Cu modulul 24/7 ai acces la platile de pe platforma Transfond Instant. Astfel, clientii tai pot procesa plati instant atat intrabancare cat si interbancare, indiferent de disponibilitatea sistemului core-banking.",
+      "BUTTON": "Contacteaza-ne"
     },
     "STARTECH": {
       "TITLE": "Dezvoltam software pentru startup-uri",
@@ -765,6 +766,7 @@
     "BANNER_CLUB": {
       "TITLE": "Join the club of banks that offer court payments.",
       "DESCRIPTION": "With the 24/7 module you have access to payments on the Transfond Instant platform. Thus, your customers can process instant payments both intrabank and interbank, regardless of the availability of the core-banking system."
+      "BUTTON": "Contact us"
     },
     "STARTECH": {
       "TITLE": "We are developing software for startups",
