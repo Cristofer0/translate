@@ -766,7 +766,7 @@
     },
     "BANNER_CLUB": {
       "TITLE": "Join the club of banks that offer court payments.",
-      "DESCRIPTION": "With the 24/7 module you have access to payments on the Transfond Instant platform. Thus, your customers can process instant payments both intrabank and interbank, regardless of the availability of the core-banking system."
+      "DESCRIPTION": "With the 24/7 module you have access to payments on the Transfond Instant platform. Thus, your customers can process instant payments both intrabank and interbank, regardless of the availability of the core-banking system.",
       "BUTTON": "Contact us"
     },
     "STARTECH": {
