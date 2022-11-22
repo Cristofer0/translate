@@ -440,7 +440,8 @@
       "ITEM_4": "Antivirus"
     },
     "CAREERS_MAIN": {
-      "HEADING": "Hai la noi in echipa!"
+      "HEADING": "Vino într-un mediu creat de programatori pentru programatori!",
+      "SUBHEADING": "Suntem o companie care dezvolta sisteme Online Banking si un start-up al nostru. Am adoptat un mod de lucru organizat care sa ne permita sa avem un program de 6h/zi inca din 2014. O prioritate pentru noi este si dezvoltarea colegilor pe plan profesional, de aceea am infiintat Getik Academy in care impartasim experienta noastra."
     },
     "CAREERS_TEST": {
       "HEADING": "Vezi daca ne potrivim",
@@ -994,7 +995,8 @@
       "ITEM_4": "Antivirus"
     },
     "CAREERS_MAIN": {
-      "HEADING": "Join our team!"
+      "HEADING": "Come to an environment created by programmers for programmers!",
+      "SUBHEADING": "We are a company that develops Online Banking systems and a start-up of our own. We have adopted an organized way of working that allows us to have a 6h/day program since 2014. A priority for us is the professional development of our colleagues, that is why we founded the Getik Academy where we share our experience."
     },
     "CAREERS_TEST": {
       "HEADING": "See if we match",
