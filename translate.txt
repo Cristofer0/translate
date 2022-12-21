@@ -428,7 +428,7 @@
     },
     "SECTION_TIME": {
       "HEADING": "360 Onboarding - achizitie client in 20min",
-      "CONTENT_BLOCK": "Imagineaza-ti un non-client devine client prin modulul Onboarding, isi deschide conturi si cu modului Digital Cards isi generaza un card pe care poate sa-l asocieze in Apple Pay sau Google Pay, cu modulul Top-up isi transfera bani in contul de la banca ta si poate sa faca plati. Avem toate modulele pentru a oferi aceasta experienta clientului tau.",
+      "CONTENT_BLOCK": "Imagineaza-ti un non-client devine client prin modulul Onboarding, isi deschide conturi si cu modului Digital Cards isi generaza un card pe care poate sa-l asocieze in Apple Pay sau Google Pay, cu modulul Top-up isi transfera bani in contul de la banca ta si poate sa faca plati.",
       "BANNER_BLOCK": "Avem toate modulele pentru a oferi aceasta experienta clientului tau."
     },
     "SECTION_ALL_IN_ONE": {
